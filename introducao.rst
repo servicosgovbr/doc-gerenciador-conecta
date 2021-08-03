@@ -1,7 +1,28 @@
 ﻿Introdução
 ============
 
-Este documento é o elemento para orientar a integração da Documentação do Gerenciador de APIs do Conecta a qualquer ambiente. A partir de agora, será feita uma revisão sobre a arquitetura de serviço e alguns conceitos utilizados pela Plataforma, além de uma explicação sobre procedimentos administrativos essenciais para autorizar o acesso à Plataforma.
+Solução de gerenciamento para facilitar a disponibilização e o consumo de APIs e promover a interoperabilidade de dados entre Órgãos Públicos Federais.
 
-Este documento contém as formas de chamadas a operações, parâmetros e métodos de integração, e, por último, os procedimentos para permitir a conectividade entre os ambientes de implantação.
+A ideia do Gerenciador de APIs é facilitar a interoperabilidade de dados para os órgãos Provedores de Dados e o consumo das APIs para os órgãos Recebedores de Dados por meio de várias funcionalidades como a gestão do acesso às APIs, a proteção da infraestrutura, o controle de consumo e disponibilização de um ponto único de acesso à APIs.
 
+Gerenciador de APIs do Conecta
+-------------------------------
+.. image:: _imagens/arquitetura_conecta.png
+   :scale: 75 %
+   :align: center
+   :alt: Figura da Arquitetura do Conecta.
+
+O que você tem interesse no Conecta?
+************************************
+
+  Quero receber Dados de outros órgãos (Acesse o Passo a Passo do Recebedor de Dados)
+.. toctree::
+   :maxdepth: 3
+   :caption: Acesse o Passo a Passo do Recebedor de Dados
+   recebedordados
+
+  Quero disponibilizar Dados para outros órgãos (Acesse o Passo a Passo do Provedor de Dados)
+.. toctree::
+  :maxdepth: 3
+  :caption: Acesse o Passo a Passo do Provedor de Dados
+  provedordedados

@@ -3,7 +3,7 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Roteiro de Integração do Gerenciador de APIs do Conecta
+   Gerenciador de APIs do Conecta
 ===================================================================
 
 .. toctree::
@@ -23,3 +23,10 @@ Roteiro de Integração do Gerenciador de APIs do Conecta
    iniciarintegracao
    exemplointegracao
    execucaoexemplo
+
+.. toctree::
+   :maxdepth: 3
+   :caption: Passo a Passo (Provedor e Recebedor)
+
+   provedordedados
+   recebedordados
