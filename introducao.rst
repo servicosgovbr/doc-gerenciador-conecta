@@ -30,14 +30,18 @@ Gerenciador de APIs do Conecta
 O que você tem interesse no Conecta?
 ************************************
 
-  Quero receber Dados de outros órgãos (Acesse o Passo a Passo do Recebedor de Dados)
+Quero receber Dados de outros órgãos (Acesse o Passo a Passo do Recebedor de Dados)
+----------------------------------------------------------------------------------------
 .. toctree::
    :maxdepth: 3
    :caption: Acesse o Passo a Passo do Recebedor de Dados
+
    recebedordados
 
-  Quero disponibilizar Dados para outros órgãos (Acesse o Passo a Passo do Provedor de Dados)
+Quero disponibilizar Dados para outros órgãos (Acesse o Passo a Passo do Provedor de Dados)
+-------------------------------------------------------------------------------------------
 .. toctree::
   :maxdepth: 3
   :caption: Acesse o Passo a Passo do Provedor de Dados
+
   provedordedados
