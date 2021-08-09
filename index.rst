@@ -5,28 +5,21 @@
 
    Gerenciador de APIs do Conecta
 ===================================================================
-
 .. toctree::
    :maxdepth: 3
    :caption: Legislação e Conceitos
 
    contexto
    introducao
-
-   escopoatributos
-   catalogoconfiabilidades
-   
 .. toctree::
    :maxdepth: 3
-   :caption: Informações Técnicas para Integração
-
-   iniciarintegracao
-   exemplointegracao
-   execucaoexemplo
-
-.. toctree::
-   :maxdepth: 3
-   :caption: Passo a Passo (Provedor e Recebedor)
+   :caption: Passo a Passo (Recebedor)
 
    provedordedados
+   recebedordados
+
+   .. toctree::
+   :maxdepth: 3
+   :caption: Passo a Passo (Recebedor)
+
    recebedordados

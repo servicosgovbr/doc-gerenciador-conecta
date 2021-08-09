@@ -10,7 +10,7 @@ O Conecta é ideal para divulgar, documentar e gerenciar a disponibilização de
 
 
 1. Pré-requisitos Técnicos para disponibilizar minha API na Plataforma
-----------------------------------
+-------------------------------------------------------------------------
   1. Deve estar disponível na internet através do protocolo https;
   2. Deve ser disponibilizada a documentação do serviço, preferencialmente no formato OpenAPI (ver Referências para Documentação de APIs);
   3. Deve ser disponibilizado ambiente de teste/homologação (não produtivo) para que seja possível testar a integração;
@@ -24,14 +24,14 @@ O Conecta é ideal para divulgar, documentar e gerenciar a disponibilização de
 2. Como documentar minha API (Referências)
    
   * `Guia Básico de Documentação de APIs`_.
-  * `Exemplo`_.
+  * `Exemplo Acesse`_.
   * `Documenting APIs: A guide for technical writers and engineers`_.
-  
-  .. _`Guia Básico de Documentação de APIs`: https://stoplight.io/api-documentation-guide/basics/
-  .._`Exemplo`: https://gist.github.com/iros/3426278
-  .._`Documenting APIs: A guide for technical writers and engineers`: https://idratherbewriting.com/learnapidoc/
 
-3. Como Gerenciar o acesso às minhas APIs.
+.. _Guia Básico de Documentação de APIs: https://stoplight.io/api-documentation-guide/basics/
+.. _Exemplo Acesse: https://gist.github.com/iros/3426278
+.. _Documenting APIs: A guide for technical writers and engineers: https://idratherbewriting.com/learnapidoc/
+
+1. Como Gerenciar o acesso às minhas APIs.
 
 Para gerenciar o acesso a suas APIs, o órgão provedor de dados indicará um integrante, que será cadastrado pela equipe interna no perfil Gestor de APIs.
 Para disponibilizar suas APIs, o Gestor de APIs deve:
@@ -256,7 +256,5 @@ Nesta tela, o Gestor do Órgão deve
 
 
 
-
-     
 
 
