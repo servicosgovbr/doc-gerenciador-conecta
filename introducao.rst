@@ -36,7 +36,7 @@ Quero receber Dados de outros órgãos (Acesse o Passo a Passo do Recebedor de D
    :maxdepth: 3
    :caption: Acesse o Passo a Passo do Recebedor de Dados
 
-   recebedordados
+   recebedordados.rst
 
 Quero disponibilizar Dados para outros órgãos (Acesse o Passo a Passo do Provedor de Dados)
 -------------------------------------------------------------------------------------------
@@ -44,4 +44,4 @@ Quero disponibilizar Dados para outros órgãos (Acesse o Passo a Passo do Prove
   :maxdepth: 3
   :caption: Acesse o Passo a Passo do Provedor de Dados
 
-  provedordedados
+  provedordedados.rst
