@@ -10,11 +10,11 @@ O Gerenciador de APIs é ideal para encontrar e para agilizar o consumo de APIs 
 
 1. Escolha as APIs de interesse
 ----------------------------------
-Acesse o Catálogo de APIs do Conecta_ e encontre as APIs de interesse para seu órgão.
+`Acesse o Catálogo de APIs do Conecta`_ e encontre as APIs de interesse para seu órgão.
 Neste Catálogo,  é possível encontrar as APIs em destaque ou buscar elas APIs organizadas por tema. O catálogo ainda provê várias informações sobre a API como suas  principais operações, como  proceder para acessar a API,detalhamento técnico, informações de contato e informações técnicas tais como tecnologias e controle de acesso. Verifique se as APIs são disponibilizadas diretamente pelo órgão ou se são gerenciadas pelo Gerenciador do Conecta.
 
 
-.. _Conecta: http://gov.br/conecta/catalogo
+.. _Acesse o Catálogo de APIs do Conecta: http://gov.br/conecta/catalogo
 
 
 2. Faça a adesão ao Conecta
@@ -47,18 +47,19 @@ Agora que já tem acesso às APIs, o órgão deve adaptar as aplicações ou sis
 
 .. important::
    O Gestor do Órgão deverá:
-   1. Logar na Plataforma
-------------------------  
+
+    1. Logar na Plataforma
+----------------------------  
 
      O login na plataforma é realizado por meio do Acesso gov.br, podendo ser feito com senha ou certificado digital. 
  
    2. Cadastrar Aplicação
------------------------
+---------------------------
      O Gestor do Órgão cadastra a aplicação que irá realizar o acesso à API.
      Sugere-se que sejam cadastradas aplicações diferentes para sistemas diferentes do órgão, de tal forma que o controle de consumo possa ser feito de maneira mais detalhada.
  
     3. Gerar chave de acesso
--------------------------
+-----------------------------
      O Gestor do Órgão assina o termo de responsabilidade para uso dos dados e gera a chave de acesso.
      Para cada aplicação, o Gestor do Órgão deve ler e assinar eletronicamente o termo de responsabilidade, com certificado digital, e gerar a chave de acesso que vai permitir a integração da aplicação com a API em questão. 
      O termo de responsabilidade é associado à chave de acesso gerada. Ressaltamos a necessidade do Gestor do Órgão fazer o download do termo de responsabilidade.
