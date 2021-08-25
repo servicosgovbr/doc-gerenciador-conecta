@@ -1,6 +1,6 @@
-=================================
+---------------------------------
 Gerenciador de APIs do Conecta
-=================================
+---------------------------------
 
 Solução de gerenciamento para facilitar a disponibilização e o consumo de APIs e promover a interoperabilidade de dados entre Órgãos Públicos Federais.
 
@@ -16,9 +16,9 @@ A ideia do Gerenciador de APIs é facilitar a interoperabilidade de dados para o
    :target: _images/arquitetura_conecta.svg
 
 
-=======================================
+------------------------------------
 O que você tem interesse no Conecta?
-=======================================
+------------------------------------
 
   Quero receber Dados de outros órgãos:
     

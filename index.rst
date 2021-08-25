@@ -19,3 +19,4 @@
    :caption: Informações Técnicas
 
    informacoes_tecnicas.rst
+   inf_tec_provedor_dados.rst
