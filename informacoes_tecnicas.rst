@@ -1,5 +1,8 @@
+.. _secao-manual:
+
+########################
 Cadastro das aplicações
-**************************
+########################
 
 O Gestor do Órgão deverá:
 
@@ -14,7 +17,7 @@ O Gestor do Órgão deverá:
     Sugere-se que sejam cadastradas aplicações diferentes para sistemas diferentes do órgão, de tal forma que o controle de consumo possa ser feito de maneira mais detalhada.
 
   3. Gerar chave de acesso
-    
+
     O Gestor do Órgão assina o termo de responsabilidade para uso dos dados e gera a chave de acesso.
     Para cada aplicação, o Gestor do Órgão deve ler e assinar eletronicamente o termo de responsabilidade, com certificado digital, e gerar a chave de acesso que vai permitir a integração da aplicação com a API em questão. 
     O termo de responsabilidade é associado à chave de acesso gerada. Ressaltamos a necessidade do Gestor do Órgão fazer o download do termo de responsabilidade.
