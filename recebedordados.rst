@@ -1,29 +1,30 @@
- Sou Recebedor de Dados
+Sou Recebedor de Dados
 *********************************************
 
 O Gerenciador de APIs é ideal para encontrar e para agilizar o consumo de APIs de diversos órgãos.
 
-.. image:: _imagens/passo_passo_recebedorde_dados.png
+.. image:: _imagens/passo_a_passo_recebedor_dados.svg
    :scale: 75 %
    :align: center
    :alt: Figura da Arquitetura do Conecta.
+   :target: _imagens/passo_a_passo_recebedor_dados.svg
 
 1. Escolha as APIs de interesse
 ----------------------------------
 Acesse o `Catálogo de APIs do Conecta`_ e encontre as APIs de interesse para seu órgão.
 
-Neste Catálogo, é possível encontrar as APIs em destaque ou buscar elas APIs organizadas por tema. O catálogo ainda provê várias informações sobre a API como suas  principais operações, como  proceder para acessar a API,detalhamento técnico, informações de contato e informações técnicas tais como tecnologias e controle de acesso. Verifique se as APIs são disponibilizadas diretamente pelo órgão ou se são gerenciadas pelo Gerenciador do Conecta.
+Neste Catálogo,  é possível encontrar as APIs em destaque ou buscar elas APIs organizadas por tema. O catálogo ainda provê várias informações sobre a API como suas  principais operações, como  proceder para acessar a API,detalhamento técnico, informações de contato e informações técnicas tais como tecnologias e controle de acesso. Verifique se as APIs são disponibilizadas diretamente pelo órgão ou se são gerenciadas pelo Gerenciador do Conecta.
 
 
-.. _Acesse o Catálogo de APIs do Conecta: http://gov.br/conecta/catalogo
+.. _Catálogo de APIs do Conecta: http://gov.br/conecta/catalogo
 
 
 2. Faça a adesão ao Conecta
 ----------------------------------------
 
-.. important::
-   Para obter o acesso às APIs gerenciadas pelo Conecta o órgão deverá aderir ao programa Conecta. Para adesão serão solicitadas algumas informações sobre o consumo de dados, a finalidade do uso dos dados (em conformidade com a LGPD), a volumetria estimada anual de consumo das APIs e os representantes do órgão no processo.
-   Entre em contato com a equipe Conecta para obter mais informações sobre o processo de adesão e o modelo de ofício de adesão.
+Para obter o acesso às APIs gerenciadas pelo Conecta o órgão deverá aderir ao programa Conecta. Para adesão serão solicitadas algumas informações sobre o consumo de dados, a finalidade do uso dos dados (em conformidade com a LGPD), a volumetria estimada anual de consumo das APIs e os representantes do órgão no processo.
+
+Entre em contato com a equipe Conecta para obter mais informações sobre o processo de adesão e o modelo de ofício de adesão.
 
 3.  Indique o gestor do órgão
 --------------------------------
