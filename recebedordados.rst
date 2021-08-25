@@ -15,7 +15,7 @@ O Gerenciador de APIs é ideal para encontrar e para agilizar o consumo de APIs 
     :file: _imagens/passo_a_passo_recebedor_dados.svg
 
 
-.. _secao-passo-escolha-apis:
+.. _subsecao-passo-escolha-apis:
 
 ----------------------------------
 1. Escolha as APIs de interesse
