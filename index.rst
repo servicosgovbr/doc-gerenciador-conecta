@@ -11,8 +11,8 @@
    :caption: Conheça a plataforma
 
    introducao.rst
-   provedordedados.rst
    recebedordados.rst
+   provedordedados.rst
 
 .. toctree::
    :maxdepth: 3

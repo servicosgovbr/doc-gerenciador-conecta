@@ -10,7 +10,6 @@ O Gerenciador de APIs é ideal para encontrar e para agilizar o consumo de APIs 
    :scale: 75 %
    :align: center
    :alt: Figura da Arquitetura do Conecta.
-   :target: _imagens/passo_a_passo_recebedor_dados.svg
 
 .. _secao-passo-escolha-apis:
 

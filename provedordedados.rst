@@ -10,7 +10,7 @@ O Conecta é ideal para divulgar, documentar e gerenciar a disponibilização de
  :scale: 75 %
  :align: center
  :alt: Sou Provedor de Dados.
-
+ :target: _images/passoapassodoprovedordedados.svg
 
 1. Pré-requisitos Técnicos para disponibilizar minha API na Plataforma
 -------------------------------------------------------------------------
