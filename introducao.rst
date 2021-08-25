@@ -20,8 +20,6 @@ O que você tem interesse no Conecta?
     
     * Acesse o `Passo a Passo do Recebedor de Dados <recebedordados.html>`_.
 
-  Quero disponibilizar Dados para outros órgãos:
+  Quero disponibilizar Dados para outros ´órgãos:
     
     * Acesse o `Passo a Passo do Provedor de Dados <provedordedados.html>`_.
-
-.. _figura-arquitetura_conecta2:
