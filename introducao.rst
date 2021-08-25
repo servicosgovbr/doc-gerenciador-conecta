@@ -28,3 +28,6 @@ O que você tem interesse no Conecta?
     
     * Acesse o `Passo a Passo do Provedor de Dados <provedordedados.html>`_.
 
+.. _figura-arquitetura_conecta2:
+.. raw:: html
+    :file: _imagens/arquitetura_conecta.svg
