@@ -1,3 +1,6 @@
+.. _secao-recebedor-de-dados:
+
+*********************************************
 Sou Recebedor de Dados
 *********************************************
 
@@ -9,15 +12,15 @@ O Gerenciador de APIs é ideal para encontrar e para agilizar o consumo de APIs 
    :alt: Figura da Arquitetura do Conecta.
    :target: _imagens/passo_a_passo_recebedor_dados.svg
 
+.. _secao-passo-escolha-apis:
+
 1. Escolha as APIs de interesse
 ----------------------------------
 Acesse o `Catálogo de APIs do Conecta`_ e encontre as APIs de interesse para seu órgão.
 
 Neste Catálogo,  é possível encontrar as APIs em destaque ou buscar elas APIs organizadas por tema. O catálogo ainda provê várias informações sobre a API como suas  principais operações, como  proceder para acessar a API,detalhamento técnico, informações de contato e informações técnicas tais como tecnologias e controle de acesso. Verifique se as APIs são disponibilizadas diretamente pelo órgão ou se são gerenciadas pelo Gerenciador do Conecta.
 
-
-.. _Catálogo de APIs do Conecta: http://gov.br/conecta/catalogo
-
+.. _secao-passo-adesao-conecta:
 
 2. Faça a adesão ao Conecta
 ----------------------------------------
@@ -25,6 +28,8 @@ Neste Catálogo,  é possível encontrar as APIs em destaque ou buscar elas APIs
 Para obter o acesso às APIs gerenciadas pelo Conecta o órgão deverá aderir ao programa Conecta. Para adesão serão solicitadas algumas informações sobre o consumo de dados, a finalidade do uso dos dados (em conformidade com a LGPD), a volumetria estimada anual de consumo das APIs e os representantes do órgão no processo.
 
 Entre em contato com a equipe Conecta para obter mais informações sobre o processo de adesão e o modelo de ofício de adesão.
+
+.. _secao-passo-indique-gestor:
 
 3.  Indique o gestor do órgão
 --------------------------------
@@ -43,9 +48,8 @@ Após obter as chaves de acesso, encaminhe-as para os responsáveis técnicos pe
 5.  Adapte os sistemas do órgão para uso das APIs
 --------------------------------------------------
 
-Agora que já tem acesso às APIs, o órgão deve adaptar as aplicações ou sistemas para usar as APIs disponibilizadas. Para isto, os responsáveis técnicos necessitarão das chaves de acesso e da documentação técnica das APIs disponíveis no `Catálogo de APIs do Conecta`_.
+Agora que já tem acesso às APIs, o órgão deve adaptar as aplicações ou sistemas para usar as APIs disponibilizadas. Para isto, os responsáveis técnicos necessitarão das chaves de acesso e da documentação técnica das APIs disponíveis no `Catálogo de APIs do Conecta <http://gov.br/conecta/catalogo>`_.
 
-.. _`Catálogo de APIs do Conecta`: http://gov.br/conecta/catalogo
 
 
 

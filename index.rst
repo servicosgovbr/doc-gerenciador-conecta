@@ -8,9 +8,11 @@
 
 .. toctree::
    :maxdepth: 3
-   :caption: Introdução
+   :caption: Conheça a plataforma
 
    introducao.rst
+   provedordedados.rst
+   recebedordados.rst
 
 .. toctree::
    :maxdepth: 3
