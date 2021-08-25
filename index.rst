@@ -4,12 +4,16 @@
    contain the root `toctree` directive.
 
    Gerenciador de APIs do Conecta
-===================================================================
+   ===================================================================
 
 .. toctree::
    :maxdepth: 3
    :caption: Introdução
 
-   
    introducao.rst
 
+.. toctree::
+   :maxdepth: 3
+   :caption: Informações Técnicas
+
+   informacoes_tecnicas.rst
