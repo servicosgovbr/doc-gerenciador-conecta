@@ -1,3 +1,3 @@
-.. _secao-manual:
+.. _secao-outras-informacoes-tecnicas:
 
 

@@ -12,27 +12,24 @@ Cadastre as aplicações e obtenha as chaves de acesso
 
 O Gestor do Órgão deverá:
 
-  2. Cadastrar Aplicação
+  1. Cadastrar Aplicação
 
      O Gestor do Órgão cadastra a aplicação que irá realizar o acesso à API.
 
     Sugere-se que sejam cadastradas aplicações diferentes para sistemas diferentes do órgão, de tal forma que o controle de consumo possa ser feito de maneira mais detalhada.
 
-  3. Gerar chave de acesso
+  2. Gerar chave de acesso
 
     O Gestor do Órgão assina o termo de responsabilidade para uso dos dados e gera a chave de acesso.
-
     Para cada aplicação, o Gestor do Órgão deve ler e assinar eletronicamente o termo de responsabilidade, com certificado digital, e gerar a chave de acesso que vai permitir a integração da aplicação com a API em questão. 
 
     O termo de responsabilidade é associado à chave de acesso gerada. Ressaltamos a necessidade do Gestor do Órgão fazer o download do termo de responsabilidade.
 
     Uma chave de acesso é uma sequência de números e letras (alfanumérico) que representam uma credencial de acesso. Esta credencial de acesso é informada no acesso a uma API para identificar o aplicativo de chamada ou o usuário e usada para monitorar e controlar a forma como a API está sendo utilizada.
-
     Quando gerada outra chave de acesso para a mesma aplicação, a chave de acesso anterior passa a ter um período de validade de 6 (seis) meses.
-
     As chaves de acesso não são armazenadas na plataforma e, portanto, não podem ser recuperadas. É responsabilidade do Gestor do Órgão armazenar a sua chave de acesso de forma segura.
 
-  4. Encaminhar internamente a chave de acesso para o responsável técnico.
+  3. Encaminhar internamente a chave de acesso para o responsável técnico.
 
 ---------------------------------------------------------
 Roteiro para geração das chaves de acesso
