@@ -16,7 +16,7 @@ O Gestor do Órgão deverá:
 
      O Gestor do Órgão cadastra a aplicação que irá realizar o acesso à API.
 
-    Sugere-se que sejam cadastradas aplicações diferentes para sistemas diferentes do órgão, de tal forma que o controle de consumo possa ser feito de maneira mais detalhada.
+        Sugere-se que sejam cadastradas aplicações diferentes para sistemas diferentes do órgão, de tal forma que o controle de consumo possa ser feito de maneira mais detalhada.
 
   2. Gerar chave de acesso
 
@@ -165,7 +165,12 @@ A partir dos ícones apresentados na parte direita para cada item da lista, é p
     * Gestor do Órgão possuir certificado digital ICP-Brasil.
     * Assinador Digital SERPRO estar instalado.
 
-  A chave de acesso são as credenciais que a aplicação cadastrada vai utilizar para poder acessar a API desejada. 
+  A chave de acesso são as credenciais que a aplicação cadastrada vai utilizar para poder acessar a API desejada.
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+      5.1. Assinatura do Termo de Responsabilidade
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
   O Portal do Gestor identifica automaticamente se o Assinador Digital SERPRO está instalado. Caso não tenha sido efetuada a instalação, a tela para gerar chaves de acesso apresenta as orientações para tanto.
 
   .. image:: _imagens/gerarchave_2.png
@@ -187,6 +192,8 @@ A partir dos ícones apresentados na parte direita para cada item da lista, é p
    :scale: 75 %
    :align: center
    :alt: Gerar Chave de Acesso.
+
+
 
   O Gestor do Órgão deve ler o Termo de Responsabilidade. Este Termo possui identificação única e dados do Gestor do Órgão. Se algum dado não estiver correto, o Gestor do Órgão deve entrar em contato pelo email conecta@economia.gov.br.
 

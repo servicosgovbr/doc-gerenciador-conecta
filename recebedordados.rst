@@ -29,7 +29,7 @@ O passo a passo para o recebedor de dados consiste em:
 
   Acesse o `Catálogo de APIs do Conecta`_ e encontre as APIs de interesse para seu órgão.
 
-  Neste Catálogo,  é possível encontrar as APIs em destaque ou buscar elas APIs organizadas por tema. O catálogo ainda provê várias informações sobre a API como suas  principais operações, como  proceder para acessar a API,detalhamento técnico, informações de contato e informações técnicas tais como tecnologias e controle de acesso. Verifique se as APIs são disponibilizadas diretamente pelo órgão ou se são gerenciadas pelo Gerenciador do Conecta.
+  Neste Catálogo,  é possível encontrar as APIs em destaque ou buscar pelas APIs organizadas por tema. O catálogo ainda provê várias informações sobre a API como: suas  principais operações, como  proceder para acessar a API,detalhamento técnico, informações de contato e informações técnicas tais como tecnologias e controle de acesso. Verifique se as APIs são disponibilizadas diretamente pelo órgão ou se são gerenciadas pelo Gerenciador do Conecta.
 
 .. _passo-adesao-conecta:
 
@@ -56,6 +56,7 @@ O órgão deverá indicar o Gestor do Órgão responsável por gerenciar o acess
 ---------------------------------
 
 O Gestor deverá cadastrar as aplicações ou sistemas do órgão que forem consumir as APIs e obter as chaves de acesso específicas para cada aplicação. A geração de diferentes chaves de acesso é aconselhada para melhor controle do acesso e do consumo das APIs.
+
 Após obter as chaves de acesso, encaminhe-as para os responsáveis técnicos pelo desenvolvimento das integrações.
 
 .. _passo-adapte-sistemas:

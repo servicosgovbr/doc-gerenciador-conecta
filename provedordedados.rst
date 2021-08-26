@@ -4,7 +4,9 @@
 Sou Provedor de Dados
 ########################
 
-O Conecta é ideal para divulgar, documentar e gerenciar a disponibilização de suas APIs para outros órgãos.
+O Pograma Conecta é ideal para divulgar, documentar e gerenciar a disponibilização de suas APIs para outros órgãos.
+
+Através do `Catálogo de APIs do Conecta  <http://gov.br/conecta/catalogo>`_ suas APIs são melhor divulgadas e documentadas o que facilita a obtenção das informações sobre as APIs, da forma de autorização de acesso e da concessão do acesso aos dados.
 
 .. comments image:: _imagens/passoapassodoprovedordedados.svg
  :scale: 75 %
@@ -45,7 +47,7 @@ Caso vários órgãos tenham demonstrado interesse nos dados, a SGD pode apoiar,
 --------------------------------------------
 3. Inclua as APIs no Gerenciador
 --------------------------------------------
-Solicite a inclusão da API no Gerenciador. 
+Solicite a inclusão da API no Gerenciador.
 
 Com esta inclusão você terá mais controle de acesso às APIs, melhor monitoramento.
 
