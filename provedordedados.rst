@@ -13,13 +13,13 @@ O Conecta é ideal para divulgar, documentar e gerenciar a disponibilização de
 
 .. raw:: html
     :file: _imagens/passoapassodoprovedordedados.svg
-   
+
 O passo a passo para o recebedor de dados consiste em:
   #. :ref:`Identifique os dados de interesse de outros órgãos <passo-identifique-dados>`
-  #. :ref:`Construa suas APIs`
-  #. :ref:`Inclua as APIs no Gerenciador`
+  #. :ref:`Construa suas APIs <passo-construa-apis>`
+  #. :ref:`Inclua as APIs no Gerenciador <passo-inclua-apis-gerenciador>`
   #. :ref:`Catalogue as APIs <passo-catalogue-apis>`
-  #. :ref:`Gerencie o acesso às APIs <passo-gerencie-acesso-apis`
+  #. :ref:`Gerencie o acesso às APIs <passo-gerencie-acesso-apis>`
 
 .. _passo-identifique-dados:
 
@@ -70,4 +70,4 @@ A SGD repassará um template para facilitar a elaboração destas definições.
 O Gerenciador pode ajudar no monitoramento do acesso aos dados.
 Para isto, ele conta com relatórios prontos com a volumetria da quantidade de acessos.
 
-Você deverá indicar os Gestores das APIs
+Você deverá indicar os Gestores das APIs.
