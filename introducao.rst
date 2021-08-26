@@ -6,7 +6,6 @@ O Gerenciador de APIs do Conecta objetiva facilitar a disponibilização e o con
 
 A ideia do Gerenciador de APIs é facilitar a interoperabilidade de dados para os órgãos Provedores de Dados e o consumo das APIs para os órgãos Recebedores de Dados por meio de várias funcionalidades como a gestão do acesso às APIs, a proteção da infraestrutura, o controle de consumo e disponibilização de um ponto único de acesso à APIs.
 
-
 .. _figura-arquitetura_conecta:
 
 .. raw:: html
