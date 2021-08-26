@@ -1,12 +1,16 @@
 .. _secao-provedor-de-dados:
 
+.. _url-portal-gestor-gerenciador-apis: http://gestor.conectagov.estaleiro.serpro.gov.br
+.. _url-catalogo-conecta: http://gov.br/conecta/catalogo>
+.. _email-equipe-conecta: conecta@economia.gov.br
+
 ########################
 Sou Provedor de Dados
 ########################
 
 O Pograma Conecta é ideal para divulgar, documentar e gerenciar a disponibilização de suas APIs para outros órgãos.
 
-Através do `Catálogo de APIs do Conecta  <http://gov.br/conecta/catalogo>`_ suas APIs são melhor divulgadas e documentadas o que facilita a obtenção das informações sobre as APIs, da forma de autorização de acesso e da concessão do acesso aos dados.
+Através do `Catálogo de APIs do Conecta <url-catalogo-conecta>`_ suas APIs são melhor divulgadas e documentadas o que facilita a obtenção das informações sobre as APIs, da forma de autorização de acesso e da concessão do acesso aos dados.
 
 .. comments image:: _imagens/passoapassodoprovedordedados.svg
  :scale: 75 %
@@ -51,6 +55,8 @@ Solicite a inclusão da API no Gerenciador.
 
 Com esta inclusão você terá mais controle de acesso às APIs, melhor monitoramento.
 
+Entre em contato com a `equipe do Conecta <email-equipe-conecta>`_ para obter mais detalhes.
+
 A SGD ainda, conforme acordado, poderá intermediar as solicitações de autorizações de acesso a sua API facilitando a gestão destas autorizações.
 
 .. _passo-catalogue-apis:
@@ -62,7 +68,7 @@ Descreva as APIs, seus dados, formas de acesso e detalhamento técnico.
 
 Defina a forma como serão dadas as autorizações de acesso aos dados.
 
-A SGD repassará um template para facilitar a elaboração destas definições.
+.. tip:: A SGD possui um template que facilita a elaboração destas definições.
 
 .. _passo-gerencie-acesso-apis:
 
@@ -70,6 +76,6 @@ A SGD repassará um template para facilitar a elaboração destas definições.
 5. Gerencie o acesso às APIs
 --------------------------------------------
 O Gerenciador pode ajudar no monitoramento do acesso aos dados.
-Para isto, ele conta com relatórios prontos com a volumetria da quantidade de acessos.
+Para isto, ele conta com relatórios prontos com a volumetria da quantidade de acessos dentre outras informações.
 
-Você deverá indicar os Gestores das APIs.
+.. note:: Indique os Gestores que terão acesso aos relatórios no `Portal do Gestor <url-portal-gestor-gerenciador-apis>`_.
