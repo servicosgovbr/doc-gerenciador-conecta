@@ -73,7 +73,7 @@ html_show_sourcelink = False
 html_search_language = u'pt'
 
 # Favicon
-html_favicon = u'www.gov.br/governodigital/++theme++padrao_govbr/favicons/favicon-32x32.png'
+html_favicon = u'http://www.gov.br/governodigital/++theme++padrao_govbr/favicons/favicon-32x32.png'
 
 html_logo = u'_imagens/logo_conecta.png'
 
