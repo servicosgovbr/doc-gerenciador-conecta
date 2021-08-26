@@ -1,4 +1,8 @@
-.. _secao-manual:
+.. _secao-manual-recebedor-dados:
+
+########################################
+Manual do Recebedor de Dados
+########################################
 
 .. _subsecao-chaves-acesso:
 

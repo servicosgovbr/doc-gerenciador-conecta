@@ -1,6 +1,15 @@
+.. _secao-manual-provedor-de-dados:
 
-1. Pré-requisitos Técnicos para disponibilizar minha API na Plataforma
--------------------------------------------------------------------------
+########################################
+Manual do Provedor de Dados
+########################################
+
+.. _subsecao-pre-requisitos:
+
+------------------------------------------------------
+  1. Pré-requisitos técnicos para disponibilizar APIs
+------------------------------------------------------
+
   1. Deve estar disponível na internet através do protocolo https;
   2. Deve ser disponibilizada a documentação do serviço, preferencialmente no formato OpenAPI (ver Referências para Documentação de APIs);
   3. Deve ser disponibilizado ambiente de teste/homologação (não produtivo) para que seja possível testar a integração;
@@ -9,9 +18,10 @@
   6. Deve ser informada a quantidade (capacidade) máxima de requisições por segundo que o serviço suporta;
   7. Deve ser definido o canal de comunicação com o suporte técnico do gestor do dado para que sejam informados possíveis problemas de indisponibilidade e/ou dúvidas durante a integração;
   8. Deve estar catalogada, ou em processo de catalogação, no catálogo do Conecta.
-  
 
-2. Como documentar minha API (Referências)
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+  1.1 Como documentar minha API (Referências)
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
    
   * `Guia Básico de Documentação de APIs`_.
   * `Exemplo Acesse`_.
@@ -21,28 +31,42 @@
 .. _Exemplo Acesse: https://gist.github.com/iros/3426278
 .. _Documenting APIs: A guide for technical writers and engineers: https://idratherbewriting.com/learnapidoc/
 
-1. Como Gerenciar o acesso às minhas APIs.
+------------------------------------------------------
+2. Como Gerenciar o acesso às minhas APIs.
+------------------------------------------------------
 
 Para gerenciar o acesso a suas APIs, o órgão provedor de dados indicará um integrante, que será cadastrado pela equipe interna no perfil Gestor de APIs.
 Para disponibilizar suas APIs, o Gestor de APIs deve:
 
-
   1. **Cadastrar Plano de Consumo**.
+
     Um plano de consumo é o nome da associação de uma API com um limite de consultas. Ele especifica a quantidade máxima permitida de acessos à API para o período de um ano (limite de consumo).
     O Gestor de APIs pode realizar o controle de consumo de sua API através da definição de diferentes planos de consumo, que serão utilizados para limitar a consulta de diferentes órgãos recebedores de dados.
   2. **Cadastrar adesão a minha API pelos órgãos recebedores de dados.**
-    (Não entendi, porque aqui é API com Plano de Consumo, mas o Plano de Consumo já tem a API no cadastro…)
-    Além dessas funcionalidades, o Gestor de APIs também pode:
+
+.. comments: TODO: (Não entendi, porque aqui é API com Plano de Consumo, mas o Plano de Consumo já tem a API no cadastro...)
+    
+Além dessas funcionalidades, o Gestor de APIs também pode:
+
   3. **Listar Plano de Consumo.**
+
     Apresenta todos os planos de consumo cadastrados no Gerenciador de APIs do Conecta para este Gestor do Órgão.
+
   4. **Listar órgãos cadastrados.**
+
     Apresenta todos os órgãos cadastrados no Gerenciador de APIs do Conecta.
+
   5. **Cadastrar Gestor do órgão recebedor de dados.**
+
     Permite que um integrante do órgão recebedor de dados seja cadastrado com o perfil Gestor de API no Gerenciador de APIs do Conecta.
+
   6. **Listar Gestor do órgão recebedor de dados.**
+
     Apresenta todos os Gestores de APIs do órgão recebedor de dados.
 
-4. Como fazer.
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+  2.1 Como fazer
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Esta é a tela inicial para o perfil Gestor de APIs, após o mesmo ter sido autenticado pelo Acesso gov.br:
 
@@ -51,7 +75,10 @@ Esta é a tela inicial para o perfil Gestor de APIs, após o mesmo ter sido aute
  :align: center
  :alt: Como fazer
 
-5. Listar Planos de Consumo.
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    2.1.1 Listar Planos de Consumo.
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
 >> No menu Administração, selecionar o item Plano > Listar Planos de Consumo
 
 .. image:: _imagens/listarplanosdeconsumo.png
@@ -95,7 +122,9 @@ A ação Ativar/desativar o plano de consumo faz com que o plano de consumo mude
 A ação Alterar o plano de consumo é similar à ação Cadastrar Plano de Consumo e seu modo de fazer está descrito na seção 3.2.1.2. Cadastrar Plano de Consumo
 A ação Cadastrar adesão à API está descrita na seção 3.2.1.3. Cadastrar adesão à minha API pelos órgãos recebedores de dados
 
-6. Cadastrar Plano de Consumo. 
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    2.1.2 Cadastrar Plano de Consumo
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 >> No menu Administração, selecionar o item Plano >  Cadastro de Novo Plano de Consumo. 
 
@@ -142,8 +171,10 @@ A alteração é realizada da mesma forma que o cadastro, sendo que os campos s�
  :align: center
  :alt: Cadastrar Plano de Consumo.
 
-1. Cadastrar adesão à minha API.
-   
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    2.1.3 Cadastrar adesão à minha API
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
 >> A partir da ação Cadastrar adesão à API no item desejado da lista de planos de consumo (ver seção 3.2.1.1. Listar Planos de Consumo)
 A tela de cadastro apresenta todas as adesões existentes para o órgão provedor de dados. O Gestor do Órgão deve:
   1. Associar o nome da API ao plano de consumo desejado;
@@ -155,7 +186,9 @@ A tela de cadastro apresenta todas as adesões existentes para o órgão provedo
    :align: center
    :alt: Cadastrar adesão à minha API.
 
-8. Listar Órgãos Cadastrados
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    2.1.4 Listar Órgãos Cadastrados
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 >> No menu Administração, selecionar o item Órgão >  Listar Órgão
 
@@ -180,8 +213,11 @@ A partir da lista, é possível executar a seguinte ação para cada órgão, co
  :scale: 75 %
  :align: center
  :alt: Listar Órgãos Cadastrados
-9. Listar Gestor do órgão recebedor de dados. 
-   
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    2.1.5 Listar Gestor do órgão recebedor de dados
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
 No menu Administração, selecionar o item Gestor >  Listar Gestores
 
 .. image:: _imagens/listargestordoorgaorecebedordedados_1.png
@@ -213,7 +249,10 @@ A partir da lista, é possível executar as seguintes ações para cada gestor, 
 A ação Ativar/desativar o gestor faz com que o gestor mude entre os estados ativado e desativado. Um gestor desativado não pode ???
 A ação Alterar os dados do gestor é similar à ação Cadastrar Gestor do órgão recebedor de dados e seu modo de fazer está descrito na seção 3.2.1.5. Cadastrar Gestor do órgão recebedor de dados
 
-10. Cadastrar Gestor do órgão recebedor de dados. 
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    2.1.6 Cadastrar Gestor do órgão recebedor de dados
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
 >> No menu Administração, selecionar o item Gestor >  Cadastro de Novo Gestor.
 
 .. image:: _imagens/listargestordoorgaorecebedordedados_3.png

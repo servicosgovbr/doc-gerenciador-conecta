@@ -19,5 +19,8 @@ Gerenciador de APIs do Conecta
    :maxdepth: 3
    :caption: Informações Técnicas
 
+   manual_recebedor_dados.rst
+   manual_provedor_dados.rst
+   manual_gestor_conecta.rst
    informacoes_tecnicas.rst
-   inf_tec_provedor_dados.rst
+   faq.rst
