@@ -25,7 +25,7 @@ Manual do Provedor de Dados
    
   * `Guia Básico de Documentação de APIs`_.
   * `Exemplo Acesse`_.
-  * `Documenting APIs: A guide for technical writers and engineers`_.
+  * `Documenting APIs: A guide for technical writers and engineers <Documenting APIs`>`_.
 
 .. _Guia Básico de Documentação de APIs: https://stoplight.io/api-documentation-guide/basics/
 .. _Exemplo Acesse: https://gist.github.com/iros/3426278
@@ -42,6 +42,7 @@ Para disponibilizar suas APIs, o Gestor de APIs deve:
 
     Um plano de consumo é o nome da associação de uma API com um limite de consultas. Ele especifica a quantidade máxima permitida de acessos à API para o período de um ano (limite de consumo).
     O Gestor de APIs pode realizar o controle de consumo de sua API através da definição de diferentes planos de consumo, que serão utilizados para limitar a consulta de diferentes órgãos recebedores de dados.
+
   2. **Cadastrar adesão a minha API pelos órgãos recebedores de dados.**
 
 .. comments: TODO: (Não entendi, porque aqui é API com Plano de Consumo, mas o Plano de Consumo já tem a API no cadastro...)
@@ -91,6 +92,7 @@ Os planos de consumo para as APIs do órgão provedordos dados podem ser filtrad
   * Nome do Plano de Consumo;
   * Limite
   * Situação
+
 Após a escolha dos filtros, que é opcional, basta acionar o botão “Pesquisar” para gerar a lista  dos planos de consumo de acordo com o critério de pesquisa definido pelos filtros.
 
 .. image:: _imagens/listarplanosdeconsumo_1.png
@@ -109,14 +111,16 @@ Após a escolha dos filtros, que é opcional, basta acionar o botão “Pesquisa
      2. Alterar o plano de consumo
      3. Cadastrar adesão à API
 
-     .. image:: _imagens/listarplanosdeconsumo_2.png
+.. image:: _imagens/listarplanosdeconsumo_2.png
      :scale: 75 %
      :align: center
      :alt: Listar Planos de Consumo.
-     .. image:: _imagens/listarplanosdeconsumo_3.png
+
+.. image:: _imagens/listarplanosdeconsumo_3.png
      :scale: 75 %
      :align: center
      :alt: Listar Planos de Consumo.
+
 A ação Ativar/desativar o plano de consumo faz com que o plano de consumo mude entre os estados ativado e desativado. Um plano de consumo ativado pode ser utilizado no cadastro de adesão de APIs, enquanto um desativado não permite a ação mencionada.
 
 A ação Alterar o plano de consumo é similar à ação Cadastrar Plano de Consumo e seu modo de fazer está descrito na seção 3.2.1.2. Cadastrar Plano de Consumo
@@ -135,10 +139,10 @@ A ação Cadastrar adesão à API está descrita na seção 3.2.1.3. Cadastrar a
 
 
 .. attention:: 
-**Na tela de cadastro, o Gestor do Órgão deve:**
-Associar o plano de consumo sendo criado com a API para a qual ele vai ser utilizado;
-Preencher os campos com as informações do nome do plano de consumo e o limite permitido para o plano em questão (em quantidade de consultas).
-Efetivar o cadastro pelo botão Incluir.
+  **Na tela de cadastro, o Gestor do Órgão deve:**
+  Associar o plano de consumo sendo criado com a API para a qual ele vai ser utilizado;
+  Preencher os campos com as informações do nome do plano de consumo e o limite permitido para o plano em questão (em quantidade de consultas).
+  Efetivar o cadastro pelo botão Incluir.
 
 .. image:: _imagens/cadastrarplanodeconsumo_2.png
  :scale: 75 %
@@ -152,19 +156,19 @@ Caso a inclusão seja realizada com sucesso:
  :scale: 75 %
  :align: center
  :alt: Cadastrar Plano de Consumo. 
+
 ------------------------------------------------------------------------------------------------------------------------
 Caso seja a inclusão não tenha sido realizada:
 ------------------------------------------------------------------------------------------------------------------------
-(Colocar imagem)
-------------------------------------------------------------------------------------------------------------------------
+
+.. TODO: (Colocar imagem)
 
 Exemplo de preenchimento:
-------------------------------------------------------------------------------------------------------------------------
-(Colocar imagem)
-------------------------------------------------------------------------------------------------------------------------
+
+.. TODO: (Colocar imagem)
+
 Após a inclusão do plano de consulta, a opção para alteração do mesmo é apresentada como botão na parte inferior direita da tela. 
 A alteração é realizada da mesma forma que o cadastro, sendo que os campos são apresentados preenchidos com os dados correntes do plano de consumo para serem alterados.
-------------------------------------------------------------------------------------------------------------------------
 
 .. image:: _imagens/cadastrarplanodeconsumo_4.png
  :scale: 75 %
@@ -177,9 +181,10 @@ A alteração é realizada da mesma forma que o cadastro, sendo que os campos s�
 
 >> A partir da ação Cadastrar adesão à API no item desejado da lista de planos de consumo (ver seção 3.2.1.1. Listar Planos de Consumo)
 A tela de cadastro apresenta todas as adesões existentes para o órgão provedor de dados. O Gestor do Órgão deve:
+
   1. Associar o nome da API ao plano de consumo desejado;
   2. Efetivar o cadastro pelo botão Incluir.
-    
+
 
   .. image:: _imagens/cadastraradesaoaminhaAPI_1.png
    :scale: 75 %
@@ -223,20 +228,23 @@ No menu Administração, selecionar o item Gestor >  Listar Gestores
 .. image:: _imagens/listargestordoorgaorecebedordedados_1.png
  :scale: 75 %
  :align: center
- :alt: Listar Gestor do órgão recebedor de dados. 
+ :alt: Listar Gestor do órgão recebedor de dados.
 
-Os gestores podem ser filtrados de acordo com: 
+Os gestores podem ser filtrados de acordo com:
   * Nome do Órgão
   * Número do CPF
   * Nome
+
 Selecionar (drop-down)
 Após a escolha dos filtros, que é opcional, basta acionar o botão “Pesquisar” para gerar a lista  dos gestores de acordo com o critério de pesquisa definido pelos filtros.
 A lista dos gestores é apresentada em tela, com paginação e com as seguintes informações para cada gestor:
- * CPF
- * Nome
- * Órgão
- * Data de início do período de gestão
- * Data de fim do período de gestão
+
+  * CPF
+  * Nome
+  * Órgão
+  * Data de início do período de gestão
+  * Data de fim do período de gestão
+
 A partir da lista, é possível executar as seguintes ações para cada gestor, conforme ilustrado na tela abaixo:
   1. Ativar/Inativar do gestor.
   2. Alterar os dados do gestor.
@@ -258,19 +266,21 @@ A ação Alterar os dados do gestor é similar à ação Cadastrar Gestor do ór
 .. image:: _imagens/listargestordoorgaorecebedordedados_3.png
  :scale: 75 %
  :align: center
- :alt: Listar Gestor do órgão recebedor de dados. 
+ :alt: Listar Gestor do órgão recebedor de dados
 
-Nesta tela, o Gestor do Órgão deve 
+Nesta tela, o Gestor do Órgão deve:
   1. Selecionar o órgão do gestor sendo cadastrado. Caso o órgão selecionado seja vinculado ao SIAPE:
-   a. Informar o CPF do gestor;
-   b. Utilizar o botão Pesquisar Servidor, que busca automaticamente os dados restantes de cadastro para o CPF informado.
-   c.  Efetivar o cadastro pelo botão Incluir.
+
+    a. Informar o CPF do gestor;
+    b. Utilizar o botão Pesquisar Servidor, que busca automaticamente os dados restantes de cadastro para o CPF informado.
+    c.  Efetivar o cadastro pelo botão Incluir.
 
 .. image:: _imagens/listargestordoorgaorecebedordedados_4.png
  :scale: 75 %
  :align: center
- :alt: Listar Gestor do órgão recebedor de dados. 
-   2. Caso o órgão selecionado NÃO seja vinculado ao SIAPE:
+ :alt: Listar Gestor do órgão recebedor de dados.
+
+2. Caso o órgão selecionado NÃO seja vinculado ao SIAPE:
        a. Informar o CPF do gestor;
        b. Informar os dados de cadastro do gestor;
        c. Efetivar o cadastro pelo botão Incluir.
