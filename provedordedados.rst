@@ -14,7 +14,7 @@ O Conecta é ideal para divulgar, documentar e gerenciar a disponibilização de
 .. raw:: html
     :file: _imagens/passoapassodoprovedordedados.svg
 
-O passo a passo para o recebedor de dados consiste em:
+O passo a passo para o provedor de dados consiste em:
   #. :ref:`Identifique os dados de interesse de outros órgãos <passo-identifique-dados>`
   #. :ref:`Construa suas APIs <passo-construa-apis>`
   #. :ref:`Inclua as APIs no Gerenciador <passo-inclua-apis-gerenciador>`

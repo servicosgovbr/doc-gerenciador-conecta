@@ -14,8 +14,14 @@ O Gerenciador de APIs é ideal para encontrar e para agilizar o consumo de APIs 
 .. raw:: html
     :file: _imagens/passo_a_passo_recebedor_dados.svg
 
+O passo a passo para o recebedor de dados consiste em:
+  #. :ref:`Escolha as APIs de interesse <passo-escolha-apis>`
+  #. :ref:`Faça a adesão ao Conecta <passo-adesao-conecta>`
+  #. :ref:`Indique o gestor do órgão <passo-indique-gestor>`
+  #. :ref:`Cadastre as aplicações <passo-cadastre-aplicacoes>`
+  #. :ref:`Adapte os sistemas do órgão para uso das APIs <passo-adapte-sistemas>`
 
-.. _subsecao-passo-escolha-apis:
+.. _passo-escolha-apis:
 
 ----------------------------------
 1. Escolha as APIs de interesse
@@ -25,7 +31,7 @@ O Gerenciador de APIs é ideal para encontrar e para agilizar o consumo de APIs 
 
   Neste Catálogo,  é possível encontrar as APIs em destaque ou buscar elas APIs organizadas por tema. O catálogo ainda provê várias informações sobre a API como suas  principais operações, como  proceder para acessar a API,detalhamento técnico, informações de contato e informações técnicas tais como tecnologias e controle de acesso. Verifique se as APIs são disponibilizadas diretamente pelo órgão ou se são gerenciadas pelo Gerenciador do Conecta.
 
-.. _subsecao-recebedor-passo-adesao-conecta:
+.. _passo-adesao-conecta:
 
 ----------------------------------
 2. Faça a adesão ao Conecta
@@ -35,7 +41,7 @@ O Gerenciador de APIs é ideal para encontrar e para agilizar o consumo de APIs 
 
   Entre em contato com a `equipe do Conecta <conecta@economia.gov.br>`_ para obter mais informações sobre o processo de adesão e o modelo de ofício de adesão.
 
-.. _subsecao-recebedor-passo-indique-gestor:
+.. _passo-indique-gestor:
 
 ---------------------------------
 3. Indique o gestor do órgão
@@ -43,7 +49,8 @@ O Gerenciador de APIs é ideal para encontrar e para agilizar o consumo de APIs 
 
 O órgão deverá indicar o Gestor do Órgão responsável por gerenciar o acesso a todas as APIs que o órgão terá acesso e acompanhar o consumo destas APIs. Este Gestor quem deverá obter as chaves de acesso para consumo das APIs e para isto precisará de um certificado digital ICP-Brasil.
 
-.. _subsecao-recebedor-passo-cadastre-aplicacoes:
+.. _passo-cadastre-aplicacoes:
+
 ---------------------------------
 4. Cadastre as aplicações
 ---------------------------------
@@ -51,7 +58,8 @@ O órgão deverá indicar o Gestor do Órgão responsável por gerenciar o acess
 O Gestor deverá cadastrar as aplicações ou sistemas do órgão que forem consumir as APIs e obter as chaves de acesso específicas para cada aplicação. A geração de diferentes chaves de acesso é aconselhada para melhor controle do acesso e do consumo das APIs.
 Após obter as chaves de acesso, encaminhe-as para os responsáveis técnicos pelo desenvolvimento das integrações.
 
-.. _subsecao-recebedor-adapte-sistemas
+.. _passo-adapte-sistemas:
+
 ---------------------------------------------------
 5. Adapte os sistemas do órgão para uso das APIs
 ---------------------------------------------------
