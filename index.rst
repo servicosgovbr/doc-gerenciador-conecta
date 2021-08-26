@@ -21,5 +21,5 @@ Gerenciador de APIs do Conecta
    manual_recebedor_dados.rst
    manual_provedor_dados.rst
    manual_gestor_conecta.rst
-   informacoes_tecnicas.rst
+   outras_informacoes_tecnicas.rst
    faq.rst
