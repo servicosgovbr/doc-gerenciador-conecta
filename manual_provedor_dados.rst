@@ -138,11 +138,11 @@ A ação Cadastrar adesão à API está descrita na seção 3.2.1.3. Cadastrar a
  :alt: Cadastrar Plano de Consumo. 
 
 
-.. attention:: 
-  **Na tela de cadastro, o Gestor do Órgão deve:**
-  Associar o plano de consumo sendo criado com a API para a qual ele vai ser utilizado;
-  Preencher os campos com as informações do nome do plano de consumo e o limite permitido para o plano em questão (em quantidade de consultas).
-  Efetivar o cadastro pelo botão Incluir.
+.. note:: 
+  Na tela de cadastro, o Gestor do Órgão deve:
+    #. Associar o plano de consumo sendo criado com a API para a qual ele vai ser utilizado;
+    #. Preencher os campos com as informações do nome do plano de consumo e o limite permitido para o plano em questão (em quantidade de consultas).
+    #. Efetivar o cadastro pelo botão Incluir.
 
 .. TODO: Corrigir erro de Figura não encontrada 
 
@@ -159,17 +159,7 @@ Caso a inclusão seja realizada com sucesso:
  :align: center
  :alt: Cadastrar Plano de Consumo. 
 
-------------------------------------------------------------------------------------------------------------------------
-Caso seja a inclusão não tenha sido realizada:
-------------------------------------------------------------------------------------------------------------------------
-
-.. TODO: (Colocar imagem)
-
-Exemplo de preenchimento:
-
-.. TODO: (Colocar imagem)
-
-Após a inclusão do plano de consulta, a opção para alteração do mesmo é apresentada como botão na parte inferior direita da tela. 
+Após a inclusão de um plano de consulta, é possível alterá-lo por meio do botão apresentado na parte inferior direita da tela.
 A alteração é realizada da mesma forma que o cadastro, sendo que os campos são apresentados preenchidos com os dados correntes do plano de consumo para serem alterados.
 
 .. image:: _imagens/cadastrarplanodeconsumo_4.png

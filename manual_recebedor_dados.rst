@@ -46,7 +46,9 @@ Roteiro para geração das chaves de acesso
 
   Logue na `Portal do Gestor <url-portal-gestor-gerenciador-apis>`_ utilizando sua `Conta gov.br <https://www.gov.br/pt-br/servicos/criar-sua-conta-meu-gov.br>`_.
 
-     Obs: pode-se acessar a conta tanto com senha ou certificado digital
+.. tip::
+
+     Pode-se acessar a conta tanto com senha ou certificado digital
 
 Esta é a tela inicial para o perfil Gestor do Órgão:
 
@@ -161,11 +163,12 @@ A partir dos ícones apresentados na parte direita para cada item da lista, é p
    :align: center
    :alt: Gerar Chave de Acesso.
 
-  **São requisitos para a geração da chave:**
-    * Gestor do Órgão possuir certificado digital ICP-Brasil.
-    * Assinador Digital SERPRO estar instalado.
+.. attention::
+    São requisitos para a geração da chave:
+      * Gestor do Órgão possuir certificado digital ICP-Brasil.
+      * Assinador Digital SERPRO estar instalado.
 
-  A chave de acesso são as credenciais que a aplicação cadastrada vai utilizar para poder acessar a API desejada.
+.. tip::  A chave de acesso são as credenciais que a aplicação cadastrada vai utilizar para poder acessar a API desejada.
 
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
       5.1. Assinatura do Termo de Responsabilidade
@@ -208,7 +211,7 @@ A partir dos ícones apresentados na parte direita para cada item da lista, é p
     :align: center
     :alt: Assinatura do Termo de Responsabilidade
 
-  Para finalizar e realizar a geração da chave de acesso, deve acionar o botão “Gerar Chave”, embaixo, à direita.
+  Para finalizar e realizar a geração da chave de acesso, deve acionar o botão "Gerar Chave", embaixo, à direita.
   Quando a geração da chave foi realizada com sucesso, é apresentada tela com mensagem de sucesso no topo e a chave de acesso e a senha como campos editáveis na parte de baixo da tela.
   
   O Gestor do Órgão encaminha as chaves de acesso para o responsável técnico pelo sistema consumidor da API que deverá fazer a implementação necessária para acessar a mesma.
