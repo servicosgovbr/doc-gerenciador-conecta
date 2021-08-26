@@ -1,5 +1,9 @@
 .. _secao-recebedor-de-dados:
 
+.. _url-portal-gestor-gerenciador-apis: http://gestor.conectagov.estaleiro.serpro.gov.br
+.. _url-catalogo-conecta: http://gov.br/conecta/catalogo>
+.. _email-equipe-conecta: conecta@economia.gov.br
+
 ########################
 Sou Recebedor de Dados
 ########################
@@ -39,7 +43,7 @@ O passo a passo para o recebedor de dados consiste em:
 
   Para obter o acesso às APIs gerenciadas pelo Conecta o órgão deverá aderir ao programa Conecta. Para adesão serão solicitadas algumas informações sobre o consumo de dados, a finalidade do uso dos dados (em conformidade com a LGPD), a volumetria estimada anual de consumo das APIs e os representantes do órgão no processo.
 
-  Entre em contato com a `equipe do Conecta <conecta@economia.gov.br>`_ para obter mais informações sobre o processo de adesão e o modelo de ofício de adesão.
+  Entre em contato com a `equipe do Conecta <email-equipe-conecta>`_ para obter mais informações sobre o processo de adesão e o modelo de ofício de adesão.
 
 .. _passo-indique-gestor:
 
@@ -47,7 +51,10 @@ O passo a passo para o recebedor de dados consiste em:
 3. Indique o gestor do órgão
 ---------------------------------
 
-O órgão deverá indicar o Gestor do Órgão responsável por gerenciar o acesso a todas as APIs que o órgão terá acesso e acompanhar o consumo destas APIs. Este Gestor quem deverá obter as chaves de acesso para consumo das APIs e para isto precisará de um certificado digital ICP-Brasil.
+O órgão deverá indicar ao menos um Gestor do órgão que ficará responsável por gerenciar o acesso a todas as APIs e acompanhar seu consumo.
+Este Gestor também deverá obter as chaves de acesso diretamente no `Portal do Gestor <url-portal-gestor-gerenciador-apis>`_ para consumo das APIs.
+
+.. important:: O Gestor indicado precisará de um certificado Digital ICP-Brasil para geração das chaves de acesso!
 
 .. _passo-cadastre-aplicacoes:
 
@@ -55,7 +62,9 @@ O órgão deverá indicar o Gestor do Órgão responsável por gerenciar o acess
 4. Cadastre as aplicações
 ---------------------------------
 
-O Gestor deverá cadastrar as aplicações ou sistemas do órgão que forem consumir as APIs e obter as chaves de acesso específicas para cada aplicação. A geração de diferentes chaves de acesso é aconselhada para melhor controle do acesso e do consumo das APIs.
+O Gestor deverá cadastrar as aplicações ou sistemas do órgão que forem consumir as APIs e obter as chaves de acesso específicas para cada aplicação.
+
+.. tip:: A geração de diferentes chaves de acesso para cada aplicação é aconselhada para melhor controle do acesso e do consumo das APIs.
 
 Após obter as chaves de acesso, encaminhe-as para os responsáveis técnicos pelo desenvolvimento das integrações.
 
@@ -65,5 +74,7 @@ Após obter as chaves de acesso, encaminhe-as para os responsáveis técnicos pe
 5. Adapte os sistemas do órgão para uso das APIs
 ---------------------------------------------------
 
-Agora que já tem acesso às APIs, o órgão deve adaptar as aplicações ou sistemas para usar as APIs disponibilizadas. Para isto, os responsáveis técnicos necessitarão das chaves de acesso e da documentação técnica das APIs disponíveis no `Catálogo de APIs do Conecta <http://gov.br/conecta/catalogo>`_.
+Agora que já tem acesso, o órgão deve adaptar as aplicações ou sistemas para usar às APIs disponibilizadas. 
+
+Para isto, os responsáveis técnicos necessitarão das chaves de acesso geradas e das documentações técnicas das APIs disponíveis no `Catálogo de APIs do Conecta <url-catalogo-conecta>`_.
 
