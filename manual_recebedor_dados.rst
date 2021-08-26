@@ -6,21 +6,11 @@ Manual do Recebedor de Dados
 
 .. _subsecao-chaves-acesso:
 
-############################################################
+---------------------------------------------------------
 Cadastre as aplicações e obtenha as chaves de acesso
-############################################################
+---------------------------------------------------------
 
 O Gestor do Órgão deverá:
-
-.. comments Criar novo CNAME e atualizar URL
-.. _url-portal-gestor-gerenciador-apis: http://gestor.conectagov.estaleiro.serpro.gov.br
-
-  1. Logue na `Plataforma do Gerenciador de APIs <url-portal-gestor-gerenciador-apis>`_ utilizando sua 
-
-
-`Conta gov.br <https://www.gov.br/pt-br/servicos/criar-sua-conta-meu-gov.br>`_.
-
-     Obs: pode-se acessar a conta tanto com senha ou certificado digital
 
   2. Cadastrar Aplicação
 
@@ -44,15 +34,33 @@ O Gestor do Órgão deverá:
 
   4. Encaminhar internamente a chave de acesso para o responsável técnico.
 
-**Como fazer:**
-Esta é a tela inicial para o perfil Gestor do Órgão, após o mesmo ter sido autenticado pelo Acesso gov.br:
+---------------------------------------------------------
+Roteiro para geração das chaves de acesso
+---------------------------------------------------------
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+   1. Entre no Portal do Gestor
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+.. comments TODO:
+   Criar novo CNAME e atualizar URL
+
+.. _url-portal-gestor-gerenciador-apis: http://gestor.conectagov.estaleiro.serpro.gov.br
+
+  Logue na `Portal do Gestor <url-portal-gestor-gerenciador-apis>`_ utilizando sua `Conta gov.br <https://www.gov.br/pt-br/servicos/criar-sua-conta-meu-gov.br>`_.
+
+     Obs: pode-se acessar a conta tanto com senha ou certificado digital
+
+Esta é a tela inicial para o perfil Gestor do Órgão:
 
 .. image:: _imagens/comofazer.png
    :scale: 75 %
    :align: center
    :alt: Como fazer
 
-1. Cadastrar Aplicação
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+   2. Cadastre as Aplicações
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
   >> No menu Administração, selecionar o item Aplicação >  Cadastro de Nova Aplicação.
   Nesta tela, o Gestor do Órgão deve:
@@ -88,7 +96,9 @@ Exemplo de preenchimento:
    :align: center
    :alt: Cadastrar de Nova Aplicação.
 
-2. Listar Aplicações.
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+   2. Liste as Aplicações Cadastradas
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 >> No menu Administração, selecionar o item Aplicação > Listar Aplicações
 As aplicações já cadastradas pelo Gestor do Órgão são listadas.
@@ -110,8 +120,10 @@ A partir dos ícones apresentados na parte direita para cada item da lista, é p
  :align: center
  :alt: Lista De Aplicações.
 
-3. Ativar ou Desativar Aplicação .
-   
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+   3. Ative ou Desative as Aplicações
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
   >> No menu Administração, selecionar o item Aplicação > Listar Aplicações
   Na lista de aplicações, cada aplicação, como item da lista, apresenta dois ícones de ação à sua direita. 
   Para ativação ou desativação de uma determinada aplicação, deve-se selecionar o ícone (inserir ícone).
@@ -122,20 +134,26 @@ A partir dos ícones apresentados na parte direita para cada item da lista, é p
    :align: center
    :alt: faltaaimagem.
 
-4. Alterar Aplicação.
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+   4. Altere as informações de uma Aplicação cadastrada
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
   >> No menu Administração, selecionar o item Aplicação > Listar Aplicações
   Na lista de aplicações, cada aplicação, como item da lista, apresenta dois ícones de ação à sua direita. 
   Para alteração de uma determinada aplicação, deve-se selecionar o ícone (inserir ícone).
-  (Inserir o que acontece depois do ícone selecionado)
-  (Apresenta outra tela? Se sim, adicionar e explicar a tela)
+  
+  .. comments TODO 
+    (Inserir o que acontece depois do ícone selecionado)
+    (Apresenta outra tela? Se sim, adicionar e explicar a tela)
 
   .. image:: _imagens/alteraraplicao_1.png
    :scale: 75 %
    :align: center
    :alt: Alterar Aplicação.
 
-5. Gerar Chave de Acesso.
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+   5. Geração da Chave de Acesso
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
   >> No menu Administração, selecionar o item Gerar Chaves de Acesso.
 
@@ -145,8 +163,8 @@ A partir dos ícones apresentados na parte direita para cada item da lista, é p
    :alt: Gerar Chave de Acesso.
 
   **São requisitos para a geração da chave:**
-  Gestor do Órgão possuir certificado digital ICP-Brasil.
-  Assinador Digital SERPRO estar instalado.
+    * Gestor do Órgão possuir certificado digital ICP-Brasil.
+    * Assinador Digital SERPRO estar instalado.
 
   A chave de acesso são as credenciais que a aplicação cadastrada vai utilizar para poder acessar a API desejada. 
   O Portal do Gestor identifica automaticamente se o Assinador Digital SERPRO está instalado. Caso não tenha sido efetuada a instalação, a tela para gerar chaves de acesso apresenta as orientações para tanto.
@@ -175,11 +193,14 @@ A partir dos ícones apresentados na parte direita para cada item da lista, é p
 
   Após a leitura, o Gestor do Órgão assina o Termo de Responsabilidade, utilizando o seu certificado digital.
   
-  .. comments TODO: (Inserir tela com o botão para assinar o termo de responsabilidade)
-  .. comments .. image:: _imagens/gerarchave_4.png
-   :scale: 75 %
-   :align: center
-   :alt: Assinatura do Termo de Responsabilidade
+  .. comments TODO: 
+    (Inserir tela com o botão para assinar o termo de responsabilidade)
+
+  .. comments TODO
+    .. image:: _imagens/gerarchave_4.png
+    :scale: 75 %
+    :align: center
+    :alt: Assinatura do Termo de Responsabilidade
 
   Para finalizar e realizar a geração da chave de acesso, deve acionar o botão “Gerar Chave”, embaixo, à direita.
   Quando a geração da chave foi realizada com sucesso, é apresentada tela com mensagem de sucesso no topo e a chave de acesso e a senha como campos editáveis na parte de baixo da tela.
@@ -194,12 +215,18 @@ A partir dos ícones apresentados na parte direita para cada item da lista, é p
   O Gestor do Órgão deve copiar e salvar a chave de acesso e a senha, apresentadas como campos editáveis na parte de baixo da tela, em arquivo seguro. Não é possível recuperar essas informações após sair desta tela.
   Em caso de perda ou necessidade de geração de nova chave, deverá seguir novamente o processo aqui descrito, com a assinatura de um novo Termo de Responsabilidade e revogação da chave anterior.
   O Gestor do Órgão também deve salvar o Termo de Responsabilidade. Para tanto, deve acionar o botão “Termo de Responsabilidade”. Não é possível recuperar o Termo de Responsabilidade após sair desta tela. 
-  ------------------------------------------------------------------------------------------------------------------------
-  (Inserir tela com o botão para salvar o termo de responsabilidade)
-  ------------------------------------------------------------------------------------------------------------------------
-  (Explicar e inserir tela para o caso que não tem sucesso)
 
-  6. Como acontece o acesso da minha aplicação?
+  .. TODO
+    ------------------------------------------------------------------------------------------------------------------------
+    (Inserir tela com o botão para salvar o termo de responsabilidade)
+    ------------------------------------------------------------------------------------------------------------------------
+    (Explicar e inserir tela para o caso que não tem sucesso)
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+   6. Como acontece o acesso da minha aplicação?
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+  
 
   A chave de acesso é composta por um código de usuário e uma senha (chave pública e chave privada). O Portal do Gestor armazena somente o código do usuário para realizar a associação com o termo de responsabilidade assinado digitalmente pelo Gestor do Órgão. A chave privada enviada ao gestor não é armazenada no Portal do Gestor.
   
