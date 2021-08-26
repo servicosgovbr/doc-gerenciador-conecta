@@ -16,10 +16,15 @@ Gerenciador de APIs do Conecta
 
 .. toctree::
    :maxdepth: 3
-   :caption: Informações Técnicas
+   :caption: Manuais
 
    manual_recebedor_dados.rst
    manual_provedor_dados.rst
    manual_gestor_conecta.rst
+
+.. toctree::
+   :maxdepth: 3
+   :caption: Informações Técnicas
+
    outras_informacoes_tecnicas.rst
    faq.rst
