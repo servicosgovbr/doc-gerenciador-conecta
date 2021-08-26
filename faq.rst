@@ -14,7 +14,9 @@ Perguntas frequentes
 .. comments Criar novo CNAME e atualizar URL
 .. _subsecao-cadastre-aplicacoes: https://doc.conectagov.estaleiro.serpro.gov.br/man/gestorConsumidorAPIs/#geracao-das-chaves-de-acesso
 
+.. TODO: Corrigir o link para conseguir referenciar a seção de Cadastre as aplicações
+
       Atenção: Para geração das chaves de acesso, consulte a seção :ref:`Cadastre as aplicações <subsecao-cadastre-aplicacoes>`
-         
+      
 .. comments alterar esta url com a nova página de cadastro de aplicações
 

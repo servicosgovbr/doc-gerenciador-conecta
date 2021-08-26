@@ -81,6 +81,8 @@ Será exibida mensagem com o resultado da realização da inclusão, na parte su
 
 Caso seja a inclusão não tenha sido realizada:
 
+.. TODO: Corrigir a falta da imagem
+
 .. image:: _imagens/faltaaimagem
   :scale: 75 %
   :align: center
@@ -240,7 +242,7 @@ A partir dos ícones apresentados na parte direita para cada item da lista, é p
     - CPF do usuário que realizou a consulta;
     - Data e hora da transação e resultado da consulta retornada.
 
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
    7. Aspectos relacionados à LGPD para o Recebedor de Dados
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 

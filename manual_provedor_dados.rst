@@ -144,6 +144,8 @@ A ação Cadastrar adesão à API está descrita na seção 3.2.1.3. Cadastrar a
   Preencher os campos com as informações do nome do plano de consumo e o limite permitido para o plano em questão (em quantidade de consultas).
   Efetivar o cadastro pelo botão Incluir.
 
+.. TODO: Corrigir erro de Figura não encontrada 
+
 .. image:: _imagens/cadastrarplanodeconsumo_2.png
  :scale: 75 %
  :align: center
