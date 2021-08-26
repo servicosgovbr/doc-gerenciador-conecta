@@ -29,3 +29,6 @@ html_search_language = 'pt'
 
 # Favicon
 html_favicon = 'www.gov.br/governodigital/++theme++padrao_govbr/favicons/favicon-32x32.png'
+
+html_logo = "_imagens/logo_conecta.png"
+
