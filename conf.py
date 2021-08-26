@@ -2,7 +2,7 @@
 project = 'Gerenciados de APIs do Conecta'
 
 # Language
-language = pt_BR
+language = 'pt_BR'
 
 # Add the extension
 extensions = [
@@ -27,3 +27,5 @@ html_show_sourcelink = False
 # Language to be used for generating the HTML full-text search index.
 html_search_language = 'pt'
 
+# Favicon
+html_favicon = 'www.gov.br/governodigital/++theme++padrao_govbr/favicons/favicon-32x32.png'
