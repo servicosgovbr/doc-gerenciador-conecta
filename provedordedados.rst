@@ -15,13 +15,13 @@ O Conecta é ideal para divulgar, documentar e gerenciar a disponibilização de
     :file: _imagens/passoapassodoprovedordedados.svg
    
 O passo a passo para o recebedor de dados consiste em:
-  #. :ref:`Identifique os dados de interesse de outros órgãos <subsecao-provedor-passo-identifique-dados>`
-  #. Construa suas APIs
-  #. Inclua as APIs no Gerenciador
-  #. `Catalogue as APIs <subsecao-provedor-passo-catalogue-apis>`_
-  #. Gerencie o acesso às APIs `subsecao-provedor-passo-gerencie-acesso-apis`_
+  #. :ref:`Identifique os dados de interesse de outros órgãos <passo-identifique-dados>`
+  #. :ref:`Construa suas APIs`
+  #. :ref:`Inclua as APIs no Gerenciador`
+  #. :ref:`Catalogue as APIs <passo-catalogue-apis>`
+  #. :ref:`Gerencie o acesso às APIs <passo-gerencie-acesso-apis`
 
-.. _subsecao-provedor-passo-identifique-dados:
+.. _passo-identifique-dados:
 
 ---------------------------------------------------------
   1. Identifique os dados de interesse de outros órgãos
@@ -31,7 +31,7 @@ Identifique no seu órgão os conjuntos de dados de interesse de outros órgãos
 
 Alguns conjuntos de dados são frequentemente solicitados, outros uma análise mais apurada pode identificar o potencial de interesse.
 
-.. _subsecao-provedor-passo-construa-apis:
+.. _passo-construa-apis:
 
 ----------------------------------
 2. Construa suas APIs
@@ -40,7 +40,7 @@ Construa as APIs para a disponibilização dos dados.
 
 Caso vários órgãos tenham demonstrado interesse nos dados, a SGD pode apoiar, por meio do Programa Conecta, a construção das APIs.
 
-.. _subsecao-provedor-passo-inclua-apis-gerenciador:
+.. _passo-inclua-apis-gerenciador:
 
 --------------------------------------------
 3. Inclua as APIs no Gerenciador
@@ -51,7 +51,7 @@ Com esta inclusão você terá mais controle de acesso às APIs, melhor monitora
 
 A SGD ainda, conforme acordado, poderá intermediar as solicitações de autorizações de acesso a sua API facilitando a gestão destas autorizações.
 
-.. _subsecao-provedor-passo-catalogue-apis:
+.. _passo-catalogue-apis:
 
 ----------------------------------
 4. Catalogue as APIs
@@ -62,7 +62,7 @@ Defina a forma como serão dadas as autorizações de acesso aos dados.
 
 A SGD repassará um template para facilitar a elaboração destas definições.
 
-.. _subsecao-provedor-passo-gerencie-acesso-apis:
+.. _passo-gerencie-acesso-apis:
 
 --------------------------------------------
 5. Gerencie o acesso às APIs
