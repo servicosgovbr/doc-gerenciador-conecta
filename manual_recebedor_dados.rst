@@ -9,8 +9,6 @@ Manual do Recebedor de Dados
       -  `Cadastre as Aplicações <cadastre-as-aplicacoes>`__
       -  `Geração das Chaves de Acesso <geracao-chaves-acesso>`__
 
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-    2.1.1 Listar Planos de Consumo.
 .. _roteiro-geracao-chaves-acesso:
 
 ---------------------------------------------------------

@@ -156,9 +156,9 @@ A ação **Alterar o plano de consumo** é similar à ação `Cadastrar Plano de
 .. image:: _imagens/cadastrarplanodeconsumo_1.png
  :scale: 75 %
  :align: center
- :alt: Cadastrar Plano de Consumo. 
+ :alt: Cadastrar Plano de Consumo
 
-  Na tela de cadastro, o Gestor do Órgão deve:
+Na tela de cadastro, o Gestor do Órgão deve:
     #. Associar o plano de consumo sendo criado com a API para a qual ele vai ser utilizado;
     #. Preencher os campos com as informações do nome do plano de consumo e o limite permitido para o plano em questão (em quantidade de consultas).
     #. Efetivar o cadastro pelo botão Incluir.
