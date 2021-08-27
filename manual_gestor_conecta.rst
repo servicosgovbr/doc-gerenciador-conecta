@@ -22,8 +22,8 @@ Manual do Gestor do Conecta
     -  `Painel de Monitoramento
        (Grafana) <#painel-de-monitoramento-grafana>`__
     
-.. rubric:: O perfil Gestor da Plataforma
-  :name: o-perfil-gestor-da-plataforma
+
+.. :name: o-perfil-gestor-da-plataforma
 
 ------------------------------------------------------------------------------------------------
 O perfil Gestor da Plataforma
@@ -37,8 +37,7 @@ Além disso, também tem acesso a todos os relatórios disponíveis na ferrament
 
 |image0|
 
-.. rubric:: Cadastro de Novo Órgão
-  :name: cadastro-de-novo-orgao
+.. :name: cadastro-de-novo-orgao
 
 ------------------------------------------------------------------------------------------------
 Cadastro de Novo Órgão
@@ -50,13 +49,12 @@ Após selecionar a opção **Cadastro de Novo Órgão**, a seguinte tela será e
 
 O gestor da plataforma preenche os campos e aciona o botão **Incluir**. Se tudo estiver de acordo, uma mensagem de sucesso da inclusão será exibida conforme mostra a tela abaixo. A partir da inclusão será possível **Alterar** os dados do Órgão ou gerenciar as **Adesões** do órgão incluído. |image3|
 
+.. :name: listar-orgaos
 
 ------------------------------------------------------------------------------------------------
 Listar Órgãos
 ------------------------------------------------------------------------------------------------
 
-.. rubric:: Listar Órgãos
-  :name: listar-orgaos
 
 
 A partir da funcionalidade **Listar Órgãos** será possível exibir os órgãos cadastrados, inativar um determinado órgão e/ou alterar seus dados. |image4|
@@ -66,8 +64,7 @@ O preenchimento dos campos do filtro de pesquisa é opcional. O resultado da pes
 ------------------------------------------------------------------------------------------------
 Adesões
 ------------------------------------------------------------------------------------------------
-.. rubric:: Adesões
- :name: adesoes
+.. :name: adesoes
 
 Após cadastrar um órgão, o usuário poderá cadastrar às adesões (APIs x Planos) para o órgão em questão. Para tal, deverá acionar o botão **Adesões** logo após o cadastro do órgão como indicado anteriormente ou através da funcionalidade **Listar Órgãos** acessar o gerenciamento de adesões de um órgão qualquer como mostrado na figura abaixo: |image6|
 
@@ -76,8 +73,7 @@ Após cadastrar um órgão, o usuário poderá cadastrar às adesões (APIs x Pl
 ------------------------------------------------------------------------------------------------
 Cadastro de Gestor
 ------------------------------------------------------------------------------------------------
-.. rubric:: Cadastro de Gestor
- :name: cadastro-de-gestor
+.. :name: cadastro-de-gestor
 
 Para cadastrar um Gestor de Órgão o usuário com perfil Gestor da Plataforma deve selecionar a opção n**Cadastro de Novo Gestor**. |image8|
 
@@ -94,8 +90,7 @@ A partir desse cadastro, o usuário gestor de órgão poderá acessar a Platafor
 ------------------------------------------------------------------------------------------------
 Listar Gestores
 ------------------------------------------------------------------------------------------------
-.. rubric:: Listar Gestores
- :name: listar-gestores
+.. :name: listar-gestores
 
 Para listar os gestores o usuário deverá selecionar a opção **Listar Gestores**. |image11|
 
@@ -104,8 +99,7 @@ Através da funcionalidade **Listar Gestores** será possível fazer a inativaç
 ------------------------------------------------------------------------------------------------
 Cadastro de Plano de Consumo
 ------------------------------------------------------------------------------------------------
-.. rubric:: Cadastro de Plano de Consumo
- :name: cadastro-de-plano-de-consumo
+.. :name: cadastro-de-plano-de-consumo
 
 Para cadastrar um novo Plano de Consumo, o usuário deverá selecionar a opção **Cadastro de Novo Plano de Consumo**. |image13|
 
@@ -124,8 +118,7 @@ Se tudo estiver de acordo, uma mensagem de sucesso da inclusão será exibida co
 ------------------------------------------------------------------------------------------------
 Listar Planos de Consumo
 ------------------------------------------------------------------------------------------------
-.. rubric:: Listar Planos de Consumo
- :name: listar-planos-de-consumo
+.. :name: listar-planos-de-consumo
 
 Para listar os Plano de Consumo, o usuário deverá selecionar a opção **Listar Planos de Consumo**. A partir dessa funcionalidade será possível exibir os planos de consumo cadastrados, inativar um determinado plano e alterar seus dados. |image16|
 
@@ -136,19 +129,17 @@ O resultado da pesquisa será apresentado de forma paginada conforme mostrado ab
 ------------------------------------------------------------------------------------------------
 Relatório de consumo das APIs
 ------------------------------------------------------------------------------------------------
-.. rubric:: Relatório de consumo das APIs
- :name: relatorio-de-consumo-das-apis
+.. :name: relatorio-de-consumo-das-apis
 
 A funcionalidade **Relatório de Consumo** pode ser acessada através do menu conforme a figura abaixo:
 |image19|
 
 O relatório permite que os dados sejam filtrados de acordo com o **órgão consumidor, api(todas ou uma específica), data inicial, data final**. Se desejar, o usuário poderá visualizar as informações de acordo com o consumo diário (basta marcar o campo **mostrar uso diário**). A base de dados do relatório de consumo é atualizada a cada 15(quinze) minutos. Para gerar um relatório, o usuário deverá preencher os campos do **filtro**\ (nenhum campo é obrigatório) e acionar o botão **Pesquisar** conforme mostrado na tela abaixo.
 
-**Importante:**
-
--  serão exibidas as APIs vinculadas à adesões (ativas ou não).
--  se o usuário selecionar um órgão consumidor, a  lista será atualizada com as APIs vinculadas a adesões (ativas ou não) do órgão consumidor  selecionado.
--  serão exibidos os órgãos vinculadas a adesões (ativas ou não).
+.. important::
+  -  serão exibidas as APIs vinculadas à adesões (ativas ou não).
+  -  se o usuário selecionar um órgão consumidor, a  lista será atualizada com as APIs vinculadas a adesões (ativas ou não) do órgão consumidor  selecionado.
+  -  serão exibidos os órgãos vinculadas a adesões (ativas ou não).
 
 |image20|
 
@@ -160,8 +151,7 @@ Relatório PDF**).
 ------------------------------------------------------------------------------------------------
 Relatório de disponibilidade das APIs
 ------------------------------------------------------------------------------------------------
-.. rubric:: Relatório de disponibilidade das APIs
- :name: relatorio-de-disponibilidade-das-apis
+.. :name: relatorio-de-disponibilidade-das-apis
 
 A funcionalidade **Relatório de Disponibilidade** pode ser acessada através do menu conforme a figura abaixo:
 |image22|
@@ -176,8 +166,7 @@ Após a geração do relatório será possível exportá-lo para o formato **pdf
 ------------------------------------------------------------------------------------------------
 Relatório Gerencial
 ------------------------------------------------------------------------------------------------
-.. rubric:: Relatório Gerencial
- :name: relatorio-gerencial
+.. :name: relatorio-gerencial
 
 A funcionalidade **Relatório Gerencial** pode ser acessada através do menu conforme a figura abaixo:
 |image25|
@@ -203,8 +192,7 @@ Relatório PDF**).
 ------------------------------------------------------------------------------------------------
 Relatório de Auditoria
 ------------------------------------------------------------------------------------------------
-.. rubric:: Relatório de Auditoria
- :name: relatorio-de-auditoria
+.. :name: relatorio-de-auditoria
 
 A funcionalidade **Relatório Auditoria** pode ser
 acessada através do menu conforme a figura abaixo:
@@ -219,11 +207,10 @@ preencher os campos do **filtro**\ (todos os campos
 são obrigatórios) e acionar o botão **Pesquisar**
 conforme mostrado na tela abaixo.
 
-**Importante:**
-
--  serão exibidas as APIs vinculadas à adesões (ativas ou não).
--  se o usuário selecionar um órgão consumidor, a lista será atualizada com as APIs vinculadas a adesões (ativas ou não) do órgão consumidor selecionado.
--  serão exibidos os órgãos vinculadas a adesões (ativas ou não).
+.. important::
+  -  serão exibidas as APIs vinculadas à adesões (ativas ou não).
+  -  se o usuário selecionar um órgão consumidor, a lista será atualizada com as APIs vinculadas a adesões (ativas ou não) do órgão consumidor selecionado.
+  -  serão exibidos os órgãos vinculadas a adesões (ativas ou não).
 
 |image29|
 
@@ -237,14 +224,6 @@ Após a geração do relatório será possível exportá-lo
 para os formatos **csv** e/ou **pdf**. Para tal, basta
 clicar no botão correspondente(**Relatório CSV ou
 Relatório PDF**).
-
-------------------------------------------------------------------------------------------------
-Painel de Monitoramento (Grafana)
-------------------------------------------------------------------------------------------------
-.. rubric:: Painel de Monitoramento (Grafana)
- :name: painel-de-monitoramento-grafana
-
-Em construção...
 
 .. |image0| image:: _imagens_portal_antigo/gestorSGD/telaInicialSGD.png
 .. |image1| image:: _imagens_portal_antigo/gestorSGD/CadastroDeOrgaoMenu.png
