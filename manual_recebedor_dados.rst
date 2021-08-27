@@ -216,7 +216,7 @@ A partir dos ícones apresentados na parte direita para cada item da lista, é p
   O Gestor do Órgão também deve salvar o Termo de Responsabilidade. Para tanto, deve acionar o botão “Termo de Responsabilidade”. Não é possível recuperar o Termo de Responsabilidade após sair desta tela. 
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-   6. Como acontece o acesso da minha aplicação?
+   5. Como acontece o acesso da minha aplicação?
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
   A chave de acesso é composta por um código de usuário e uma senha (chave pública e chave privada). O Portal do Gestor armazena somente o código do usuário para realizar a associação com o termo de responsabilidade assinado digitalmente pelo Gestor do Órgão. A chave privada enviada ao gestor não é armazenada no Portal do Gestor.
@@ -235,7 +235,8 @@ A partir dos ícones apresentados na parte direita para cada item da lista, é p
     - CPF do usuário que realizou a consulta;
     - Data e hora da transação e resultado da consulta retornada.
 
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-   7. Aspectos relacionados à LGPD para o Recebedor de Dados
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
+.. comments
+     ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+        6. Aspectos relacionados à LGPD para o Recebedor de Dados
+     ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+     Em construção ...
