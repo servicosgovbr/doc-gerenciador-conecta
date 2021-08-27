@@ -12,20 +12,15 @@ O Pograma Conecta é ideal para divulgar, documentar e gerenciar a disponibiliza
 
 Através do `Catálogo de APIs do Conecta <url-catalogo-conecta>`_ suas APIs são melhor divulgadas e documentadas o que facilita a obtenção das informações sobre as APIs, da forma de autorização de acesso e da concessão do acesso aos dados.
 
-.. comments image:: _imagens/passoapassodoprovedordedados.svg
- :scale: 75 %
- :align: center
- :alt: Figura do passo a passo do Recebedor de Dados
-
 .. raw:: html
     :file: _imagens/passoapassodoprovedordedados.svg
 
 O passo a passo para o provedor de dados consiste em:
-  #. :ref:`Identifique os dados de interesse de outros órgãos <passo-identifique-dados>`
-  #. :ref:`Construa suas APIs <passo-construa-apis>`
-  #. :ref:`Inclua as APIs no Gerenciador <passo-inclua-apis-gerenciador>`
-  #. :ref:`Catalogue as APIs <passo-catalogue-apis>`
-  #. :ref:`Gerencie o acesso às APIs <passo-gerencie-acesso-apis>`
+  #. `Identifique os dados de interesse de outros órgãos <#passo-identifique-dados>`__
+  #. `Construa suas APIs <#passo-construa-apis>`__
+  #. `Inclua as APIs no Gerenciador <#passo-inclua-apis-gerenciador>`__
+  #. `Catalogue as APIs <#passo-catalogue-apis>`__
+  #. `Gerencie o acesso às APIs <#passo-gerencie-acesso-apis>`__
 
 .. _passo-identifique-dados:
 
