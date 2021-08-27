@@ -26,7 +26,7 @@ O perfil Gestor da Plataforma
 
 O gestor da Plataforma é o responsável por viabilizar o acesso dos órgãos às APIS disponibilizadas pelo Conecta.
 
-O gestor da Plataforma têm acesso completo às funcionalidades de cadastro: cadastrar órgão, cadastrar gestor, cadastrar planos de consumo.
+O gestor da Plataforma tem acesso completo às funcionalidades de cadastro: cadastrar órgão, cadastrar gestor, cadastrar planos de consumo.
 
 Além disso, também tem acesso a todos os relatórios disponíveis na ferramenta. Abaixo, segue a tela com uma visão geral de todos os menus disponíveis para o perfil gestor da plataforma.
 
@@ -72,17 +72,18 @@ Após cadastrar um órgão, o usuário poderá cadastrar às adesões (APIs x Pl
 Cadastro de Gestor
 ------------------------------------------------------------------------------------------------
 
-Para cadastrar um Gestor de Órgão o usuário com perfil Gestor da Plataforma deve selecionar a opção n**Cadastro de Novo Gestor**. |image8|
+Para cadastrar um Gestor de Órgão o usuário com perfil Gestor da Plataforma deve selecionar a opção **Cadastro de Novo Gestor**. |image8|
 
 O gestor da plataforma seleciona o órgão e caso o órgão selecionado seja vinculado ao SIAPE será apresentada a tela abaixo onde é necessário preencher apenas o campo CPF e acionar o botão **Pesquisar Servidor**. |image9|
 
 O sistema faz uma consulta ao Web Service do SIGEPE para recuperar os dados do Servidor. O SIGEPE retorna os dados e o usuário aciona o botão Incluir.
 
-Caso o órgão selecionado **não** seja vinculado ao SIAPE, o cadastro deverá ser preenchido pelo Gestor da Plataforma , que deverá preencher todos os campos do cadastro de acordo com a tela abaixo: |image10|
+Caso o órgão selecionado **não** seja vinculado ao SIAPE, o cadastro deverá ser preenchido pelo Gestor da Plataforma, que deverá preencher todos os campos do cadastro de acordo com a tela abaixo: |image10|
 
-A partir desse cadastro, o usuário gestor de órgão poderá acessar a Plataforma de Gestão de Acesso do CONECTA para fazer o cadastro da aplicação e geração das chaves de acesso para consumir a API.
+A partir desse cadastro, o usuário gestor de órgão poderá acessar o Portal do Gestor para cadastrar as aplicações e gerar as chaves de acesso para consumo das APIs.
 
-**Observação:** se o órgão selecionado pelo usuário possuir alguma API cadastrada, será disponibilizada ao usuário uma lista para selecionar, opcionalmente, essas API’s. O gestor cadastrado será gestor das API’s selecionadas pelo usuário
+.. note::
+  Caso o órgão selecionado possua várias APIs, uma lista será exibida para selecionar, opcionalmente, essas API’s. O gestor cadastrado será gestor das API’s selecionadas.
 
 .. _listar-gestores:
 
