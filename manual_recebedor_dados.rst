@@ -4,37 +4,48 @@
 Manual do Recebedor de Dados
 ########################################
 
-.. _subsecao-cadastre-aplicacoes-obtenha-chaves-acesso:
+    Seções principais:
+      -  `Roteiro para geração das chaves de acesso <roteiro-geracao-chaves-acesso>`__
+      -  `Cadastre as Aplicações <cadastre-as-aplicacoes>`__
+      -  `Geração das Chaves de Acesso <geracao-chaves-acesso>`__
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    2.1.1 Listar Planos de Consumo.
+.. _roteiro-geracao-chaves-acesso:
 
 ---------------------------------------------------------
-Cadastre as aplicações e obtenha as chaves de acesso
+Roteiro para geração das chaves de acesso
 ---------------------------------------------------------
 
 O Gestor do Órgão deverá:
 
   1. Cadastrar Aplicação
 
-     O Gestor do Órgão cadastra a aplicação que irá realizar o acesso à API.
+     O Gestor do Órgão cadastra as aplicações que realizarão o acesso à API.
 
-        Sugere-se que sejam cadastradas aplicações diferentes para sistemas diferentes do órgão, de tal forma que o controle de consumo possa ser feito de maneira mais detalhada.
+       .. important:: Sugere-se que sejam cadastradas aplicações diferentes para sistemas diferentes do órgão, de tal forma que o controle de consumo possa ser feito de maneira mais detalhada.
+
+       .. note:: Para cadastrar as aplicações siga as instruções em `Cadastre as Aplicações <cadastre-as-aplicacoes>`__.
 
   2. Gerar chave de acesso
 
-    O Gestor do Órgão assina o termo de responsabilidade para uso dos dados e gera a chave de acesso.
-    Para cada aplicação, o Gestor do Órgão deve ler e assinar eletronicamente o termo de responsabilidade, com certificado digital, e gerar a chave de acesso que vai permitir a integração da aplicação com a API em questão. 
+     O Gestor do Órgão assina o termo de responsabilidade para uso dos dados e gera a chave de acesso.
+     Para cada aplicação, o Gestor do Órgão deve ler e assinar eletronicamente o termo de responsabilidade, com certificado digital, e gerar a chave de acesso que vai permitir a integração da aplicação com a API em questão. 
 
-    O termo de responsabilidade é associado à chave de acesso gerada. Ressaltamos a necessidade do Gestor do Órgão fazer o download do termo de responsabilidade.
+     O termo de responsabilidade é associado à chave de acesso gerada. Ressaltamos a necessidade do Gestor do Órgão fazer o download do termo de responsabilidade.
 
-    Uma chave de acesso é uma sequência de números e letras (alfanumérico) que representam uma credencial de acesso. Esta credencial de acesso é informada no acesso a uma API para identificar o aplicativo de chamada ou o usuário e usada para monitorar e controlar a forma como a API está sendo utilizada.
-    Quando gerada outra chave de acesso para a mesma aplicação, a chave de acesso anterior passa a ter um período de validade de 6 (seis) meses.
-    As chaves de acesso não são armazenadas na plataforma e, portanto, não podem ser recuperadas. É responsabilidade do Gestor do Órgão armazenar a sua chave de acesso de forma segura.
+     Uma chave de acesso é uma sequência de números e letras (alfanumérico) que representam uma credencial de acesso. Esta credencial de acesso é informada no acesso a uma API para identificar o aplicativo de chamada ou o usuário e usada para monitorar e controlar a forma como a API está sendo utilizada.
+     Quando gerada outra chave de acesso para a mesma aplicação, a chave de acesso anterior passa a ter um período de validade de 6 (seis) meses.
+     As chaves de acesso não são armazenadas na plataforma e, portanto, não podem ser recuperadas. É responsabilidade do Gestor do Órgão armazenar a sua chave de acesso de forma segura.
+
+       .. note:: Para geração das chaves de acesso siga as instruções em `Geração das Chaves de Acesso <geracao-chaves-acesso>`__.
 
   3. Encaminhar internamente a chave de acesso para o responsável técnico.
 
-.. _roteiro-geracao-chaves-acesso:
+.. _subsecao-funcionalidades-recebedor-dados:
 
 ---------------------------------------------------------
-Roteiro para geração das chaves de acesso
+Funcionalidades para o recebedor de dados
 ---------------------------------------------------------
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -59,6 +70,8 @@ Esta é a tela inicial para o perfil Gestor do Órgão:
    :align: center
    :alt: Como fazer
 
+.. _cadastre-as-aplicacoes:
+
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
    2. Cadastre as Aplicações
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -73,7 +86,7 @@ Esta é a tela inicial para o perfil Gestor do Órgão:
 .. image:: _imagens/cadastraraplicacao_1.png
    :scale: 75 %
    :align: center
-   :alt: Cadastrar de Nova Aplicação.
+   :alt: Cadastrar Nova Aplicação.
 
 Será exibida mensagem com o resultado da realização da inclusão, na parte superior da tela, abaixo do menu.
 **Caso a inclusão seja realizada com sucesso:**
@@ -81,26 +94,17 @@ Será exibida mensagem com o resultado da realização da inclusão, na parte su
 .. image:: _imagens/cadastraraplicacao_2.png
     :scale: 75 %
     :align: center
-    :alt: Cadastrar de Nova Aplicação.
-
-Caso seja a inclusão não tenha sido realizada:
-
-.. TODO: Corrigir a falta da imagem
-
-.. image:: _imagens/faltaaimagem
-  :scale: 75 %
-  :align: center
-  :alt: faltaaimagem.
+    :alt: Cadastrar Nova Aplicação.
 
 Exemplo de preenchimento:
 
-.. image:: _imagens/cadastraraplicacao_2.png
+.. image:: _imagens/cadastraraplicacao_3.png
    :scale: 75 %
    :align: center
-   :alt: Cadastrar de Nova Aplicação.
+   :alt: Cadastrar Nova Aplicação.
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-   2. Liste as Aplicações Cadastradas
+   3. Liste as Aplicações Cadastradas
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 >> No menu Administração, selecionar o item Aplicação > Listar Aplicações
@@ -123,39 +127,36 @@ A partir dos ícones apresentados na parte direita para cada item da lista, é p
  :align: center
  :alt: Lista De Aplicações.
 
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-   3. Ative ou Desative as Aplicações
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+     3.1. Ative ou Desative as Aplicações
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
   >> No menu Administração, selecionar o item Aplicação > Listar Aplicações
-  Na lista de aplicações, cada aplicação, como item da lista, apresenta dois ícones de ação à sua direita. 
-  Para ativação ou desativação de uma determinada aplicação, deve-se selecionar o ícone (inserir ícone).
-  (Inserir o que acontece depois do ícone selecionado)
-
+  Na lista de aplicações, cada aplicação, como item da lista, apresenta os *ícones de ação* à sua direita.
+  Para ativação ou desativação de uma determinada aplicação, deve-se selecionar os ícones de **Desativação e/ou ativação**.
+  
   .. image:: _imagens/ativardesativar_1.png
    :scale: 75 %
    :align: center
-   :alt: faltaaimagem.
+   :alt: Ativar desativar aplicação.
 
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-   4. Altere as informações de uma Aplicação cadastrada
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+     3.2. Altere as informações de uma Aplicação cadastrada
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
   >> No menu Administração, selecionar o item Aplicação > Listar Aplicações
-  Na lista de aplicações, cada aplicação, como item da lista, apresenta dois ícones de ação à sua direita. 
-  Para alteração de uma determinada aplicação, deve-se selecionar o ícone (inserir ícone).
-  
-  .. comments TODO 
-    (Inserir o que acontece depois do ícone selecionado)
-    (Apresenta outra tela? Se sim, adicionar e explicar a tela)
+  Na lista de aplicações, cada aplicação, como item da lista, apresenta os *ícones de ação* à sua direita.
+  Para alteração de uma determinada aplicação, deve-se selecionar o ícone **Edição da Aplicação**.
 
   .. image:: _imagens/alteraraplicao_1.png
    :scale: 75 %
    :align: center
    :alt: Alterar Aplicação.
 
+.. _geracao-chaves-acesso:
+
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-   5. Geração da Chave de Acesso
+   4. Geração das Chaves de Acesso
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
   >> No menu Administração, selecionar o item Gerar Chaves de Acesso.
@@ -170,10 +171,10 @@ A partir dos ícones apresentados na parte direita para cada item da lista, é p
       * Gestor do Órgão possuir certificado digital ICP-Brasil.
       * Assinador Digital SERPRO estar instalado.
 
-.. tip::  A chave de acesso são as credenciais que a aplicação cadastrada vai utilizar para poder acessar a API desejada.
+.. tip::  As chaves de acesso são as credenciais que as aplicações cadastradas utilizarão para acessar as APIs desejadas.
 
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
-      5.1. Assinatura do Termo de Responsabilidade
+      4.1. Assinatura do Termo de Responsabilidade
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
   O Portal do Gestor identifica automaticamente se o Assinador Digital SERPRO está instalado. Caso não tenha sido efetuada a instalação, a tela para gerar chaves de acesso apresenta as orientações para tanto.
@@ -198,20 +199,9 @@ A partir dos ícones apresentados na parte direita para cada item da lista, é p
    :align: center
    :alt: Gerar Chave de Acesso.
 
-
-
   O Gestor do Órgão deve ler o Termo de Responsabilidade. Este Termo possui identificação única e dados do Gestor do Órgão. Se algum dado não estiver correto, o Gestor do Órgão deve entrar em contato pelo email conecta@economia.gov.br.
 
   Após a leitura, o Gestor do Órgão assina o Termo de Responsabilidade, utilizando o seu certificado digital.
-  
-  .. comments TODO: 
-    (Inserir tela com o botão para assinar o termo de responsabilidade)
-
-  .. comments TODO
-    .. image:: _imagens/gerarchave_4.png
-    :scale: 75 %
-    :align: center
-    :alt: Assinatura do Termo de Responsabilidade
 
   Para finalizar e realizar a geração da chave de acesso, deve acionar o botão "Gerar Chave", embaixo, à direita.
   Quando a geração da chave foi realizada com sucesso, é apresentada tela com mensagem de sucesso no topo e a chave de acesso e a senha como campos editáveis na parte de baixo da tela.
@@ -226,13 +216,6 @@ A partir dos ícones apresentados na parte direita para cada item da lista, é p
   O Gestor do Órgão deve copiar e salvar a chave de acesso e a senha, apresentadas como campos editáveis na parte de baixo da tela, em arquivo seguro. Não é possível recuperar essas informações após sair desta tela.
   Em caso de perda ou necessidade de geração de nova chave, deverá seguir novamente o processo aqui descrito, com a assinatura de um novo Termo de Responsabilidade e revogação da chave anterior.
   O Gestor do Órgão também deve salvar o Termo de Responsabilidade. Para tanto, deve acionar o botão “Termo de Responsabilidade”. Não é possível recuperar o Termo de Responsabilidade após sair desta tela. 
-
-  .. TODO
-    ------------------------------------------------------------------------------------------------------------------------
-    (Inserir tela com o botão para salvar o termo de responsabilidade)
-    ------------------------------------------------------------------------------------------------------------------------
-    (Explicar e inserir tela para o caso que não tem sucesso)
-
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
    6. Como acontece o acesso da minha aplicação?

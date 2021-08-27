@@ -5,6 +5,11 @@ Perguntas frequentes
 ########################
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+1. Consigo utilizar uma única chave de acesso para diferentes aplicações?
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+      Não. Cada concessão de acesso dada gera uma chave diferente independente.
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 1. Caso o gestor responsável técnico que gerou as chaves de acesso das aplicações se desligue do órgão, as chaves de acesso deixam de funcionar?
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
@@ -17,8 +22,6 @@ Perguntas frequentes
       Caso seja a primeira integração desenvolvida para acesso a uma API através do Gerenciador do Conecta, é necessário previamente cadastrar os IPs do órgão para que se proceda a criação de regra de firewall no Serpro que libere o acesso à Plataforma.​
 
 .. note:: Para geração das chaves de acesso, consulte :ref:`Roteiro para geração das chaves de acesso <roteiro-geracao-chaves-acesso>`.
-
-.. note:: Para geração das chaves de acesso, consulte `Roteiro para geração das chaves de acesso <roteiro-geracao-chaves-acesso>`__.
 
 .. _url-roteiro-geracao-chaves-acesso: https://gov.br/conecta/doc-gerenciador/manual_recebedor_dados.html#roteiro-geracao-chaves-acesso
 

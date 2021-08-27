@@ -32,42 +32,59 @@ Manual do Provedor de Dados
 .. _Documenting APIs: A guide for technical writers and engineers: https://idratherbewriting.com/learnapidoc/
 
 ------------------------------------------------------
-2. Como Gerenciar o acesso às minhas APIs.
+2. Como Gerenciar o acesso às minhas APIs
 ------------------------------------------------------
 
-Para gerenciar o acesso a suas APIs, o órgão provedor de dados indicará um integrante, que será cadastrado pela equipe interna no perfil Gestor de APIs.
+Para gerenciar o acesso a suas APIs, o órgão provedor de dados indicará um integrante, que será cadastrado pela equipe interna no perfil *Gestor de APIs*.
+
 Para disponibilizar suas APIs, o Gestor de APIs deve:
 
-  1. **Cadastrar Plano de Consumo**.
+  1. `Cadastrar Plano de Consumo <cadastrar-plano-consumo>`__
 
-    Um plano de consumo é o nome da associação de uma API com um limite de consultas. Ele especifica a quantidade máxima permitida de acessos à API para o período de um ano (limite de consumo).
-    O Gestor de APIs pode realizar o controle de consumo de sua API através da definição de diferentes planos de consumo, que serão utilizados para limitar a consulta de diferentes órgãos recebedores de dados.
+     Um plano de consumo é o nome da associação de uma API com um limite de consultas. Ele especifica a quantidade máxima permitida de acessos à API para o período de um ano (limite de consumo).
+     
+     O Gestor de APIs pode realizar o controle de consumo de sua API através da definição de diferentes planos de consumo, que serão utilizados para limitar a consulta de diferentes órgãos recebedores de dados.
 
-  2. **Cadastrar adesão a minha API pelos órgãos recebedores de dados.**
+  2. `Cadastrar adesão à API <cadastrar-adesao-api>`__
+     
+     O cadastro de adesões à API permite que se conceda acesso a novos órgão às suas APIs gerenciadas.
 
-.. comments: TODO: (Não entendi, porque aqui é API com Plano de Consumo, mas o Plano de Consumo já tem a API no cadastro...)
-    
 Além dessas funcionalidades, o Gestor de APIs também pode:
 
-  3. **Listar Plano de Consumo.**
+  3. `Listar Planos de Consumo <listar-planos-consumo>`__
 
-    Apresenta todos os planos de consumo cadastrados no Gerenciador de APIs do Conecta para este Gestor do Órgão.
+     Apresenta todos os planos de consumo cadastrados no Gerenciador de APIs do Conecta para este Gestor do Órgão.
 
-  4. **Listar órgãos cadastrados.**
+  4. `Listar órgãos cadastrados <listar-orgaos-cadastrados>`__
 
-    Apresenta todos os órgãos cadastrados no Gerenciador de APIs do Conecta.
+     Apresenta todos os órgãos cadastrados no Gerenciador de APIs do Conecta.
 
-  5. **Cadastrar Gestor do órgão recebedor de dados.**
+  5. `Cadastrar Gestor do órgão recebedor de dados <cadastro-gestor-orgao>`__
 
-    Permite que um integrante do órgão recebedor de dados seja cadastrado com o perfil Gestor de API no Gerenciador de APIs do Conecta.
+     Permite que um integrante do órgão recebedor de dados seja cadastrado com o perfil Gestor de API no Gerenciador de APIs do Conecta.
 
-  6. **Listar Gestor do órgão recebedor de dados.**
+  6. `Listar Gestor do órgão recebedor de dados <listar-gestor>`__
 
-    Apresenta todos os Gestores de APIs do órgão recebedor de dados.
+     Apresenta todos os Gestores de APIs do órgão recebedor de dados.
 
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-  2.1 Como fazer
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+------------------------------------------------------
+3. Instruções para o Gestor de APIs
+------------------------------------------------------
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+   3.1. Entre no Portal do Gestor
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+.. comments TODO:
+   Criar novo CNAME e atualizar URL
+
+.. _url-portal-gestor-gerenciador-apis: http://gestor.conectagov.estaleiro.serpro.gov.br
+
+  Logue na `Portal do Gestor <url-portal-gestor-gerenciador-apis>`_ utilizando sua `Conta gov.br <https://www.gov.br/pt-br/servicos/criar-sua-conta-meu-gov.br>`_.
+
+.. tip::
+
+     Pode-se acessar a conta tanto com senha ou certificado digital
 
 Esta é a tela inicial para o perfil Gestor de APIs, após o mesmo ter sido autenticado pelo Acesso gov.br:
 
@@ -76,8 +93,10 @@ Esta é a tela inicial para o perfil Gestor de APIs, após o mesmo ter sido aute
  :align: center
  :alt: Como fazer
 
+.. _listar-planos-consumo: 
+
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-    2.1.1 Listar Planos de Consumo.
+    3.2. Listar Planos de Consumo.
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 >> No menu Administração, selecionar o item Plano > Listar Planos de Consumo
@@ -106,10 +125,11 @@ Após a escolha dos filtros, que é opcional, basta acionar o botão “Pesquisa
      * Nome do Plano de Consumo
      * Limite do Plano de Consumo
      * Situação do Plano de Consumo
+
    A partir da lista, é possível executar as seguintes ações para cada item, conforme ilustrado na tela abaixo:
      1. Ativar/desativar o plano de consumo
      2. Alterar o plano de consumo
-     3. Cadastrar adesão à API
+     3. `Cadastrar adesão à API <cadastrar-adesao-api>`__
 
 .. image:: _imagens/listarplanosdeconsumo_2.png
      :scale: 75 %
@@ -123,11 +143,12 @@ Após a escolha dos filtros, que é opcional, basta acionar o botão “Pesquisa
 
 A ação Ativar/desativar o plano de consumo faz com que o plano de consumo mude entre os estados ativado e desativado. Um plano de consumo ativado pode ser utilizado no cadastro de adesão de APIs, enquanto um desativado não permite a ação mencionada.
 
-A ação Alterar o plano de consumo é similar à ação Cadastrar Plano de Consumo e seu modo de fazer está descrito na seção 3.2.1.2. Cadastrar Plano de Consumo
-A ação Cadastrar adesão à API está descrita na seção 3.2.1.3. Cadastrar adesão à minha API pelos órgãos recebedores de dados
+A ação **Alterar o plano de consumo** é similar à ação `Cadastrar Plano de Consumo <cadastrar-plano-consumo>`__.
+
+.. _cadastrar-plano-consumo:
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-    2.1.2 Cadastrar Plano de Consumo
+    3.3. Cadastrar Plano de Consumo
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 >> No menu Administração, selecionar o item Plano >  Cadastro de Novo Plano de Consumo. 
@@ -137,14 +158,10 @@ A ação Cadastrar adesão à API está descrita na seção 3.2.1.3. Cadastrar a
  :align: center
  :alt: Cadastrar Plano de Consumo. 
 
-
-.. note:: 
   Na tela de cadastro, o Gestor do Órgão deve:
     #. Associar o plano de consumo sendo criado com a API para a qual ele vai ser utilizado;
     #. Preencher os campos com as informações do nome do plano de consumo e o limite permitido para o plano em questão (em quantidade de consultas).
     #. Efetivar o cadastro pelo botão Incluir.
-
-.. TODO: Corrigir erro de Figura não encontrada 
 
 .. image:: _imagens/cadastrarplanodeconsumo_2.png
  :scale: 75 %
@@ -167,11 +184,14 @@ A alteração é realizada da mesma forma que o cadastro, sendo que os campos s�
  :align: center
  :alt: Cadastrar Plano de Consumo.
 
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-    2.1.3 Cadastrar adesão à minha API
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+.. _cadastrar-adesao-api:
 
->> A partir da ação Cadastrar adesão à API no item desejado da lista de planos de consumo (ver seção 3.2.1.1. Listar Planos de Consumo)
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    3.4. Cadastrar adesão à API
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+ 
+>> A partir da ação **Cadastrar adesão à API** no item desejado da lista de planos de consumo (conforme descrito em `Listar Planos de Consumo <listar-planos-consumo>`__), são exibidas as adesões existentes e é possível cadastrar novas adesões.
+
 A tela de cadastro apresenta todas as adesões existentes para o órgão provedor de dados. O Gestor do Órgão deve:
 
   1. Associar o nome da API ao plano de consumo desejado;
@@ -181,13 +201,15 @@ A tela de cadastro apresenta todas as adesões existentes para o órgão provedo
   .. image:: _imagens/cadastraradesaoaminhaAPI_1.png
    :scale: 75 %
    :align: center
-   :alt: Cadastrar adesão à minha API.
+   :alt: Cadastrar adesão à API.
+
+.. _listar-orgaos-cadastrados:
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-    2.1.4 Listar Órgãos Cadastrados
+    3.5. Listar Órgãos Cadastrados
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
->> No menu Administração, selecionar o item Órgão >  Listar Órgão
+>> No menu Administração, selecionar o item Órgão >  **Listar Órgão**
 
 
 .. image:: _imagens/listarorgaoscadastrados_1.png
@@ -195,24 +217,28 @@ A tela de cadastro apresenta todas as adesões existentes para o órgão provedo
  :align: center
  :alt: Listar Órgãos Cadastrados
 
-Os órgãos cadastrados podem ser filtrados de acordo com: 
-Nome do Órgão
-Situação 
-Após a escolha dos filtros, que é opcional, basta acionar o botão “Pesquisar” para gerar a lista  dos órgãos de acordo com o critério de pesquisa definido pelos filtros.
+Os órgãos cadastrados podem ser filtrados de acordo com:
+  - Nome do Órgão
+  - Situação
+
+Após a escolha dos filtros, que é opcional, basta acionar o botão "Pesquisar" para gerar a lista dos órgãos de acordo com o critério de pesquisa definido pelos filtros.
+
 A lista dos órgãos é apresentada em tela, com paginação e com as seguintes informações para cada órgão:
-Nome do Órgão
-Sublista com as adesões existentes
-Situação
+  - Nome do Órgão
+  - Sublista com as adesões existentes
+  - Situação
+
 A partir da lista, é possível executar a seguinte ação para cada órgão, conforme ilustrado na tela abaixo:
-???
 
 .. image:: _imagens/listarorgaoscadastrados_2.png
  :scale: 75 %
  :align: center
  :alt: Listar Órgãos Cadastrados
 
+.. _listar-gestor:
+
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-    2.1.5 Listar Gestor do órgão recebedor de dados
+    3.6. Listar Gestor do órgão recebedor de dados
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 No menu Administração, selecionar o item Gestor >  Listar Gestores
@@ -237,20 +263,23 @@ A lista dos gestores é apresentada em tela, com paginação e com as seguintes 
   * Data de início do período de gestão
   * Data de fim do período de gestão
 
-A partir da lista, é possível executar as seguintes ações para cada gestor, conforme ilustrado na tela abaixo:
-  1. Ativar/Inativar do gestor.
-  2. Alterar os dados do gestor.
+A partir da lista, é possível executar as seguintes ações para cada gestor:
+  1. Ativar/Desativar gestor
+  2. Alterar os dados do gestor
 
 .. image:: _imagens/listargestordoorgaorecebedordedados_2.png
  :scale: 75 %
  :align: center
  :alt: Listar Gestor do órgão recebedor de dados. 
 
-A ação Ativar/desativar o gestor faz com que o gestor mude entre os estados ativado e desativado. Um gestor desativado não pode ???
-A ação Alterar os dados do gestor é similar à ação Cadastrar Gestor do órgão recebedor de dados e seu modo de fazer está descrito na seção 3.2.1.5. Cadastrar Gestor do órgão recebedor de dados
+Um gestor desativado fica impedido de realizar ações na plataforma, inclusive a geração de novas chaves de acesso.
+
+A alteração dos dados do gestor, por meio da ação **Alterar os dados do gestor**, é realizada de forma similar ao cadastro dos gestores do órgão conforme descrito em `Cadastrar Gestor do órgão recebedor de dados <cadastro-gestor-orgao>`__
+
+.. _cadastro-gestor-orgao:
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-    2.1.6 Cadastrar Gestor do órgão recebedor de dados
+    3.7. Cadastrar Gestor do órgão recebedor de dados
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 >> No menu Administração, selecionar o item Gestor >  Cadastro de Novo Gestor.
