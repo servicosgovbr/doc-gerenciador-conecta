@@ -4,7 +4,7 @@
 Manual do Recebedor de Dados
 ########################################
 
-.. _subsecao-chaves-acesso:
+.. _subsecao-cadastre-aplicacoes-obtenha-chaves-acesso:
 
 ---------------------------------------------------------
 Cadastre as aplicações e obtenha as chaves de acesso
@@ -30,6 +30,8 @@ O Gestor do Órgão deverá:
     As chaves de acesso não são armazenadas na plataforma e, portanto, não podem ser recuperadas. É responsabilidade do Gestor do Órgão armazenar a sua chave de acesso de forma segura.
 
   3. Encaminhar internamente a chave de acesso para o responsável técnico.
+
+.. _roteiro-geracao-chaves-acesso:
 
 ---------------------------------------------------------
 Roteiro para geração das chaves de acesso

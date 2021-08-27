@@ -14,15 +14,11 @@ Perguntas frequentes
 2. É a primeira vez que estou adequando meus sistemas ao uso das APIs, por que não está funcionando?
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-      Caso seja a primeira integração desenvolvida para acesso a uma API da Plataforma Conecta, é necessário previamente cadastrar os IPs do órgão para que se proceda a criação de regra de firewall no Serpro que libere o acesso à Plataforma.​
+      Caso seja a primeira integração desenvolvida para acesso a uma API através do Gerenciador do Conecta, é necessário previamente cadastrar os IPs do órgão para que se proceda a criação de regra de firewall no Serpro que libere o acesso à Plataforma.​
 
-.. comments Criar novo CNAME e atualizar URL
-.. _subsecao-cadastre-aplicacoes: https://doc.conectagov.estaleiro.serpro.gov.br/man/gestorConsumidorAPIs/#geracao-das-chaves-de-acesso
+.. note:: Para geração das chaves de acesso, consulte :ref:`Roteiro para geração das chaves de acesso <roteiro-geracao-chaves-acesso>`.
 
-.. TODO: Corrigir o link para conseguir referenciar a seção de Cadastre as aplicações
+.. note:: Para geração das chaves de acesso, consulte `Roteiro para geração das chaves de acesso <roteiro-geracao-chaves-acesso>`__.
 
-      Atenção: Para geração das chaves de acesso, consulte a seção :ref:`Cadastre as aplicações <subsecao-cadastre-aplicacoes>`
-      
-.. comments alterar esta url com a nova página de cadastro de aplicações
-
+.. _url-roteiro-geracao-chaves-acesso: https://gov.br/conecta/doc-gerenciador/manual_recebedor_dados.html#roteiro-geracao-chaves-acesso
 
