@@ -23,7 +23,7 @@ O Gestor do Órgão deverá:
 
        .. important:: Sugere-se que sejam cadastradas aplicações diferentes para sistemas diferentes do órgão, de tal forma que o controle de consumo possa ser feito de maneira mais detalhada.
 
-       .. note:: Para cadastrar as aplicações siga as instruções em `Cadastre as Aplicações <cadastre-as-aplicacoes>`__.
+       .. note:: Para cadastrar as aplicações siga as instruções em `Cadastre as Aplicações <#cadastre-as-aplicacoes>`__.
 
   2. Gerar chave de acesso
 
@@ -36,7 +36,7 @@ O Gestor do Órgão deverá:
      Quando gerada outra chave de acesso para a mesma aplicação, a chave de acesso anterior passa a ter um período de validade de 6 (seis) meses.
      As chaves de acesso não são armazenadas na plataforma e, portanto, não podem ser recuperadas. É responsabilidade do Gestor do Órgão armazenar a sua chave de acesso de forma segura.
 
-       .. note:: Para geração das chaves de acesso siga as instruções em `Geração das Chaves de Acesso <geracao-chaves-acesso>`__.
+       .. note:: Para geração das chaves de acesso siga as instruções em `Geração das Chaves de Acesso <#geracao-chaves-acesso>`__.
 
   3. Encaminhar internamente a chave de acesso para o responsável técnico.
 
