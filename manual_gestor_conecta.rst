@@ -1,4 +1,4 @@
-.. :name: _secao-manual-gestor-conecta
+.. _secao-manual-gestor-conecta:
 
 ########################################
 Manual do Gestor do Conecta
@@ -17,11 +17,12 @@ Manual do Gestor do Conecta
     -  `Relatório Gerencial <#relatorio-gerencial>`__
     -  `Relatório de Auditoria <#relatorio-de-auditoria>`__
 
+.. _o-perfil-gestor-da-plataforma:
 
 ------------------------------------------------------------------------------------------------
 O perfil Gestor da Plataforma
 ------------------------------------------------------------------------------------------------
-.. :name: o-perfil-gestor-da-plataforma
+
 
 O gestor da Plataforma é o responsável por viabilizar o acesso dos órgãos às APIS disponibilizadas pelo Conecta.
 
@@ -31,11 +32,12 @@ Além disso, também tem acesso a todos os relatórios disponíveis na ferrament
 
 |image0|
 
+.. _cadastro-de-novo-orgao:
 
 ------------------------------------------------------------------------------------------------
 Cadastro de Novo Órgão
 ------------------------------------------------------------------------------------------------
-.. :name: cadastro-de-novo-orgao
+
 
 A funcionalidade **Cadastro de Novo Órgão** pode ser acessada via menu conforme a tela abaixo: |image1|
 
@@ -43,28 +45,32 @@ Após selecionar a opção **Cadastro de Novo Órgão**, a seguinte tela será e
 
 O gestor da plataforma preenche os campos e aciona o botão **Incluir**. Se tudo estiver de acordo, uma mensagem de sucesso da inclusão será exibida conforme mostra a tela abaixo. A partir da inclusão será possível **Alterar** os dados do Órgão ou gerenciar as **Adesões** do órgão incluído. |image3|
 
+.. _listar-orgaos:
+
 ------------------------------------------------------------------------------------------------
 Listar Órgãos
 ------------------------------------------------------------------------------------------------
-.. :name: listar-orgaos
+
 
 A partir da funcionalidade **Listar Órgãos** será possível exibir os órgãos cadastrados, inativar um determinado órgão e/ou alterar seus dados. |image4|
 
 O preenchimento dos campos do filtro de pesquisa é opcional. O resultado da pesquisa será apresentado de forma paginada conforme mostrado abaixo. Em destaque, as opções de ativação/desativação e/ou alteração de um determinado órgão. |image5|
 
+.. _adesoes:
+
 ------------------------------------------------------------------------------------------------
 Adesões
 ------------------------------------------------------------------------------------------------
-.. :name: adesoes
 
 Após cadastrar um órgão, o usuário poderá cadastrar às adesões (APIs x Planos) para o órgão em questão. Para tal, deverá acionar o botão **Adesões** logo após o cadastro do órgão como indicado anteriormente ou através da funcionalidade **Listar Órgãos** acessar o gerenciamento de adesões de um órgão qualquer como mostrado na figura abaixo: |image6|
 
 . Após isso, a página a seguir será exibida. Se existirem adesões cadastradas, elas serão listadas. Caso contrário, o usuário poderá incluir ao acionar na opção **Incluir**. |image7|
 
+.. _cadastro-de-gestor:
+
 ------------------------------------------------------------------------------------------------
 Cadastro de Gestor
 ------------------------------------------------------------------------------------------------
-.. :name: cadastro-de-gestor
 
 Para cadastrar um Gestor de Órgão o usuário com perfil Gestor da Plataforma deve selecionar a opção n**Cadastro de Novo Gestor**. |image8|
 
@@ -78,19 +84,23 @@ A partir desse cadastro, o usuário gestor de órgão poderá acessar a Platafor
 
 **Observação:** se o órgão selecionado pelo usuário possuir alguma API cadastrada, será disponibilizada ao usuário uma lista para selecionar, opcionalmente, essas API’s. O gestor cadastrado será gestor das API’s selecionadas pelo usuário
 
+.. _listar-gestores:
+
 ------------------------------------------------------------------------------------------------
 Listar Gestores
 ------------------------------------------------------------------------------------------------
-.. :name: listar-gestores
+
 
 Para listar os gestores o usuário deverá selecionar a opção **Listar Gestores**. |image11|
 
 Através da funcionalidade **Listar Gestores** será possível fazer a inativação de um Gestor e/ou alterar seus dados. |image12|
 
+.. _cadastro-de-plano-de-consumo:
+
 ------------------------------------------------------------------------------------------------
 Cadastro de Plano de Consumo
 ------------------------------------------------------------------------------------------------
-.. :name: cadastro-de-plano-de-consumo
+
 
 Para cadastrar um novo Plano de Consumo, o usuário deverá selecionar a opção **Cadastro de Novo Plano de Consumo**. |image13|
 
@@ -106,10 +116,12 @@ Se tudo estiver de acordo, uma mensagem de sucesso da inclusão será exibida co
 
 |image15|
 
+.. _listar-planos-de-consumo:
+
 ------------------------------------------------------------------------------------------------
 Listar Planos de Consumo
 ------------------------------------------------------------------------------------------------
-.. :name: listar-planos-de-consumo
+
 
 Para listar os Plano de Consumo, o usuário deverá selecionar a opção **Listar Planos de Consumo**. A partir dessa funcionalidade será possível exibir os planos de consumo cadastrados, inativar um determinado plano e alterar seus dados. |image16|
 
@@ -117,10 +129,12 @@ O preenchimento dos campos do filtro de pesquisa é opcional. As opções do fil
 
 O resultado da pesquisa será apresentado de forma paginada conforme mostrado abaixo. Em destaque, as opções de ativação/desativação e/ou alteração de um determinado plano de consumo |image18|
 
+.. _relatorio-de-consumo-das-apis:
+
 ------------------------------------------------------------------------------------------------
 Relatório de consumo das APIs
 ------------------------------------------------------------------------------------------------
-.. :name: relatorio-de-consumo-das-apis
+
 
 A funcionalidade **Relatório de Consumo** pode ser acessada através do menu conforme a figura abaixo:
 |image19|
@@ -139,10 +153,11 @@ O **Relatório de Consumo** exibe as seguintes informações sobre o consumo de 
 Após a geração do relatório será possível exportá-lo para os formatos **csv** e/ou **pdf**. Para tal, basta clicar no botão correspondente(**Relatório CSV ou
 Relatório PDF**).
 
+.. _relatorio-de-disponibilidade-das-apis:
+
 ------------------------------------------------------------------------------------------------
 Relatório de disponibilidade das APIs
 ------------------------------------------------------------------------------------------------
-.. :name: relatorio-de-disponibilidade-das-apis
 
 A funcionalidade **Relatório de Disponibilidade** pode ser acessada através do menu conforme a figura abaixo:
 |image22|
@@ -154,10 +169,11 @@ exemplo: |image24|
 
 Após a geração do relatório será possível exportá-lo para o formato **pdf**. Para tal, basta clicar no botão correspondente(**Relatório PDF**)..
 
+.. _relatorio-gerencial:
+
 ------------------------------------------------------------------------------------------------
 Relatório Gerencial
 ------------------------------------------------------------------------------------------------
-.. :name: relatorio-gerencial
 
 A funcionalidade **Relatório Gerencial** pode ser acessada através do menu conforme a figura abaixo:
 |image25|
@@ -180,10 +196,12 @@ para os formatos **csv** e/ou **pdf**. Para tal, basta
 clicar no botão correspondente(**Relatório CSV ou
 Relatório PDF**).
 
+.. _relatorio-de-auditoria:
+
 ------------------------------------------------------------------------------------------------
 Relatório de Auditoria
 ------------------------------------------------------------------------------------------------
-.. :name: relatorio-de-auditoria
+
 
 A funcionalidade **Relatório Auditoria** pode ser
 acessada através do menu conforme a figura abaixo:
