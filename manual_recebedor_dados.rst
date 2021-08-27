@@ -5,9 +5,9 @@ Manual do Recebedor de Dados
 ########################################
 
     Seções principais:
-      -  `Roteiro para geração das chaves de acesso <roteiro-geracao-chaves-acesso>`__
-      -  `Cadastre as Aplicações <cadastre-as-aplicacoes>`__
-      -  `Geração das Chaves de Acesso <geracao-chaves-acesso>`__
+      -  `Roteiro para geração das chaves de acesso <#roteiro-geracao-chaves-acesso>`__
+      -  `Cadastre as Aplicações <#cadastre-as-aplicacoes>`__
+      -  `Geração das Chaves de Acesso <#geracao-chaves-acesso>`__
 
 .. _roteiro-geracao-chaves-acesso:
 

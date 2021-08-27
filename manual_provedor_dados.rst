@@ -39,31 +39,31 @@ Para gerenciar o acesso a suas APIs, o órgão provedor de dados indicará um in
 
 Para disponibilizar suas APIs, o Gestor de APIs deve:
 
-  1. `Cadastrar Plano de Consumo <cadastrar-plano-consumo>`__
+  1. `Cadastrar Plano de Consumo <#cadastrar-plano-consumo>`__
 
      Um plano de consumo é o nome da associação de uma API com um limite de consultas. Ele especifica a quantidade máxima permitida de acessos à API para o período de um ano (limite de consumo).
      
      O Gestor de APIs pode realizar o controle de consumo de sua API através da definição de diferentes planos de consumo, que serão utilizados para limitar a consulta de diferentes órgãos recebedores de dados.
 
-  2. `Cadastrar adesão à API <cadastrar-adesao-api>`__
+  2. `Cadastrar adesão à API <#cadastrar-adesao-api>`__
      
      O cadastro de adesões à API permite que se conceda acesso a novos órgão às suas APIs gerenciadas.
 
 Além dessas funcionalidades, o Gestor de APIs também pode:
 
-  3. `Listar Planos de Consumo <listar-planos-consumo>`__
+  3. `Listar Planos de Consumo <#listar-planos-consumo>`__
 
      Apresenta todos os planos de consumo cadastrados no Gerenciador de APIs do Conecta para este Gestor do Órgão.
 
-  4. `Listar órgãos cadastrados <listar-orgaos-cadastrados>`__
+  4. `Listar órgãos cadastrados <#listar-orgaos-cadastrados>`__
 
      Apresenta todos os órgãos cadastrados no Gerenciador de APIs do Conecta.
 
-  5. `Cadastrar Gestor do órgão recebedor de dados <cadastro-gestor-orgao>`__
+  5. `Cadastrar Gestor do órgão recebedor de dados <#cadastro-gestor-orgao>`__
 
      Permite que um integrante do órgão recebedor de dados seja cadastrado com o perfil Gestor de API no Gerenciador de APIs do Conecta.
 
-  6. `Listar Gestor do órgão recebedor de dados <listar-gestor>`__
+  6. `Listar Gestor do órgão recebedor de dados <#listar-gestor>`__
 
      Apresenta todos os Gestores de APIs do órgão recebedor de dados.
 
@@ -129,7 +129,7 @@ Após a escolha dos filtros, que é opcional, basta acionar o botão “Pesquisa
    A partir da lista, é possível executar as seguintes ações para cada item, conforme ilustrado na tela abaixo:
      1. Ativar/desativar o plano de consumo
      2. Alterar o plano de consumo
-     3. `Cadastrar adesão à API <cadastrar-adesao-api>`__
+     3. `Cadastrar adesão à API <#cadastrar-adesao-api>`__
 
 .. image:: _imagens/listarplanosdeconsumo_2.png
      :scale: 75 %
@@ -143,7 +143,7 @@ Após a escolha dos filtros, que é opcional, basta acionar o botão “Pesquisa
 
 A ação Ativar/desativar o plano de consumo faz com que o plano de consumo mude entre os estados ativado e desativado. Um plano de consumo ativado pode ser utilizado no cadastro de adesão de APIs, enquanto um desativado não permite a ação mencionada.
 
-A ação **Alterar o plano de consumo** é similar à ação `Cadastrar Plano de Consumo <cadastrar-plano-consumo>`__.
+A ação **Alterar o plano de consumo** é similar à ação `Cadastrar Plano de Consumo <#cadastrar-plano-consumo>`__.
 
 .. _cadastrar-plano-consumo:
 
@@ -190,7 +190,7 @@ A alteração é realizada da mesma forma que o cadastro, sendo que os campos s�
     3.4. Cadastrar adesão à API
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
  
->> A partir da ação **Cadastrar adesão à API** no item desejado da lista de planos de consumo (conforme descrito em `Listar Planos de Consumo <listar-planos-consumo>`__), são exibidas as adesões existentes e é possível cadastrar novas adesões.
+>> A partir da ação **Cadastrar adesão à API** no item desejado da lista de planos de consumo (conforme descrito em `Listar Planos de Consumo <#listar-planos-consumo>`__), são exibidas as adesões existentes e é possível cadastrar novas adesões.
 
 A tela de cadastro apresenta todas as adesões existentes para o órgão provedor de dados. O Gestor do Órgão deve:
 
@@ -274,7 +274,7 @@ A partir da lista, é possível executar as seguintes ações para cada gestor:
 
 Um gestor desativado fica impedido de realizar ações na plataforma, inclusive a geração de novas chaves de acesso.
 
-A alteração dos dados do gestor, por meio da ação **Alterar os dados do gestor**, é realizada de forma similar ao cadastro dos gestores do órgão conforme descrito em `Cadastrar Gestor do órgão recebedor de dados <cadastro-gestor-orgao>`__
+A alteração dos dados do gestor, por meio da ação **Alterar os dados do gestor**, é realizada de forma similar ao cadastro dos gestores do órgão conforme descrito em `Cadastrar Gestor do órgão recebedor de dados <#cadastro-gestor-orgao>`__
 
 .. _cadastro-gestor-orgao:
 
