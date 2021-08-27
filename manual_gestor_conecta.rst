@@ -1,4 +1,4 @@
-.. _secao-manual-gestor-conecta:
+.. :name: _secao-manual-gestor-conecta
 
 ########################################
 Manual do Gestor do Conecta
@@ -10,24 +10,18 @@ Manual do Gestor do Conecta
     -  `Adesões <#adesoes>`__
     -  `Cadastro de Gestor <#cadastro-de-gestor>`__
     -  `Listar Gestores <#listar-gestores>`__
-    -  `Cadastro de Plano de
-       Consumo <#cadastro-de-plano-de-consumo>`__
+    -  `Cadastro de Plano de Consumo <#cadastro-de-plano-de-consumo>`__
     -  `Listar Planos de Consumo <#listar-planos-de-consumo>`__
-    -  `Relatório de consumo das
-       APIs <#relatorio-de-consumo-das-apis>`__
-    -  `Relatório de disponibilidade das
-       APIs <#relatorio-de-disponibilidade-das-apis>`__
+    -  `Relatório de consumo das APIs <#relatorio-de-consumo-das-apis>`__
+    -  `Relatório de disponibilidade das APIs <#relatorio-de-disponibilidade-das-apis>`__
     -  `Relatório Gerencial <#relatorio-gerencial>`__
     -  `Relatório de Auditoria <#relatorio-de-auditoria>`__
-    -  `Painel de Monitoramento
-       (Grafana) <#painel-de-monitoramento-grafana>`__
-    
 
-.. :name: o-perfil-gestor-da-plataforma
 
 ------------------------------------------------------------------------------------------------
 O perfil Gestor da Plataforma
 ------------------------------------------------------------------------------------------------
+.. :name: o-perfil-gestor-da-plataforma
 
 O gestor da Plataforma é o responsável por viabilizar o acesso dos órgãos às APIS disponibilizadas pelo Conecta.
 
@@ -37,11 +31,11 @@ Além disso, também tem acesso a todos os relatórios disponíveis na ferrament
 
 |image0|
 
-.. :name: cadastro-de-novo-orgao
 
 ------------------------------------------------------------------------------------------------
 Cadastro de Novo Órgão
 ------------------------------------------------------------------------------------------------
+.. :name: cadastro-de-novo-orgao
 
 A funcionalidade **Cadastro de Novo Órgão** pode ser acessada via menu conforme a tela abaixo: |image1|
 
@@ -49,13 +43,10 @@ Após selecionar a opção **Cadastro de Novo Órgão**, a seguinte tela será e
 
 O gestor da plataforma preenche os campos e aciona o botão **Incluir**. Se tudo estiver de acordo, uma mensagem de sucesso da inclusão será exibida conforme mostra a tela abaixo. A partir da inclusão será possível **Alterar** os dados do Órgão ou gerenciar as **Adesões** do órgão incluído. |image3|
 
-.. :name: listar-orgaos
-
 ------------------------------------------------------------------------------------------------
 Listar Órgãos
 ------------------------------------------------------------------------------------------------
-
-
+.. :name: listar-orgaos
 
 A partir da funcionalidade **Listar Órgãos** será possível exibir os órgãos cadastrados, inativar um determinado órgão e/ou alterar seus dados. |image4|
 
