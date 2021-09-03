@@ -1,7 +1,15 @@
 .. _secao-manual-provedor-de-dados:
 
+.. _Portal do Gestor: url-portal-gestor-gerenciador-apis_
 .. _url-portal-gestor-gerenciador-apis: http://gov.br/conecta/gerenciador
 
+.. _Catálogo de APIs do Conecta: url-catalogo-conecta_
+.. _url-catalogo-conecta: http://gov.br/conecta/catalogo
+
+.. _Equipe do Conecta: email-equipe-conecta_
+.. _email-equipe-conecta: conecta@economia.gov.br
+
+.. _Conta gov.br: url-conta-gov-br_
 .. _url-conta-gov-br: https://www.gov.br/pt-br/servicos/criar-sua-conta-meu-gov.br
 
 ########################################
@@ -21,7 +29,7 @@ Manual do Provedor de Dados
   5. Deve ser cadastrado o certificado que foi fornecido pelo time do Conecta para que possa ocorrer o consumo do serviço, no caso onde a integração seja através de autenticação mútua;
   6. Deve ser informada a quantidade (capacidade) máxima de requisições por segundo que o serviço suporta;
   7. Deve ser definido o canal de comunicação com o suporte técnico do gestor do dado para que sejam informados possíveis problemas de indisponibilidade e/ou dúvidas durante a integração;
-  8. Deve estar catalogada, ou em processo de catalogação, no catálogo do Conecta.
+  8. Deve estar catalogada, ou em processo de catalogação, no `Catálogo de APIs do Conecta`_.
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
   1.1 Como documentar minha API (Referências)
@@ -29,7 +37,7 @@ Manual do Provedor de Dados
    
   * `Guia Básico de Documentação de APIs`_.
   * `Exemplo Acesse`_.
-  * `Documenting APIs: A guide for technical writers and engineers <Documenting APIs`>`_.
+  * `Documenting APIs: A guide for technical writers and engineers <Documenting APIs>`_.
 
 .. _Guia Básico de Documentação de APIs: https://stoplight.io/api-documentation-guide/basics/
 .. _Exemplo Acesse: https://gist.github.com/iros/3426278
@@ -79,7 +87,7 @@ Além dessas funcionalidades, o Gestor de APIs também pode:
    3.1. Entre no Portal do Gestor
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-  Logue na `Portal do Gestor <url-portal-gestor-gerenciador-apis>`_ utilizando sua `Conta gov.br <url-conta-gov-br>`_.
+  Logue na `Portal do Gestor`_ utilizando sua `Conta gov.br`_.
 
 .. tip::
 

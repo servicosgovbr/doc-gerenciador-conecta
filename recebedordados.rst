@@ -1,8 +1,14 @@
 .. _secao-recebedor-de-dados:
 
+.. _Portal do Gestor: url-portal-gestor-gerenciador-apis_
 .. _url-portal-gestor-gerenciador-apis: http://gov.br/conecta/gerenciador
-.. _url-catalogo-conecta: http://gov.br/conecta/catalogo>
+
+.. _Catálogo de APIs do Conecta: url-catalogo-conecta_
+.. _url-catalogo-conecta: http://gov.br/conecta/catalogo
+
+.. _Equipe do Conecta: email-equipe-conecta_
 .. _email-equipe-conecta: conecta@economia.gov.br
+
 
 ########################
 Sou Recebedor de Dados
@@ -43,7 +49,7 @@ O passo a passo para o recebedor de dados consiste em:
 
   Para obter o acesso às APIs gerenciadas pelo Conecta o órgão deverá aderir ao programa Conecta. Para adesão serão solicitadas algumas informações sobre o consumo de dados, a finalidade do uso dos dados (em conformidade com a LGPD), a volumetria estimada anual de consumo das APIs e os representantes do órgão no processo.
 
-  Entre em contato com a `equipe do Conecta <email-equipe-conecta>`_ para obter mais informações sobre o processo de adesão e o modelo de ofício de adesão.
+  Entre em contato com a `equipe do Conecta`_ para obter mais informações sobre o processo de adesão e o modelo de ofício de adesão.
 
 .. _passo-indique-gestor:
 
@@ -52,7 +58,7 @@ O passo a passo para o recebedor de dados consiste em:
 ---------------------------------
 
 O órgão deverá indicar ao menos um Gestor do órgão que ficará responsável por gerenciar o acesso a todas as APIs e acompanhar seu consumo.
-Este Gestor também deverá obter as chaves de acesso diretamente no `Portal do Gestor <url-portal-gestor-gerenciador-apis>`_ para consumo das APIs.
+Este Gestor também deverá obter as chaves de acesso diretamente no `Portal do Gestor`_ para consumo das APIs.
 
 .. important:: O Gestor indicado precisará de um certificado Digital ICP-Brasil para geração das chaves de acesso!
 
@@ -76,5 +82,5 @@ Após obter as chaves de acesso, encaminhe-as para os responsáveis técnicos pe
 
 Agora que já tem acesso, o órgão deve adaptar as aplicações ou sistemas para usar às APIs disponibilizadas. 
 
-Para isto, os responsáveis técnicos necessitarão das chaves de acesso geradas e das documentações técnicas das APIs disponíveis no `Catálogo de APIs do Conecta <url-catalogo-conecta>`_.
+Para isto, os responsáveis técnicos necessitarão das chaves de acesso geradas e das documentações técnicas das APIs disponíveis no `Catálogo de APIs do Conecta`_.
 

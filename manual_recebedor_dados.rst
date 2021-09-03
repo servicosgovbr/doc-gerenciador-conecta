@@ -1,8 +1,17 @@
 .. _secao-manual-recebedor-dados:
 
+.. _Portal do Gestor: url-portal-gestor-gerenciador-apis_
 .. _url-portal-gestor-gerenciador-apis: http://gov.br/conecta/gerenciador
 
+.. _Catálogo de APIs do Conecta: url-catalogo-conecta_
+.. _url-catalogo-conecta: http://gov.br/conecta/catalogo
+
+.. _Equipe do Conecta: email-equipe-conecta_
+.. _email-equipe-conecta: conecta@economia.gov.br
+
+.. _Conta gov.br: url-conta-gov-br_
 .. _url-conta-gov-br: https://www.gov.br/pt-br/servicos/criar-sua-conta-meu-gov.br
+
 
 ########################################
 Manual do Recebedor de Dados
@@ -54,7 +63,7 @@ Funcionalidades para o recebedor de dados
    1. Entre no Portal do Gestor
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-  Logue na `Portal do Gestor <url-portal-gestor-gerenciador-apis>`_ utilizando sua `Conta gov.br <url-conta-gov-br>`_.
+  Logue na `Portal do Gestor`_ utilizando sua `Conta gov.br`_.
 
 .. tip::
 
