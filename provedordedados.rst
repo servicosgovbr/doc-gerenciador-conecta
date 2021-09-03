@@ -1,6 +1,6 @@
 .. _secao-provedor-de-dados:
 
-.. _url-portal-gestor-gerenciador-apis: http://gestor.conectagov.estaleiro.serpro.gov.br
+.. _url-portal-gestor-gerenciador-apis: http://gov.br/conecta/gerenciador
 .. _url-catalogo-conecta: http://gov.br/conecta/catalogo>
 .. _email-equipe-conecta: conecta@economia.gov.br
 

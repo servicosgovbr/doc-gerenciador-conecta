@@ -1,5 +1,9 @@
 .. _secao-manual-recebedor-dados:
 
+.. _url-portal-gestor-gerenciador-apis: http://gov.br/conecta/gerenciador
+
+.. _url-conta-gov-br: https://www.gov.br/pt-br/servicos/criar-sua-conta-meu-gov.br
+
 ########################################
 Manual do Recebedor de Dados
 ########################################
@@ -50,12 +54,7 @@ Funcionalidades para o recebedor de dados
    1. Entre no Portal do Gestor
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-.. comments TODO:
-   Criar novo CNAME e atualizar URL
-
-.. _url-portal-gestor-gerenciador-apis: http://gestor.conectagov.estaleiro.serpro.gov.br
-
-  Logue na `Portal do Gestor <url-portal-gestor-gerenciador-apis>`_ utilizando sua `Conta gov.br <https://www.gov.br/pt-br/servicos/criar-sua-conta-meu-gov.br>`_.
+  Logue na `Portal do Gestor <url-portal-gestor-gerenciador-apis>`_ utilizando sua `Conta gov.br <url-conta-gov-br>`_.
 
 .. tip::
 

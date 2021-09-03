@@ -1,5 +1,7 @@
 .. _secao-faq:
 
+.. _url-roteiro-geracao-chaves-acesso: https://gov.br/conecta/gerenciador-documentacao/manual_recebedor_dados.html#roteiro-geracao-chaves-acesso
+
 ########################
 Perguntas frequentes
 ########################
@@ -30,6 +32,4 @@ Perguntas frequentes
       Se você está recebendo erro 403 quando tenta acessar alguma API do Conecta em Produção, isso ocorre pois o IP de saída do órgão não está cadastrado no Serpro. Dessa forma, o órgão deverá enviar a faixa de IP de saída para o email: conecta@economia.gov.br, para que se proceda a criação de regra de firewall no Serpro.​
 
 .. note:: Para geração das chaves de acesso, consulte :ref:`Roteiro para geração das chaves de acesso <roteiro-geracao-chaves-acesso>`.
-
-.. _url-roteiro-geracao-chaves-acesso: https://gov.br/conecta/doc-gerenciador/manual_recebedor_dados.html#roteiro-geracao-chaves-acesso
 
