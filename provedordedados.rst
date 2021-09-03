@@ -14,7 +14,7 @@
 Sou Provedor de Dados
 ########################
 
-O Pograma Conecta é ideal para divulgar, documentar e gerenciar a disponibilização de suas APIs para outros órgãos.
+O Programa Conecta é ideal para divulgar, documentar e gerenciar a disponibilização de suas APIs para outros órgãos.
 
 Através do `Catálogo de APIs do Conecta`_ suas APIs são melhor divulgadas e documentadas o que facilita a obtenção das informações sobre as APIs, da forma de autorização de acesso e da concessão do acesso aos dados.
 
