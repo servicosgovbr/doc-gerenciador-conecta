@@ -11,7 +11,7 @@
 
 
 ########################
-Sou Provedor de Dados
+Sou Cendente de Dados
 ########################
 
 O Programa Conecta é ideal para divulgar, documentar e gerenciar a disponibilização de suas APIs para outros órgãos.
@@ -21,7 +21,7 @@ Através do `Catálogo de APIs do Conecta`_ suas APIs são melhor divulgadas e d
 .. raw:: html
     :file: _imagens/passo_a_passo_provedor_dados.svg
 
-O passo a passo para o provedor de dados consiste em:
+O passo a passo para o cedente de dados consiste em:
   #. `Identifique os dados de interesse de outros órgãos <#passo-identifique-dados>`__
   #. `Construa suas APIs <#passo-construa-apis>`__
   #. `Inclua as APIs no Gerenciador <#passo-inclua-apis-gerenciador>`__
