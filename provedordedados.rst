@@ -11,7 +11,7 @@
 
 
 ########################
-Sou Cendente de Dados
+Sou Cedente de Dados
 ########################
 
 O Programa Conecta é ideal para divulgar, documentar e gerenciar a disponibilização de suas APIs para outros órgãos.
