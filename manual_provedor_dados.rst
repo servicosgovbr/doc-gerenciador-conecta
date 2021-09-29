@@ -13,7 +13,7 @@
 .. _url-conta-gov-br: https://www.gov.br/pt-br/servicos/criar-sua-conta-meu-gov.br
 
 ########################################
-Manual do Provedor de Dados
+Manual do Cedente de Dados
 ########################################
 
 .. _subsecao-pre-requisitos:
@@ -47,7 +47,7 @@ Manual do Provedor de Dados
 2. Como Gerenciar o acesso às minhas APIs
 ------------------------------------------------------
 
-Para gerenciar o acesso a suas APIs, o órgão provedor de dados indicará um integrante, que será cadastrado pela equipe interna no perfil *Gestor de APIs*.
+Para gerenciar o acesso a suas APIs, o órgão cedente de dados indicará um integrante, que será cadastrado pela equipe interna no perfil *Gestor de APIs*.
 
 Para disponibilizar suas APIs, o Gestor de APIs deve:
 
