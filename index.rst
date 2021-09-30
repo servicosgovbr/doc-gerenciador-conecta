@@ -38,4 +38,4 @@ Gerenciador de APIs do Conecta
    :maxdepth: 3
    :caption: Pricipais Páginas do Conecta
 
-   * `Página do Programa Conecta`_
+   `Programa Conecta <https://www.gov.br/governodigital/pt-br/governanca-de-dados/conecta-gov.br>` _
