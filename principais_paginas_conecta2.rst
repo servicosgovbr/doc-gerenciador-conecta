@@ -13,7 +13,7 @@ Página do Programa Conecta
 
 .. |location_link| raw:: html
 
-   <a href="http://geoiptool.com" target="_blank">check your location here</a>
+   <a href="http://geoiptool.com" target="_blank">Página do Programa Conecta</a>
 
 
 ###############################
