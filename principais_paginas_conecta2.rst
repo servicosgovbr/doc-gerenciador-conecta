@@ -8,7 +8,7 @@ Página do Programa Conecta
 ###############################
 
 ###############################
-|location_link|.
+|location_link|
 ###############################
 
 .. |location_link| raw:: html
