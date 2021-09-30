@@ -2,12 +2,13 @@
 .. |pagina_programa_conecta| raw:: html
 
    <a href="http://gov.br/conecta" target="_blank">Página do Programa Conecta</a>
+   
+   
+.. |pagina_catalogo_apis| raw:: html
+
+   <a href="http://gov.br/conecta/catalogo" target="_blank">Página do Catálogo de APIs</a>
 
 
-
-###############################
-Página do Programa Conecta
-###############################
 
 ###############################
 |pagina_programa_conecta|
@@ -17,7 +18,7 @@ Página do Programa Conecta
 
 
 ###############################
-Catálogo de APIs do Conecta
+|pagina_catalogo_apis|
 ###############################
 
 
