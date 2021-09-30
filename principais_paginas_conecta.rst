@@ -11,10 +11,9 @@
 .. _Documentação do Gerenciador de APIs: url-gerenciador-documentacao_
 .. _url-gerenciador-documentacao: https://gov.br/conecta/gerenciador-documentacao
 
-
-------------------------------------
+###############################
 Principais páginas do Conecta
-------------------------------------
+###############################
 
 * `Página do Programa Conecta`_
 * `Catálogo de APIs do Conecta`_
