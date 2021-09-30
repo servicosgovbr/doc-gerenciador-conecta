@@ -33,6 +33,6 @@ Gerenciador de APIs do Conecta
    :maxdepth: 3
    :caption: Pricipais Páginas da Plataforma
 
-   principais_paginas_conecta_links.rst
+   principais_paginas_plataforma.rst
 
   
