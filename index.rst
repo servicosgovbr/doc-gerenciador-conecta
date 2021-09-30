@@ -29,8 +29,4 @@ Gerenciador de APIs do Conecta
    outras_informacoes_tecnicas.rst
    faq.rst
 
-.. toctree::
-   :maxdepth: 3
-   :caption: Principais Páginas do Conecta
 
-   principais_paginas_conecta.rst
