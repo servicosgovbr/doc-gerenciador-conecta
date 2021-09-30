@@ -33,8 +33,8 @@ Gerenciador de APIs do Conecta
    :maxdepth: 3
    :caption: Pricipais Páginas da Plataforma
 
-   `Catálogo de APIs <https://www.gov.br/conecta/catalogo/>`__
-   `Portal do gestor<http://gov.br/conecta/gerenciador>`__
-   `Programa Conecta <https://www.gov.br/governodigital/pt-br/governanca-de-dados/conecta-gov.br>`__
+   catalogo_api.rst
+   portal_gestor.rst
+   programa_conecta.rst
 
   
