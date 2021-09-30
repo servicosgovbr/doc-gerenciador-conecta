@@ -31,6 +31,10 @@ Gerenciador de APIs do Conecta
    
 .. toctree::
    :maxdepth: 3
-   :caption: Pricipais Páginas do Conecta
+   :caption: Pricipais Páginas da Plataforma
 
+   `Catálogo de APIs <https://www.gov.br/conecta/catalogo/>`__
+   `Portal do gestor<http://gov.br/conecta/gerenciador>`__
    `Programa Conecta <https://www.gov.br/governodigital/pt-br/governanca-de-dados/conecta-gov.br>`__
+
+  
