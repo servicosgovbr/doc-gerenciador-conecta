@@ -1,7 +1,7 @@
 
 .. |pagina_programa_conecta| raw:: html
 
-   <a href="http://geoiptool.com" target="_blank">Página do Programa Conecta</a>
+   <a href="http://gov.br/conecta" target="_blank">Página do Programa Conecta</a>
 
 
 
