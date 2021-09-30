@@ -1,3 +1,6 @@
+.. _Página do Programa Conecta: url-programa-conecta_
+.. _url-programa-conecta: http://gov.br/conecta
+
 .. Documentação do Gerenciador de APIs do Conecta master file.
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
@@ -33,6 +36,6 @@ Gerenciador de APIs do Conecta
    :maxdepth: 3
    :caption: Pricipais Páginas do Conecta
 
-   principais_paginas_conecta.rst
+   `Página do Programa Conecta`_
 
 
