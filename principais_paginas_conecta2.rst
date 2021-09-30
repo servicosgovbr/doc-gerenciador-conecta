@@ -1,5 +1,6 @@
 
-
+.. |pagina_programa_conecta| raw:: html
+   <a href="http://geoiptool.com" target="_blank">Página do Programa Conecta</a>
 
 
 
@@ -8,12 +9,10 @@ Página do Programa Conecta
 ###############################
 
 ###############################
-|location_link|
+|pagina_programa_conecta|
 ###############################
 
-.. |location_link| raw:: html
 
-   <a href="http://geoiptool.com" target="_blank">Página do Programa Conecta</a>
 
 
 ###############################
