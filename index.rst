@@ -31,7 +31,7 @@ Gerenciador de APIs do Conecta
    
 .. toctree::
    :maxdepth: 3
-   :caption: Conecta
+   :caption: Pricipais Páginas do Conecta
 
    principais_paginas_conecta.rst
 
