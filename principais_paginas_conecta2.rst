@@ -7,7 +7,7 @@
 Página do Programa Conecta
 ###############################
 
-You can |location_link|.
+|location_link|.
 
 .. |location_link| raw:: html
 
