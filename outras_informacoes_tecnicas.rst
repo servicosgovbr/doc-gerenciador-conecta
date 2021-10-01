@@ -21,7 +21,7 @@ Esta seção destina-se a incluir outras informações técnicas pertinentes par
 
     #. Cadastrar o órgão que está fornecendo o serviço como órgão fornecedor no Portal de Gestão;
 
-    #. Criar uma documentação Swagger do serviço disponibilizado para os consumidores terem como referência de uso no padrão Conecta;
+    #. Criar uma documentação Swagger do serviço disponibilizado para os recebedores terem como referência de uso no padrão Conecta;
 
     #. Definir o “Rate Limit” de acesso simultâneos para o serviço disponibilizado.
 
