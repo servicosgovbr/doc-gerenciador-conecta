@@ -212,7 +212,7 @@ A partir dos ícones apresentados na parte direita para cada item da lista, é p
   Para finalizar e realizar a geração da chave de acesso, deve acionar o botão "Gerar Chave", embaixo, à direita.
   Quando a geração da chave foi realizada com sucesso, é apresentada tela com mensagem de sucesso no topo e a chave de acesso e a senha como campos editáveis na parte de baixo da tela.
   
-  O Gestor do Órgão encaminha as chaves de acesso para o responsável técnico pelo sistema consumidor da API que deverá fazer a implementação necessária para acessar a mesma.
+  O Gestor do Órgão encaminha as chaves de acesso para o responsável técnico pelo sistema recebedor da API que deverá fazer a implementação necessária para acessar a mesma.
   
   .. image:: _imagens/gerarchave_5.png
    :scale: 75 %
@@ -231,9 +231,9 @@ A partir dos ícones apresentados na parte direita para cada item da lista, é p
   
   O Portal do Gestor habilita a emissão do tíquete temporário (token), que será utilizado para o acesso dos serviços das APIs.
   
-  Para gerar o token temporário, a aplicação consumidora do órgão envia uma requisição para o Gerenciador de API, passando as chaves de acesso geradas para o Gestor (código do usuário e senha). O Gerenciador de API valida as chaves de acesso e, em caso positivo, retorna um token temporário que permite o acesso à API. O Gerenciador de API associa o token gerado à chave do usuário (código do usuário) que, por sua vez, é associado ao Termo de Responsabilidade. Dessa forma, todo o acesso é registrado e associado ao Termo de Responsabilidade assinado pelo Gestor.
+  Para gerar o token temporário, a aplicação recebedora do órgão envia uma requisição para o Gerenciador de API, passando as chaves de acesso geradas para o Gestor (código do usuário e senha). O Gerenciador de API valida as chaves de acesso e, em caso positivo, retorna um token temporário que permite o acesso à API. O Gerenciador de API associa o token gerado à chave do usuário (código do usuário) que, por sua vez, é associado ao Termo de Responsabilidade. Dessa forma, todo o acesso é registrado e associado ao Termo de Responsabilidade assinado pelo Gestor.
   
-  As requisições enviadas ao Gerenciador de API são identificadas com o IP de origem, o token temporário, o sistema consumidor, e o CPF do usuário que deseja fazer a consulta. A partir do token temporário é possível identificar a chave de acesso do usuário (código do usuário) que está fazendo a requisição.
+  As requisições enviadas ao Gerenciador de API são identificadas com o IP de origem, o token temporário, o sistema recebedor, e o CPF do usuário que deseja fazer a consulta. A partir do token temporário é possível identificar a chave de acesso do usuário (código do usuário) que está fazendo a requisição.
   
   O Gerenciador de API recebe essas informações e encaminha uma requisição de consulta à API. Para a API CPF Light, a comunicação do Gerenciador de API com o ambiente da RFB onde a mesma está disponibilizada é feita através de certificado digital de e-Equipamento ICP-Brasil .
   
