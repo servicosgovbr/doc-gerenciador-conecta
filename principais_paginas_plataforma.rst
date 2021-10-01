@@ -1,7 +1,7 @@
 
 .. |pagina_programa_conecta| raw:: html
 
-   <a href="http://gov.br/conecta" target="_blank" style="padding: 0;margin: 0;">Página do Programa Conecta</a>
+   <a href="http://gov.br/conecta" target="_blank">Página do Programa Conecta</a>
    
    
 .. |catalogo_apis| raw:: html
