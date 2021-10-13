@@ -33,10 +33,7 @@ Gerenciador de APIs do Conecta
    :maxdepth: 3
    :caption: Pricipais Páginas da Plataforma
    
-   pagina_programa_conecta.rst
-   catalogo_apis.rst
-   documentacao_gerenciador_apis.rst
-   portal_gestor.rst
+   principais_paginas_plataforma.rst
 
 
   
