@@ -9,9 +9,9 @@
    <a href="http://gov.br/conecta/catalogo" target="_blank">Catálogo de APIs</a>
    
    
-.. |portal_gestor| raw:: html
+.. |gerenciador_apis| raw:: html
 
-   <a href="http://gov.br/conecta/gerenciador" target="_blank">Portal do Gestor</a>
+   <a href="http://gov.br/conecta/gerenciador" target="_blank">Gerenciador de APIs</a>
 
 
 #########################
@@ -23,6 +23,6 @@
 ###############
 
 ###############
-|portal_gestor|
+|gerenciador_apis|
 ###############
 
