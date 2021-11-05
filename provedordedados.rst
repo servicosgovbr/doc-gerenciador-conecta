@@ -9,6 +9,15 @@
 .. _Equipe do Conecta: email-equipe-conecta_
 .. _email-equipe-conecta: conecta@economia.gov.br
 
+.. |catalogo_apis| raw:: html
+
+   <a href="http://gov.br/conecta/catalogo" target="_blank">Catálogo de APIs</a>
+   
+   
+.. |gerenciador_apis| raw:: html
+
+   <a href="http://gov.br/conecta/gerenciador" target="_blank">Gerenciador de APIs</a>
+
 
 ########################
 Sou Cedente de Dados
@@ -16,7 +25,7 @@ Sou Cedente de Dados
 
 O Programa Conecta é ideal para divulgar, documentar e gerenciar a disponibilização de suas APIs para outros órgãos.
 
-Através do `Catálogo de APIs`_ suas APIs são melhor divulgadas e documentadas o que facilita a obtenção das informações sobre as APIs, da forma de autorização de acesso e da concessão do acesso aos dados. O passo a passo para o cedente de dados consiste em:
+Através do |catalogo_apis| suas APIs são melhor divulgadas e documentadas o que facilita a obtenção das informações sobre as APIs, da forma de autorização de acesso e da concessão do acesso aos dados. O passo a passo para o cedente de dados consiste em:
 
 .. raw:: html
     :file: _imagens/passo_a_passo_provedor_dados.svg
@@ -71,4 +80,4 @@ Defina a forma como serão dadas as autorizações de acesso aos dados.
 O Gerenciador pode ajudar no monitoramento do acesso aos dados.
 Para isto, ele conta com relatórios prontos com a volumetria da quantidade de acessos dentre outras informações.
 
-.. note:: Indique os Gestores que terão acesso aos relatórios no `Gerenciador de APIs`_.
+.. note:: Indique os Gestores que terão acesso aos relatórios no |gerenciador_apis|.
