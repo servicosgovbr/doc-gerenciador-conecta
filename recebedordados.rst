@@ -37,7 +37,7 @@ O passo a passo para o recebedor de dados consiste em:
 1. Escolha as APIs de interesse
 ----------------------------------
 
-  Acesse o `Catálogo de APIs do Conecta`_ e encontre as APIs de interesse para seu órgão.
+  Acesse o `Catálogo de APIs`_ e encontre as APIs de interesse para seu órgão.
 
   Neste Catálogo,  é possível encontrar as APIs em destaque ou buscar pelas APIs organizadas por tema. O catálogo ainda provê várias informações sobre a API como: suas  principais operações, como  proceder para acessar a API,detalhamento técnico, informações de contato e informações técnicas tais como tecnologias e controle de acesso. Verifique se as APIs são disponibilizadas diretamente pelo órgão ou se são gerenciadas pelo Gerenciador do Conecta.
 
