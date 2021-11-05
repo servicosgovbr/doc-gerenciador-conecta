@@ -3,10 +3,6 @@
 .. _Página do Programa Conecta: url-programa-conecta_
 .. _url-programa-conecta: http://gov.br/conecta
 
-.. |pagina_programa_conecta| raw:: html
-
-   <a href="http://gov.br/conecta" target="_blank">Página do Programa Conecta</a>
-
 .. _Gerenciador de APIs: url-portal-gestor-gerenciador-apis_
 .. _url-portal-gestor-gerenciador-apis: http://gov.br/conecta/gerenciador
 
@@ -17,6 +13,21 @@
 .. _url-gerenciador-documentacao: https://gov.br/conecta/gerenciador-documentacao
 
 .. _Antigo Manual do Conecta: https://doc.conectagov.estaleiro.serpro.gov.br/man/
+
+
+.. |pagina_programa_conecta| raw:: html
+
+   <a href="http://gov.br/conecta" target="_blank">Página do Programa Conecta</a>
+   
+   
+.. |catalogo_apis| raw:: html
+
+   <a href="http://gov.br/conecta/catalogo" target="_blank">Catálogo de APIs</a>
+   
+   
+.. |gerenciador_apis| raw:: html
+
+   <a href="http://gov.br/conecta/gerenciador" target="_blank">Gerenciador de APIs</a>
 
 ###############################
 Introdução
@@ -50,5 +61,8 @@ Principais páginas do Conecta
 * `Página do Programa Conecta`_
 * `Catálogo de APIs`_
 * `Gerenciador de APIs`_
+
 * |pagina_programa_conecta|
+* |catalogo_apis|
+* |gerenciador_apis|
 
