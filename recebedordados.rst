@@ -9,6 +9,15 @@
 .. _Equipe do Conecta: email-equipe-conecta_
 .. _email-equipe-conecta: conecta@economia.gov.br
 
+.. |catalogo_apis| raw:: html
+
+   <a href="http://gov.br/conecta/catalogo" target="_blank">Catálogo de APIs</a>
+   
+   
+.. |gerenciador_apis| raw:: html
+
+   <a href="http://gov.br/conecta/gerenciador" target="_blank">Gerenciador de APIs</a>
+
 
 ########################
 Sou Recebedor de Dados
@@ -29,7 +38,7 @@ O Gerenciador de APIs é ideal para encontrar e para agilizar o consumo de APIs 
 1. Escolha as APIs de interesse
 ----------------------------------
 
-  Acesse o `Catálogo de APIs`_ e encontre as APIs de interesse para seu órgão.
+  Acesse o |catalogo_apis| e encontre as APIs de interesse para seu órgão.
 
   Neste Catálogo,  é possível encontrar as APIs em destaque ou buscar pelas APIs organizadas por tema. O catálogo ainda provê várias informações sobre a API como: suas  principais operações, como  proceder para acessar a API,detalhamento técnico, informações de contato e informações técnicas tais como tecnologias e controle de acesso. Verifique se as APIs são disponibilizadas diretamente pelo órgão ou se são gerenciadas pelo Gerenciador do Conecta.
 
@@ -50,7 +59,7 @@ O Gerenciador de APIs é ideal para encontrar e para agilizar o consumo de APIs 
 ---------------------------------
 
 O órgão deverá indicar ao menos um Gestor do órgão que ficará responsável por gerenciar o acesso a todas as APIs e acompanhar seu consumo.
-Este Gestor também deverá obter as chaves de acesso diretamente no `Gerenciador de APIs`_ para consumo das APIs.
+Este Gestor também deverá obter as chaves de acesso diretamente no |gerenciador_apis| para consumo das APIs.
 
 .. important:: O Gestor indicado precisará de um certificado Digital ICP-Brasil para geração das chaves de acesso!
 
@@ -74,5 +83,5 @@ Após obter as chaves de acesso, encaminhe-as para os responsáveis técnicos pe
 
 Agora que já tem acesso, o órgão deve adaptar as aplicações ou sistemas para usar às APIs disponibilizadas. 
 
-Para isto, os responsáveis técnicos necessitarão das chaves de acesso geradas e das documentações técnicas das APIs disponíveis no `Catálogo de APIs`_.
+Para isto, os responsáveis técnicos necessitarão das chaves de acesso geradas e das documentações técnicas das APIs disponíveis no |catalogo_apis|.
 
