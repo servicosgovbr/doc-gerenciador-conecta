@@ -16,19 +16,10 @@ Sou Cedente de Dados
 
 O Programa Conecta é ideal para divulgar, documentar e gerenciar a disponibilização de suas APIs para outros órgãos.
 
-Através do `Catálogo de APIs`_ suas APIs são melhor divulgadas e documentadas o que facilita a obtenção das informações sobre as APIs, da forma de autorização de acesso e da concessão do acesso aos dados.
+Através do `Catálogo de APIs`_ suas APIs são melhor divulgadas e documentadas o que facilita a obtenção das informações sobre as APIs, da forma de autorização de acesso e da concessão do acesso aos dados. O passo a passo para o cedente de dados consiste em:
 
 .. raw:: html
     :file: _imagens/passo_a_passo_provedor_dados.svg
-
-O passo a passo para o cedente de dados consiste em:
-  #. `Identifique os dados de interesse de outros órgãos <#passo-identifique-dados>`__
-  #. `Construa suas APIs <#passo-construa-apis>`__
-  #. `Inclua as APIs no Gerenciador <#passo-inclua-apis-gerenciador>`__
-  #. `Catalogue as APIs <#passo-catalogue-apis>`__
-  #. `Gerencie o acesso às APIs <#passo-gerencie-acesso-apis>`__
-
-.. _passo-identifique-dados:
 
 ---------------------------------------------------------
   1. Identifique os dados de interesse de outros órgãos
