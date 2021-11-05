@@ -3,6 +3,10 @@
 .. _Página do Programa Conecta: url-programa-conecta_
 .. _url-programa-conecta: http://gov.br/conecta
 
+.. |pagina_programa_conecta| raw:: html
+
+   <a href="http://gov.br/conecta" target="_blank">Página do Programa Conecta</a>
+
 .. _Gerenciador de APIs: url-portal-gestor-gerenciador-apis_
 .. _url-portal-gestor-gerenciador-apis: http://gov.br/conecta/gerenciador
 
@@ -46,3 +50,5 @@ Principais páginas do Conecta
 * `Página do Programa Conecta`_
 * `Catálogo de APIs`_
 * `Gerenciador de APIs`_
+* |pagina_programa_conecta|
+
