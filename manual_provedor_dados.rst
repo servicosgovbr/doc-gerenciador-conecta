@@ -12,6 +12,9 @@
 .. _Conta gov.br: url-conta-gov-br_
 .. _url-conta-gov-br: https://www.gov.br/pt-br/servicos/criar-sua-conta-meu-gov.br
 
+.. |conta_govBR| raw:: html
+
+	<a href="https://www.gov.br/pt-br/servicos/criar-sua-conta-meu-gov.br" target="_blank">Conta gov.br</a>
 
 .. |catalogo_apis| raw:: html
 
@@ -98,7 +101,7 @@ Além dessas funcionalidades, o Gestor de APIs também pode:
    3.1. Entre no Portal do Gestor
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-  Logue no |gerenciador_apis| utilizando sua `Conta gov.br`_.
+  Logue no |gerenciador_apis| utilizando sua |conta_govBR|.
 
 .. tip::
 
