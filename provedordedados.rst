@@ -1,9 +1,9 @@
 .. _secao-provedor-de-dados:
 
-.. _Portal do Gestor: url-portal-gestor-gerenciador-apis_
+.. _Gerenciador de APIs: url-portal-gestor-gerenciador-apis_
 .. _url-portal-gestor-gerenciador-apis: http://gov.br/conecta/gerenciador
 
-.. _Catálogo de APIs do Conecta: url-catalogo-conecta_
+.. _Catálogo de APIs: url-catalogo-conecta_
 .. _url-catalogo-conecta: http://gov.br/conecta/catalogo
 
 .. _Equipe do Conecta: email-equipe-conecta_
@@ -16,7 +16,7 @@ Sou Cedente de Dados
 
 O Programa Conecta é ideal para divulgar, documentar e gerenciar a disponibilização de suas APIs para outros órgãos.
 
-Através do `Catálogo de APIs do Conecta`_ suas APIs são melhor divulgadas e documentadas o que facilita a obtenção das informações sobre as APIs, da forma de autorização de acesso e da concessão do acesso aos dados.
+Através do `Catálogo de APIs`_ suas APIs são melhor divulgadas e documentadas o que facilita a obtenção das informações sobre as APIs, da forma de autorização de acesso e da concessão do acesso aos dados.
 
 .. raw:: html
     :file: _imagens/passo_a_passo_provedor_dados.svg
@@ -79,4 +79,4 @@ Defina a forma como serão dadas as autorizações de acesso aos dados.
 O Gerenciador pode ajudar no monitoramento do acesso aos dados.
 Para isto, ele conta com relatórios prontos com a volumetria da quantidade de acessos dentre outras informações.
 
-.. note:: Indique os Gestores que terão acesso aos relatórios no `Portal do Gestor`_.
+.. note:: Indique os Gestores que terão acesso aos relatórios no `Gerenciador de APIs`_.
