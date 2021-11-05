@@ -1,6 +1,6 @@
 .. _secao-manual-recebedor-dados:
 
-.. _Portal do Gestor: url-portal-gestor-gerenciador-apis_
+.. _Gerenciador de APIs: url-portal-gestor-gerenciador-apis_
 .. _url-portal-gestor-gerenciador-apis: http://gov.br/conecta/gerenciador
 
 .. _Catálogo de APIs do Conecta: url-catalogo-conecta_
@@ -63,7 +63,7 @@ Funcionalidades para o recebedor de dados
    1. Entre no Portal do Gestor
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-  Logue na `Portal do Gestor`_ utilizando sua `Conta gov.br`_.
+  Logue na `Gerenciador de APIs`_ utilizando sua `Conta gov.br`_.
 
 .. tip::
 
