@@ -14,7 +14,7 @@
 Sou Recebedor de Dados
 ########################
 
-O Gerenciador de APIs é ideal para encontrar e para agilizar o consumo de APIs de diversos órgãos.
+O Gerenciador de APIs é ideal para encontrar e para agilizar o consumo de APIs de diversos órgãos. O passo a passo para o recebedor de dados consiste em:
 
 .. comments image:: _imagens/passo_a_passo_recebedor_dados.svg
    :scale: 75 %
@@ -24,14 +24,6 @@ O Gerenciador de APIs é ideal para encontrar e para agilizar o consumo de APIs 
 .. raw:: html
     :file: _imagens/passo_a_passo_recebedor_dados.svg
 
-O passo a passo para o recebedor de dados consiste em:
-  #. :ref:`Escolha as APIs de interesse <passo-escolha-apis>`
-  #. :ref:`Faça a adesão ao Conecta <passo-adesao-conecta>`
-  #. :ref:`Indique o gestor do órgão <passo-indique-gestor>`
-  #. :ref:`Cadastre as aplicações <passo-cadastre-aplicacoes>`
-  #. :ref:`Adapte os sistemas do órgão para uso das APIs <passo-adapte-sistemas>`
-
-.. _passo-escolha-apis:
 
 ----------------------------------
 1. Escolha as APIs de interesse
