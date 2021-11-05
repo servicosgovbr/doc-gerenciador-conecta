@@ -12,6 +12,17 @@
 .. _Conta gov.br: url-conta-gov-br_
 .. _url-conta-gov-br: https://www.gov.br/pt-br/servicos/criar-sua-conta-meu-gov.br
 
+
+.. |catalogo_apis| raw:: html
+
+   <a href="http://gov.br/conecta/catalogo" target="_blank">Catálogo de APIs</a>
+   
+   
+.. |gerenciador_apis| raw:: html
+
+   <a href="http://gov.br/conecta/gerenciador" target="_blank">Gerenciador de APIs</a>
+
+
 ########################################
 Manual do Cedente de Dados
 ########################################
@@ -29,7 +40,7 @@ Manual do Cedente de Dados
   5. Deve ser cadastrado o certificado que foi fornecido pelo time do Conecta para que possa ocorrer o consumo do serviço, no caso onde a integração seja através de autenticação mútua;
   6. Deve ser informada a quantidade (capacidade) máxima de requisições por segundo que o serviço suporta;
   7. Deve ser definido o canal de comunicação com o suporte técnico do gestor do dado para que sejam informados possíveis problemas de indisponibilidade e/ou dúvidas durante a integração;
-  8. Deve estar catalogada, ou em processo de catalogação, no `Catálogo de APIs`_.
+  8. Deve estar catalogada, ou em processo de catalogação, no |catalogo_apis|.
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
   1.1 Como documentar minha API (Referências)
@@ -87,7 +98,7 @@ Além dessas funcionalidades, o Gestor de APIs também pode:
    3.1. Entre no Portal do Gestor
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-  Logue no `Gerenciador de APIs`_ utilizando sua `Conta gov.br`_.
+  Logue no |gerenciador_apis| utilizando sua `Conta gov.br`_.
 
 .. tip::
 
