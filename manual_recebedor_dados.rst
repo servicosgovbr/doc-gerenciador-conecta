@@ -63,7 +63,7 @@ Funcionalidades para o recebedor de dados
    1. Entre no Portal do Gestor
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-  Logue na `Gerenciador de APIs`_ utilizando sua `Conta gov.br`_.
+  Logue no `Gerenciador de APIs`_ utilizando sua `Conta gov.br`_.
 
 .. tip::
 
