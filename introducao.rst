@@ -1,14 +1,5 @@
 .. _secao-introducao:
 
-.. _Página do Programa Conecta: url-programa-conecta_
-.. _url-programa-conecta: http://gov.br/conecta
-
-.. _Gerenciador de APIs: url-portal-gestor-gerenciador-apis_
-.. _url-portal-gestor-gerenciador-apis: http://gov.br/conecta/gerenciador
-
-.. _Catálogo de APIs: url-catalogo-conecta_
-.. _url-catalogo-conecta: http://gov.br/conecta/catalogo
-
 .. _Documentação do Gerenciador de APIs: url-gerenciador-documentacao_
 .. _url-gerenciador-documentacao: https://gov.br/conecta/gerenciador-documentacao
 
@@ -57,10 +48,6 @@ O que você tem interesse no Conecta?
 ------------------------------------
 Principais páginas do Conecta
 ------------------------------------
-
-* `Página do Programa Conecta`_
-* `Catálogo de APIs`_
-* `Gerenciador de APIs`_
 
 * |pagina_programa_conecta|
 * |catalogo_apis|
