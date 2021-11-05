@@ -12,6 +12,11 @@
 .. _Conta gov.br: url-conta-gov-br_
 .. _url-conta-gov-br: https://www.gov.br/pt-br/servicos/criar-sua-conta-meu-gov.br
 
+
+.. |conta_govBR| raw:: html
+
+	<a href="https://www.gov.br/pt-br/servicos/criar-sua-conta-meu-gov.br" target="_blank">Conta gov.br</a>
+
 .. |catalogo_apis| raw:: html
 
    <a href="http://gov.br/conecta/catalogo" target="_blank">Catálogo de APIs</a>
@@ -72,7 +77,7 @@ Funcionalidades para o recebedor de dados
    1. Entre no Portal do Gestor
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-  Logue no |gerenciador_apis| utilizando sua `Conta gov.br`_.
+  Logue no |gerenciador_apis| utilizando sua |conta_govBR|.
 
 .. tip::
 
