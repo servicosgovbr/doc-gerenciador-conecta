@@ -20,6 +20,7 @@ Através do `Catálogo de APIs`_ suas APIs são melhor divulgadas e documentadas
 
 .. raw:: html
     :file: _imagens/passo_a_passo_provedor_dados.svg
+    
 
 ---------------------------------------------------------
   1. Identifique os dados de interesse de outros órgãos
