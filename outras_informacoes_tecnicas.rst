@@ -37,12 +37,6 @@ Algumas das funções de um Gerenciador de APIs são:
    * Controle de acesso baseado em usuário, que permite limitar o acesso do usuário a determinado recurso baseado nas mais diversas premissas, como números de requisições no mês ou nos últimos 10 segundos.
    * Relatórios estatísticos de uso das APIs.
    * Filtragem de dados na entrada, podendo redirecionar o chamado à API para o local correto, baseado nos mais diferentes parâmetros de entrada, e, até mesmo, ignorar a requisição caso seja desejado, sem levar tráfego à sua API.
-   
 
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-3. Como validar o HASH das respostas das transações de solicitação pelos consumidores de dados?
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-O Conecta vem registrando os eventos das operações que trafegam por suas interfaces, porém estes eventos registrados não guardam de forma explícita os dados pessoais transferidos em cada comunicação com as APIs, guardam apenas o HASH das respostas das transações de solicitação pelos consumidores de dados.
 
 
