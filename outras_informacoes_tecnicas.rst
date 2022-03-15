@@ -44,7 +44,7 @@ Algumas das funções de um Gerenciador de APIs são:
 3. Como acessar os dados das APIs solicitadas?
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
   O Conecta gov.br tem como base o protocolo de autorização OAuth 2. Logo o usuário deve seguir os seguintes passos para acessar os dados das APIs solicitadas:
-    * O usuário deve gerar as chaves de acesso (Chave e senha) conforme orientado no item `Geração das Chaves de Acesso <#geracao-chaves-acesso>` deste manual!
+    * O usuário deve gerar as chaves de acesso (Chave e senha) conforme orientado no item `Passo a Passo do Recebedor de Dados <recebedordados.html>`_ deste manual!
     * Para a obtenção da chave de acesso do ambiente de homologação para o desenvolvimento da integração, o responsável técnico do órgão deverá seguir as informações técnicas enviadas no e-mail de deferimento.
     * O usuário deve realizar a chamada no endpoint de geração de tokens da Plataforma de Interoperabilidade Conecta gov.br. 
     * Endpoint Access Token URL de Produção: 
