@@ -41,7 +41,6 @@ Algumas das funções de um Gerenciador de APIs são:
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 3. Como acessar os dados das APIs solicitadas?
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
   O Conecta gov.br tem como base o protocolo de autorização OAuth 2. Logo o usuário deve seguir os seguintes passos para acessar os dados das APIs solicitadas:
 
     #. O usuário deve gerar as chaves de acesso (Chave e senha) conforme orientado no item xx deste manual!
