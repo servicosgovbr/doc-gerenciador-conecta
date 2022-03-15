@@ -50,9 +50,9 @@ Algumas das funções de um Gerenciador de APIs são:
     #. O usuário deve realizar a chamada no endpoint de geração de tokens da Plataforma de Interoperabilidade Conecta gov.br. 
       * Endpoint Access Token URL de Produção: https://apigateway.conectagov.estaleiro.serpro.gov.br/oauth2/jwt-token
       * Endpoint Access Token URL de Homologação: https://h-apigateway.conectagov.estaleiro.serpro.gov.br/oauth2/jwt-token
-        
+      
     #. Após seguir as orientações do passo 1 e 2, o usuário receberá um retorno do Endpoint Access Token. Este resultado será o token de acesso para os dados da API que deseja utilizar. (Cada token gerado tem um prazo de validade de duas horas, após este tempo, é necessário a geração de um novo token).
-    
+   
     #. O usuário deve fazer a chamada ao endpoint da API (Exemplo: https://apigateway.conectagov.estaleiro.serpro.gov.br/api-cep/v1/consulta/cep/ ) que deseja fazer o acesso e utilizar o token Bearer gerado no passo 3 como parâmetro de acesso!
 
 
