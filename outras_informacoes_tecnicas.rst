@@ -48,6 +48,7 @@ Algumas das funções de um Gerenciador de APIs são:
     #. O usuário deve gerar as chaves de acesso (Chave e senha) conforme orientado no item `Roteiro para geração das chaves de acesso <https://gerenciador-conecta.readthedocs.io/manual_recebedor_dados.html#roteiro-geracao-chaves-acesso>`_ deste manual. Para a obtenção da chave de acesso do ambiente de homologação para o desenvolvimento da integração, o responsável técnico do órgão deverá seguir as informações técnicas enviadas no e-mail de deferimento.
     
     #. O usuário deve realizar a chamada no endpoint de geração de tokens da Plataforma de Interoperabilidade Conecta gov.br. 
+    
       * Endpoint Access Token URL de Produção: https://apigateway.conectagov.estaleiro.serpro.gov.br/oauth2/jwt-token
       * Endpoint Access Token URL de Homologação: https://h-apigateway.conectagov.estaleiro.serpro.gov.br/oauth2/jwt-token
       
