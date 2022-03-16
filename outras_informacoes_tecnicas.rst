@@ -12,7 +12,7 @@ Esta seção destina-se a incluir outras informações técnicas pertinentes par
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
   O Conecta gov.br tem como base o protocolo de autorização OAuth 2. Logo o usuário deve seguir os seguintes passos para acessar os dados das APIs solicitadas:
   
-    #. O usuário deve gerar as chaves de acesso (Chave e senha) conforme orientado no item `Roteiro para geração das chaves de acesso <https://gerenciador-conecta.readthedocs.io/manual_recebedor_dados.html#roteiro-geracao-chaves-acesso>`_ deste manual. Para a obtenção da chave de acesso do ambiente de homologação para o desenvolvimento da integração, o responsável técnico do órgão deverá seguir as informações técnicas enviadas no e-mail de deferimento.
+    #. O usuário deve gerar as chaves de acesso (Chave e senha) conforme orientado no item `Roteiro para geração das chaves de acesso <https://gerenciador-conecta.readthedocs.io/manual_recebedor_dados.html#roteiro-geracao-chaves-acesso>`_ deste manual. Para a obtenção da chave de acesso do ambiente de homologação para o desenvolvimento da integração, os responsáveis técnicos do órgão, deverão seguir as informações técnicas que serão enviadas automaticamente pela Plataforma Conecta gov.br no momento do deferimento de acesso aos dados solicitados.
     
     #. O usuário deve realizar a chamada no endpoint de geração de tokens da Plataforma de Interoperabilidade Conecta gov.br. 
     
