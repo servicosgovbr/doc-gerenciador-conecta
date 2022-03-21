@@ -36,7 +36,7 @@ Perguntas frequentes
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
       O erro HTTP 401 Unauthorized indica que a solicitação não foi aplicada porque não possui credenciais de autenticação válidas para o recurso de destino.
-Você deve verificar se a credencial utilizada é válida para o ambiente (Homologação, Produção) que está fazendo a chamada e para a API acessada.​
+      Verifique se a credencial utilizada é válida para o ambiente (Homologação, Produção) que está fazendo a chamada e para a API acessada.​
 
 .. note:: Para geração das chaves de acesso, consulte :ref:`Roteiro para geração das chaves de acesso <roteiro-geracao-chaves-acesso>`.
 
