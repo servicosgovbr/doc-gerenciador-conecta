@@ -22,6 +22,13 @@ Esta seção destina-se a incluir outras informações técnicas pertinentes par
     #. Após seguir as orientações do passo 1 e 2, o usuário receberá um retorno do Endpoint Access Token. Este resultado será o token de acesso para os dados da API que deseja utilizar. (Cada token gerado tem um prazo de validade de duas horas. Após este tempo, será necessário a geração de um novo token).
    
     #. O usuário deve fazer a chamada ao endpoint da API (Exemplo: https://apigateway.conectagov.estaleiro.serpro.gov.br/api-cep/v1/consulta/cep/ ) que deseja fazer o acesso e utilizar o token Bearer gerado no passo 3 como parâmetro de acesso!
+    
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+1.1 Qual o limite de requisições em ambiente de homologação?
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+O ambiente de homologação do Conecta gov.br é limitado a 500 chamadas de teste por API. Caso seja necessário mais de 500 requisições, é necessário que o órgão faça uma solicitação de aumento das solicitações com a devida justificativa. A solicitação deve ser enviada para conecta@economia.gov.br.
+
+No momento o Conecta não tem ambiente específico para testes de carga.
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 2. Quais as principais etapas técnicas para adaptar uma API já existente para sua inclusão no Gerenciador de APIs?
