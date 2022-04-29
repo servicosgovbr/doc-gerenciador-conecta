@@ -26,7 +26,7 @@ Esta seção destina-se a incluir outras informações técnicas pertinentes par
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 1.1 Qual o limite de requisições em ambiente de homologação?
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-O ambiente de homologação do Conecta gov.br é limitado a 500 chamadas de teste por API. Caso seja necessário mais de 500 requisições, é necessário que o órgão faça uma solicitação de aumento das solicitações com a devida justificativa. A solicitação deve ser enviada para conecta@economia.gov.br.
+O ambiente de homologação do Conecta gov.br é limitado a 1000 chamadas de teste por API. Caso seja necessário mais de 1000 requisições, é necessário que o órgão faça uma solicitação de aumento das solicitações com a devida justificativa. A solicitação deve ser enviada para conecta@economia.gov.br.
 
 No momento o Conecta não tem ambiente específico para testes de carga.
 
