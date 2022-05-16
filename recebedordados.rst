@@ -93,4 +93,4 @@ Agora que já tem acesso, o órgão deve adaptar as aplicações ou sistemas par
 Para isto, os responsáveis técnicos necessitarão das chaves de acesso geradas e das documentações técnicas das APIs disponíveis no |catalogo_apis|.
 
 
-|video_youtube|
+
