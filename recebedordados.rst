@@ -85,3 +85,9 @@ Agora que já tem acesso, o órgão deve adaptar as aplicações ou sistemas par
 
 Para isto, os responsáveis técnicos necessitarão das chaves de acesso geradas e das documentações técnicas das APIs disponíveis no |catalogo_apis|.
 
+
+.. raw:: html
+
+    <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; height: auto;">
+        <iframe src="//www.youtube.com/embed/dQw4w9WgXcQ" frameborder="0" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe>
+    </div>
