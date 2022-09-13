@@ -181,7 +181,7 @@ A partir dos ícones apresentados na parte direita para cada item da lista, é p
 
   >> No menu Administração, selecionar o item Gerar Chaves de Acesso.
 
-  .. image:: _imagens/gerarchave_1.png
+.. image:: _imagens/gerarchave_1.png
    :scale: 75 %
    :align: center
    :alt: Gerar Chave de Acesso.
@@ -204,21 +204,21 @@ A partir dos ícones apresentados na parte direita para cada item da lista, é p
    
    Caso o órgão utilize a Assinatura Eletrônica Gov.br basta selecionar a aplicação cadastrada anteriormente, a API que deseja, selecionar o Certificado Gov.br, clicar em gerar chaves.
    
-  .. image:: _imagens/gerarchave_assinador_gov.br.png
+.. image:: _imagens/gerarchave_assinador_gov.br.png
    :scale: 75 %
    :align: center
    :alt: Gerar Chave de Acesso.
    
    Após esta etapa, o gestor receberá em seu número de telefone cadastrado no Gov.br, um código de autorização para confirmação da assinatura. O gestor deve inserir o código e clicar em Autorizar.
    
-  .. image:: _imagens/gerarchave_assinador_gov.br_mensagem_sms.png
+.. image:: _imagens/gerarchave_assinador_gov.br_mensagem_sms.png
    :scale: 75 %
    :align: center
    :alt: Gerar Chave de Acesso.
    
    Após a autorização, basta clicar em gerar chaves de acesso.
    
-  .. image:: _imagens/gerarchave_assinador_gov.br_2.png
+.. image:: _imagens/gerarchave_assinador_gov.br_2.png
    :scale: 75 %
    :align: center
    :alt: Gerar Chave de Acesso.
