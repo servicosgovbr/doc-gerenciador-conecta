@@ -187,7 +187,7 @@ A partir dos ícones apresentados na parte direita para cada item da lista, é p
    :alt: Gerar Chave de Acesso.
 
 .. attention::
-    São requisitos para a geração da chave:
+    Caso o órgão deseje utilizar o Certicado digital ICP-Brasil para assinatura do Termo de Responsbilidade, são requisitos para a geração da chave:
       * Gestor do Órgão possuir certificado digital ICP-Brasil.
       * Assinador Digital SERPRO estar instalado.
 
@@ -197,7 +197,33 @@ A partir dos ícones apresentados na parte direita para cada item da lista, é p
       4.1. Assinatura do Termo de Responsabilidade
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
-  O Portal do Gestor identifica automaticamente se o Assinador Digital SERPRO está instalado. Caso não tenha sido efetuada a instalação, a tela para gerar chaves de acesso apresenta as orientações para tanto.
+   O gestor do órgão poderá optar por assinar o Termo de Responsabilidade de duas formas. A primeira será utilizando a Assinatura Eletrônica Gov.br, e a segunda será utilizando um Certificado Digital ICP-Brasil e-CPF.
+   
+   Caso o órgão utilize a Assinatura Eletrônica Gov.br basta selecionar a aplicação cadastrada anteriormente, a API que deseja, selecionar o Certificado Gov.br, clicar em gerar chaves.
+   
+    .. image:: _imagens/gerarchave_assinador_gov.br.png
+   :scale: 75 %
+   :align: center
+   :alt: Gerar Chave de Acesso.
+   
+   Após esta etapa, o gestor receberá em seu número de telefone cadastrado no Gov.br, um código de autorização para confirmação da assinatura. O gestor deve inserir o código e clicar em Autorizar.
+   
+    .. image:: _imagens/gerarchave_assinador_gov.br_mensagem_sms.png
+   :scale: 75 %
+   :align: center
+   :alt: Gerar Chave de Acesso.
+   
+   Após a autorização, basta clicar em gerar chaves de acesso.
+   
+    .. image:: _imagens/gerarchave_assinador_gov.br_2.png
+   :scale: 75 %
+   :align: center
+   :alt: Gerar Chave de Acesso.
+   
+.. attention::
+  Para a API CPF Light a geração das credenciais continuam sendo somente por meio do Certificado Digital ICP-Brasil e-CPF.
+  
+   Caso o órgão utilize o Certicado digital ICP-Brasil para assinatura do Termo de Responsbilidade, o Portal do Gestor identificará automaticamente se o Assinador Digital SERPRO está instalado. Caso não tenha sido efetuada a instalação, a tela para gerar chaves de acesso apresenta as orientações para tanto.
 
   .. image:: _imagens/gerarchave_2.png
    :scale: 75 %
