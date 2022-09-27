@@ -210,7 +210,6 @@ A partir dos ícones apresentados na parte direita para cada item da lista, é p
    :align: center
    :alt: Gerar Chave de Acesso.
    
-   
    Após esta etapa, o gestor receberá em seu número de telefone cadastrado no Gov.br, um código de autorização para confirmação da assinatura. O gestor deve inserir o código e clicar em Autorizar.
    
 .. image:: _imagens/gerarchave_assinador_gov.br_mensagem_sms.png
