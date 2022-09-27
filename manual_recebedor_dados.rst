@@ -194,7 +194,8 @@ A partir dos ícones apresentados na parte direita para cada item da lista, é p
       Caso o órgão deseje utilizar a Assinatura Eletrônica Gov.br, o requisito para a geração da chave:
       * Ter em sua conta Gov.br o selo de Confiabilidade Prata ou Ouro.
 
-.. tip::  As chaves de acesso são as credenciais que as aplicações cadastradas utilizarão para acessar as APIs desejadas.
+.. tip::
+As chaves de acesso são as credenciais que as aplicações cadastradas utilizarão para acessar as APIs desejadas.
 
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
       4.1. Assinatura do Termo de Responsabilidade
