@@ -202,8 +202,7 @@ A partir dos ícones apresentados na parte direita para cada item da lista, é p
 
    O gestor do órgão poderá optar por assinar o Termo de Responsabilidade de duas formas. A primeira será utilizando a Assinatura Eletrônica Gov.br, e a segunda será utilizando um Certificado Digital ICP-Brasil e-CPF.
    
-  
-    Caso o órgão utilize a Assinatura Eletrônica Gov.br basta selecionar a aplicação cadastrada anteriormente, a API que deseja, selecionar o Certificado Gov.br, clicar em gerar chaves.
+  Caso o órgão utilize a Assinatura Eletrônica Gov.br basta selecionar a aplicação cadastrada anteriormente, a API que deseja, selecionar o Certificado Gov.br, clicar em gerar chaves.
  
  .. image:: _imagens/gerarchave_assinador_gov.br.png
    :scale: 75 %
