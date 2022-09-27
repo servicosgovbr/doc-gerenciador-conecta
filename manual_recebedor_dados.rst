@@ -195,6 +195,7 @@ A partir dos ícones apresentados na parte direita para cada item da lista, é p
       * Ter em sua conta Gov.br o selo de Confiabilidade Prata ou Ouro.
 
 .. tip::
+
 As chaves de acesso são as credenciais que as aplicações cadastradas utilizarão para acessar as APIs desejadas.
 
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
@@ -205,7 +206,7 @@ As chaves de acesso são as credenciais que as aplicações cadastradas utilizar
    
   Caso o órgão utilize a Assinatura Eletrônica Gov.br basta selecionar a aplicação cadastrada anteriormente, a API que deseja, selecionar o Certificado Gov.br, clicar em gerar chaves.
  
-.. image:: _imagens/gerarchave_assinador_gov.br.png
+ .. image:: _imagens/gerarchave_assinador_gov.br.png
    :scale: 75 %
    :align: center
    :alt: Gerar Chave de Acesso.
@@ -225,9 +226,9 @@ As chaves de acesso são as credenciais que as aplicações cadastradas utilizar
    :alt: Gerar Chave de Acesso.
    
 .. attention::
+
    Para a API CPF Light a geração das credenciais continuam sendo somente por meio do Certificado Digital ICP-Brasil e-CPF.
  
-  
    Caso o órgão utilize o Certicado digital ICP-Brasil para assinatura do Termo de Responsbilidade, o Portal do Gestor identificará automaticamente se o Assinador Digital SERPRO está instalado. Caso não tenha sido efetuada a instalação, a tela para gerar chaves de acesso apresenta as orientações para tanto.
 
   .. image:: _imagens/gerarchave_2.png
