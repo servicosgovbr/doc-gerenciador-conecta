@@ -76,8 +76,7 @@ html_search_language = u'pt'
 # Favicon
 html_favicon = u'http://www.gov.br/governodigital/++theme++padrao_govbr/favicons/favicon-32x32.png'
 
-#Imagens não podem referenciar o governo durante as eleições (descomentar ao final das eleições ou ao trocar de logo)
-#html_logo = u'_imagens/logo_conecta.png'
+html_logo = u'_imagens/logo_conecta.png'
 
 html_theme_options = {
 #    'analytics_id': 'UA-XXXXXXX-1',  #  Provided by Google in your dashboard
