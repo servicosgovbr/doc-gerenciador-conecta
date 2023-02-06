@@ -26,10 +26,10 @@ Perguntas frequentes
 .. _faq-erro-autorizacao-ip:
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-4. Estou recebendo erro 403 em Produção.
+4. Estou recebendo erro 403 em ambiente de Homologação ou Produção.
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-      Se você está recebendo erro 403 quando tenta acessar alguma API do Conecta em Produção, isso ocorre pois o IP de saída do órgão não está cadastrado no Serpro. Dessa forma, o órgão deverá enviar a faixa de IP de saída para o email: conecta@economia.gov.br, para que se proceda a criação de regra de firewall no Serpro.​
+      Se você está recebendo erro 403 quando tenta acessar alguma API do Conecta em Homologação ou Produção, isso ocorre pois o IP de saída do órgão não está cadastrado no Serpro. Dessa forma, o órgão deverá enviar a faixa de IP de saída para o email: conecta@economia.gov.br, para que se proceda a criação de regra de firewall no Serpro.​
       
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 5. Estou recebendo erro 401
