@@ -234,7 +234,7 @@ As chaves de acesso são as credenciais que as aplicações cadastradas utilizar
    
    Clique em "Autorizar".
    
-.. image:: _imagens/autorizacao.png
+.. image:: _imagens/autorizacao.PNG
    :scale: 75 %
    :align: center
    :alt: Gerar Chave de Acesso.
