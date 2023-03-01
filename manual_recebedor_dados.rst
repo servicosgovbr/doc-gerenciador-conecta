@@ -206,7 +206,7 @@ As chaves de acesso são as credenciais que as aplicações cadastradas utilizar
    
   Caso o órgão utilize a Assinatura Eletrônica Gov.br basta selecionar a aplicação cadastrada anteriormente, a API que deseja, selecionar o Certificado Gov.br, clicar em gerar chaves.
  
-.. image:: _imagens/gerarchave_assinador_gov.br.png
+ .. image:: _imagens/gerarchave_assinador_gov.br.png
    :scale: 75 %
    :align: center
    :alt: Gerar Chave de Acesso.
