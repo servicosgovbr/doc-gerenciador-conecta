@@ -241,14 +241,14 @@ As chaves de acesso são as credenciais que as aplicações cadastradas utilizar
    
    Escolha para qual nível deseja aumenta, Ouro ou Prata.
    
- .. image:: _imagens/autorizacao.png
+ .. image:: _imagens/Escolha o nivel que deseja aumentar.PNG
    :scale: 75 %
    :align: center
    :alt: Gerar Chave de Acesso.
    
    Será enviado um codigo de confiramação via SMS para o o telefone cadastrado ou uma mensagem de validação para o e-mail. Confirme o código na plataforma.
    
-    .. image:: _imagens/Escolha o nivel que deseja aumentar.png
+    .. image:: _imagens/gerarchave_assinador_gov.br_mensagem_sms.png
    :scale: 75 %
    :align: center
    :alt: Gerar Chave de Acesso.
