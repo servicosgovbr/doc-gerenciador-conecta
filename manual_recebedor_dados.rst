@@ -206,42 +206,42 @@ As chaves de acesso são as credenciais que as aplicações cadastradas utilizar
    
   Caso o órgão utilize a Assinatura Eletrônica Gov.br basta selecionar a aplicação cadastrada anteriormente, a API que deseja, selecionar o Certificado Gov.br, clicar em gerar chaves.
  
-.. image:: _imagens/gerarchave_assinador_gov.br.png
+ .. image:: _imagens/gerarchave_assinador_gov.br.png
    :scale: 75 %
    :align: center
    :alt: Gerar Chave de Acesso.
    
    Após esta etapa, o gestor receberá em seu número de telefone cadastrado no Gov.br, um código de autorização para confirmação da assinatura. O gestor deve inserir o código e clicar em Autorizar.
    
-.. image:: _imagens/gerarchave_assinador_gov.br_mensagem_sms.png
+ .. image:: _imagens/gerarchave_assinador_gov.br_mensagem_sms.png
    :scale: 75 %
    :align: center
    :alt: Gerar Chave de Acesso.
    
    Após a autorização, basta clicar em gerar chaves de acesso.
    
-.. image:: _imagens/gerarchave_assinador_gov.br_2.png
+ .. image:: _imagens/gerarchave_assinador_gov.br_2.png
    :scale: 75 %
    :align: center
    :alt: Gerar Chave de Acesso.
    
    Caso o usuário não tenha uma conta nível Prata ou Ouro, no momento da geração da chave será apresentado a tela abaixo para que o mesmo eleve seu nível, caso queira. Clique em "Aumentar Nivel".
    
-    .. image:: _imagens/geracao de chave aumentar nivel.png
+ .. image:: _imagens/geracao de chave aumentar nivel.png
    :scale: 75 %
    :align: center
    :alt: Gerar Chave de Acesso.
    
    Clique em "Autorizar".
    
-    .. image:: _imagens/autorizacao.png
+ .. image:: _imagens/autorizacao.png
    :scale: 75 %
    :align: center
    :alt: Gerar Chave de Acesso.
    
    Escolha para qual nível deseja aumenta, Ouro ou Prata.
    
-    .. image:: _imagens/autorizacao.png
+ .. image:: _imagens/autorizacao.png
    :scale: 75 %
    :align: center
    :alt: Gerar Chave de Acesso.
@@ -255,7 +255,7 @@ As chaves de acesso são as credenciais que as aplicações cadastradas utilizar
    
    Pronto. Sua conta foi aumentada para um maior nível de segurança e a tela voltara para tela inicial, onde poderá gerar as chaves de acesso conforme orientado no passo 4.1 deste manual. 
    
-    .. image:: _imagens/apos mudar o acesso, voltara para pagina principal.png
+ .. image:: _imagens/apos mudar o acesso, voltara para pagina principal.png
    :scale: 75 %
    :align: center
    :alt: Gerar Chave de Acesso.
