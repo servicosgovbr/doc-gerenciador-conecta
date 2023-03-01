@@ -206,35 +206,35 @@ As chaves de acesso são as credenciais que as aplicações cadastradas utilizar
    
   Caso o órgão utilize a Assinatura Eletrônica Gov.br basta selecionar a aplicação cadastrada anteriormente, a API que deseja, selecionar o Certificado Gov.br, clicar em gerar chaves.
  
- .. image:: _imagens/gerarchave_assinador_gov.br.png
+.. image:: _imagens/gerarchave_assinador_gov.br.png
    :scale: 75 %
    :align: center
    :alt: Gerar Chave de Acesso.
    
    Após esta etapa, o gestor receberá em seu número de telefone cadastrado no Gov.br, um código de autorização para confirmação da assinatura. O gestor deve inserir o código e clicar em Autorizar.
    
- .. image:: _imagens/gerarchave_assinador_gov.br_mensagem_sms.png
+.. image:: _imagens/gerarchave_assinador_gov.br_mensagem_sms.png
    :scale: 75 %
    :align: center
    :alt: Gerar Chave de Acesso.
    
    Após a autorização, basta clicar em gerar chaves de acesso.
    
- .. image:: _imagens/gerarchave_assinador_gov.br_2.png
+.. image:: _imagens/gerarchave_assinador_gov.br_2.png
    :scale: 75 %
    :align: center
    :alt: Gerar Chave de Acesso.
    
    Caso o usuário não tenha uma conta nível Prata ou Ouro, no momento da geração da chave será apresentado a tela abaixo para que o mesmo eleve seu nível, caso queira. Clique em "Aumentar Nivel".
    
- .. image:: _imagens/geracao de chave aumentar nivel.png
+.. image:: _imagens/geracao de chave aumentar nivel.PNG
    :scale: 75 %
    :align: center
    :alt: Gerar Chave de Acesso.
    
    Clique em "Autorizar".
    
- .. image:: _imagens/autorizacao.png
+.. image:: _imagens/autorizacao.png
    :scale: 75 %
    :align: center
    :alt: Gerar Chave de Acesso.
@@ -246,7 +246,7 @@ As chaves de acesso são as credenciais que as aplicações cadastradas utilizar
    :align: center
    :alt: Gerar Chave de Acesso.
    
-   Sera enviado um codigo de confiramação via SMS para o o telefone cadastrado ou uma mensagem de validação para o e-mail. Confirme o código na plataforma.
+   Será enviado um codigo de confiramação via SMS para o o telefone cadastrado ou uma mensagem de validação para o e-mail. Confirme o código na plataforma.
    
     .. image:: _imagens/Escolha o nivel que deseja aumentar.png
    :scale: 75 %
