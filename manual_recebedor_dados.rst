@@ -204,7 +204,7 @@ As chaves de acesso são as credenciais que as aplicações cadastradas utilizar
 
    O gestor do órgão poderá optar por assinar o Termo de Responsabilidade de duas formas. A primeira será utilizando a Assinatura Eletrônica Gov.br, e a segunda será utilizando um Certificado Digital ICP-Brasil e-CPF.
    
-  Caso o órgão utilize a Assinatura Eletrônica Gov.br basta selecionar a aplicação cadastrada anteriormente, a API que deseja, selecionar o Certificado Gov.br, clicar em gerar chaves.
+	Caso o órgão utilize a Assinatura Eletrônica Gov.br basta selecionar a aplicação cadastrada anteriormente, a API que deseja, selecionar o Certificado Gov.br, clicar em gerar chaves.
  
 .. image:: _imagens/gerarchave_assinador_gov.br.png
    :scale: 75 %
@@ -259,7 +259,8 @@ As chaves de acesso são as credenciais que as aplicações cadastradas utilizar
    :scale: 75 %
    :align: center
    :alt: Gerar Chave de Acesso.
-   
+
+.. attention::
    	Para a API CPF Light, CND e CNPJ a geração das credenciais continuam sendo somente por meio do Certificado Digital ICP-Brasil e-CPF.
  
    	Caso o órgão utilize o Certicado digital ICP-Brasil para assinatura do Termo de Responsbilidade, o Portal do Gestor identificará automaticamente se o Assinador Digital SERPRO está instalado. Caso não tenha sido efetuada a instalação, a tela para gerar chaves de acesso apresenta as orientações para tanto.
