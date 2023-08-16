@@ -206,7 +206,7 @@ As chaves de acesso são as credenciais que as aplicações cadastradas utilizar
    
   Caso o órgão utilize a Assinatura Eletrônica Gov.br basta selecionar a aplicação cadastrada anteriormente, a API que deseja, selecionar o Certificado Gov.br, clicar em gerar chaves.
  
- .. image:: _imagens/gerarchave_assinador_gov.br.png
+.. image:: _imagens/gerarchave_assinador_gov.br.png
    :scale: 75 %
    :align: center
    :alt: Gerar Chave de Acesso.
@@ -241,21 +241,21 @@ As chaves de acesso são as credenciais que as aplicações cadastradas utilizar
    
    Escolha para qual nível deseja aumenta, Ouro ou Prata.
    
- .. image:: _imagens/Escolha o nivel que deseja aumentar.PNG
+.. image:: _imagens/Escolha o nivel que deseja aumentar.PNG
    :scale: 75 %
    :align: center
    :alt: Gerar Chave de Acesso.
    
    Será enviado um codigo de confiramação via SMS para o o telefone cadastrado ou uma mensagem de validação para o e-mail. Confirme o código na plataforma.
    
-    .. image:: _imagens/gerarchave_assinador_gov.br_mensagem_sms.png
+.. image:: _imagens/gerarchave_assinador_gov.br_mensagem_sms.png
    :scale: 75 %
    :align: center
    :alt: Gerar Chave de Acesso.
    
    Pronto. Sua conta foi aumentada para um maior nível de segurança e a tela voltara para tela inicial, onde poderá gerar as chaves de acesso conforme orientado no passo 4.1 deste manual. 
    
- .. image:: _imagens/apos mudar o acesso, voltara para pagina principal.PNG
+.. image:: _imagens/apos mudar o acesso, voltara para pagina principal.PNG
    :scale: 75 %
    :align: center
    :alt: Gerar Chave de Acesso.
@@ -274,14 +274,14 @@ As chaves de acesso são as credenciais que as aplicações cadastradas utilizar
   Com o Assinador Digital SERPRO instalado, o Gestor do Órgão poderá prosseguir com a geração da chave. 
   Primeiramente, deve selecionar a aplicação para a qual deseja gerar uma chave de acesso, cadastrada anteriormente.
 
-  .. image:: _imagens/gerarchave_3.png
+.. image:: _imagens/gerarchave_3.png
    :scale: 75 %
    :align: center
    :alt: Gerar Chave de Acesso.
   
   Em seguida, deve selecionar a API que deseja acessar. Apenas APIs cujo Gestor do Órgão tem autorização são apresentadas para seleção.
   
-  .. image:: _imagens/gerarchave_4.png
+.. image:: _imagens/gerarchave_4.png
    :scale: 75 %
    :align: center
    :alt: Gerar Chave de Acesso.
@@ -295,7 +295,7 @@ As chaves de acesso são as credenciais que as aplicações cadastradas utilizar
   
   O Gestor do Órgão encaminha as chaves de acesso para o responsável técnico pelo sistema recebedor da API que deverá fazer a implementação necessária para acessar a mesma.
   
-  .. image:: _imagens/gerarchave_5.png
+.. image:: _imagens/gerarchave_5.png
    :scale: 75 %
    :align: center
    :alt: Gerar Chave de Acesso.
