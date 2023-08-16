@@ -266,7 +266,7 @@ As chaves de acesso são as credenciais que as aplicações cadastradas utilizar
  
    Caso o órgão utilize o Certicado digital ICP-Brasil para assinatura do Termo de Responsbilidade, o Portal do Gestor identificará automaticamente se o Assinador Digital SERPRO está instalado. Caso não tenha sido efetuada a instalação, a tela para gerar chaves de acesso apresenta as orientações para tanto.
 
-  .. image:: _imagens/gerarchave_2.png
+.. image:: _imagens/gerarchave_2.png
    :scale: 75 %
    :align: center
    :alt: Gerar Chave de Acesso.
