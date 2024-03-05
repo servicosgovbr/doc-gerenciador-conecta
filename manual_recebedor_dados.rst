@@ -35,6 +35,7 @@ Manual do Recebedor de Dados
       -  `Roteiro para geração das chaves de acesso <#roteiro-geracao-chaves-acesso>`__
       -  `Cadastre as Aplicações <#cadastre-as-aplicacoes>`__
       -  `Geração das Chaves de Acesso <#geracao-chaves-acesso>`__
+      -  `Declaração de Consumo das APIS <#roteiro-declaracao-consumo>`__
 
 .. _roteiro-geracao-chaves-acesso:
 
@@ -323,6 +324,61 @@ As chaves de acesso são as credenciais que as aplicações cadastradas utilizar
     - CPF do usuário que realizou a consulta;
     - Data e hora da transação e resultado da consulta retornada.
 
+.. _roteiro-declaracao-consumo:
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+   6. Declaração de Consumo
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+   O gestor do órgão poderá optar por assinar o Termo de Responsabilidade de duas formas. A primeira será utilizando a Assinatura Eletrônica Gov.br, e a segunda será utilizando um Certificado Digital ICP-Brasil e-CPF.
+ 
+.. image:: _imagens/declaracao-consumo-01.png
+   :scale: 75 %
+   :align: center
+   :alt: Gerar Chave de Acesso Gov br.
+   
+   Após esta etapa, o gestor receberá em seu número de telefone cadastrado no Gov.br, um código de autorização para confirmação da assinatura. O gestor deve inserir o código e clicar em Autorizar.
+   
+.. image:: _imagens/declaracao-consumo-02.png
+   :scale: 75 %
+   :align: center
+   :alt: Gerar Chave de Acesso.
+   
+   Após a autorização, basta clicar em gerar chaves de acesso.
+   
+.. image:: _imagens/declaracao-consumo-03.png
+   :scale: 75 %
+   :align: center
+   :alt: Gerar Chave de Acesso.
+   
+   Caso o usuário não tenha uma conta nível Prata ou Ouro, no momento da geração da chave será apresentado a tela abaixo para que o mesmo eleve seu nível, caso queira. Clique em "Aumentar Nivel".
+   
+.. image:: _imagens/declaracao-consumo-04.png
+   :scale: 75 %
+   :align: center
+   :alt: Gerar Chave de Acesso.
+   
+   Clique em "Autorizar".
+
+.. image:: _imagens/declaracao-consumo-05.png
+   :scale: 75 %
+   :align: center
+   :alt: Gerar Chave de Acesso.
+   
+   Clique em "Autorizar".
+
+.. image:: _imagens/declaracao-consumo-06.png
+   :scale: 75 %
+   :align: center
+   :alt: Gerar Chave de Acesso.
+
+   Clique em "Autorizar".
+
+.. image:: _imagens/declaracao-consumo-07.png
+   :scale: 75 %
+   :align: center
+   :alt: Gerar Chave de Acesso.
+   
 .. comments
      ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
         6. Aspectos relacionados à LGPD para o Recebedor de Dados
