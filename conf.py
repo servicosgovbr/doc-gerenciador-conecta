@@ -78,7 +78,7 @@ html_favicon = u'http://www.gov.br/governodigital/++theme++padrao_govbr/favicons
 
 html_logo = u'_imagens/logo_conecta.png'
 
-html_theme = "sphinx_rtd_theme"
+# html_theme = "sphinx_rtd_theme"
 
 # html_theme_options = {
 #    'analytics_id': 'UA-XXXXXXX-1',  #  Provided by Google in your dashboard

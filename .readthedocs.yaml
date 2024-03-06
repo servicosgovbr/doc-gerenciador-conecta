@@ -9,8 +9,8 @@ build:
   os: ubuntu-22.04
   tools:
     python: "3.12"
-  commands:
-    - pip install sphinx-rtd-theme
+#  commands:
+#    - pip install sphinx-rtd-theme
     # You can also specify other tool versions:
     # nodejs: "20"
     # rust: "1.70"
