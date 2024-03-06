@@ -21,7 +21,7 @@
 
 # Project name
 project = u'Gerenciador de APIs do Conecta'
-copyright = u'2021, gov.br conecta'
+copyright = u'2024, gov.br conecta'
 author = u'gov.br'
 
 # The short X.Y version
