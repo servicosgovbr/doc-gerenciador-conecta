@@ -330,73 +330,67 @@ As chaves de acesso são as credenciais que as aplicações cadastradas utilizar
    6. Declaração de Consumo
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-  O gestor do órgão poderá optar por assinar consultar e assinar as declarações de consumo diretamente pelo gerenciador de API do Conecta.
+O gestor do órgão poderá optar por assinar consultar e assinar as declarações de consumo diretamente pelo gerenciador de API do Conecta.
    
-  No Menu Administração, selecionar Declaração de Consumo e Listar Declaração de Consumo.
+No Menu Administração, selecionar Declaração de Consumo e Listar Declaração de Consumo.
 
 .. image:: _imagens/declaracao_consumo_01.png
-//   :scale: 75 %
-//   :align: center
-//   :alt: Menu declaração de consumo.
+   :scale: 75 %
+   :align: center
+   :alt: Menu declaração de consumo.
    
-  Seleciona a “Situação do Ateste” e a “API” desejada.
+Seleciona a “Situação do Ateste” e a “API” desejada.
    
-  Os atestes com situação “Pendente” são os que o gestor ainda não fez o ateste usando a funcionalidade da Plataforma de Gestão.
+Os atestes com situação “Pendente” são os que o gestor ainda não fez o ateste usando a funcionalidade da Plataforma de Gestão.
    
-  Aciona o botão Pesquisar.
+Aciona o botão Pesquisar.
    
-  O sistema lista todas as declarações de consumo pendentes de ateste.
+O sistema lista todas as declarações de consumo pendentes de ateste.
    
 .. image:: _imagens/declaracao_consumo_02.png
    :scale: 75 %
    :align: center
    :alt: Listar declaração de consumo.
    
-  Na coluna Ação o usuário pode acionar a opção de visualizar o relatório.
+Na coluna Ação o usuário pode acionar a opção de visualizar o relatório.
    
-  O sistema gera um relatório PDF e faz o download para o computador do usuário.
+O sistema gera um relatório PDF e faz o download para o computador do usuário.
    
 .. image:: _imagens/declaracao_consumo_03.png
    :scale: 75 %
    :align: center
    :alt: Visualizar relatório da declaração de consumo.
    
-  Na coluna Ação o usuário aciona a opção Atestar Declaração de Consumo.
+Na coluna Ação o usuário aciona a opção Atestar Declaração de Consumo.
    
 .. image:: _imagens/declaracao_consumo_04.png
    :scale: 75 %
    :align: center
    :alt: Atestar declaração de consumo.
    
-  O sistema apresenta a tela com o relatório.
+O sistema apresenta a tela com o relatório.
    
-  Usuário seleciona o tipo de certificado que vai usar para assinar o ateste e em seguida clica no botão Assinar.
+Usuário seleciona o tipo de certificado que vai usar para assinar o ateste e em seguida clica no botão Assinar.
 
 .. image:: _imagens/declaracao_consumo_05.png
    :scale: 75 %
    :align: center
    :alt: Assinar declaração de consumo.
    
-  Neste exemplo o usuário selecionou certificado GOVBR.
+Neste exemplo o usuário selecionou certificado GOVBR.
    
-  Usuário informa o código e aciona o botão Autorizar.
+Usuário informa o código e aciona o botão Autorizar.
    
-  Sistema envia e-mail para os envolvidos(Gestores do órgão cadastrados na Plataforma e SGD) no processo de ateste informando que o ateste foi efetuado.
+Sistema envia e-mail para os envolvidos(Gestores do órgão cadastrados na Plataforma e SGD) no processo de ateste informando que o ateste foi efetuado.
 
 .. image:: _imagens/declaracao_consumo_06.png
    :scale: 75 %
    :align: center
    :alt: Inserir código para autorizar assinatura.
 
-  Sistema retorna para a tela de Declarações de Consumo.
+Sistema retorna para a tela de Declarações de Consumo.
 
 .. image:: _imagens/declaracao_consumo_07.png
    :scale: 75 %
    :align: center
    :alt: Listar declaração de consumo.
-   
-.. comments
-     ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-        6. Aspectos relacionados à LGPD para o Recebedor de Dados
-     ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-     Em construção ...
