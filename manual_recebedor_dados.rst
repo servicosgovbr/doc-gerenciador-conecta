@@ -256,7 +256,7 @@ As chaves de acesso são as credenciais que as aplicações cadastradas utilizar
    
    Pronto. Sua conta foi aumentada para um maior nível de segurança e a tela voltara para tela inicial, onde poderá gerar as chaves de acesso conforme orientado no passo 4.1 deste manual. 
    
-.. image:: _imagens/apos mudar o acesso, voltara para pagina principal.PNG
+.. image:: _imagens/voltar_pagina_principal.png
    :scale: 75 %
    :align: center
    :alt: Gerar Chave de Acesso.
@@ -335,9 +335,9 @@ As chaves de acesso são as credenciais que as aplicações cadastradas utilizar
   No Menu Administração, selecionar Declaração de Consumo e Listar Declaração de Consumo.
 
 .. image:: _imagens/declaracao_consumo_01.png
-   :scale: 75 %
-   :align: center
-   :alt: Menu declaração de consumo.
+//   :scale: 75 %
+//   :align: center
+//   :alt: Menu declaração de consumo.
    
   Seleciona a “Situação do Ateste” e a “API” desejada.
    

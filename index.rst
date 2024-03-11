@@ -21,6 +21,7 @@ Gerenciador de APIs do Conecta
    manual_recebedor_dados.rst
    manual_provedor_dados.rst
    manual_gestor_conecta.rst
+   manual_declaracao_consumo.rst
 
 .. toctree::
    :maxdepth: 3
