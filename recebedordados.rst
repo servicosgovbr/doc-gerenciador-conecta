@@ -57,7 +57,7 @@ O Gerenciador de APIs é ideal para encontrar e para agilizar o consumo de APIs 
 
   Para obter o acesso às APIs gerenciadas pelo Conecta o órgão deverá aderir ao programa Conecta. Para adesão serão solicitadas algumas informações sobre o consumo de dados, a finalidade do uso dos dados (em conformidade com a LGPD), a volumetria estimada anual de consumo das APIs e os representantes do órgão no processo.
 
-  Entre em contato com a `equipe do Conecta`_ para obter mais informações sobre o processo de adesão e o modelo de ofício de adesão.
+  Acesse o [manual](https://docs.google.com/document/d/1a2kTNOZuNgnKAqpztm-quQdB1XO5tDtX/view?tab=t.0) para obter informações detalhadas sobre o processo de adesão e consultar o modelo de ofício.
 
 .. _passo-indique-gestor:
 
